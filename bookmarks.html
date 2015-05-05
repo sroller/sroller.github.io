@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bookmarks</title>
+    <!--Bootstrap -->
+    <!-- link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.0/css/bootstrap-combined.min.css" rel="stylesheet" -->
+    <link id="swatch" href="/bt2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/bt2/css/bootstrap-responsive.min.css" rel="stylesheet">
+    <style type="text/css">
+      h1 {
+        cursor:pointer;
+      }
+      body {
+        margin-left: 10px;
+        margin-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+      }
+      .sidebar-nav {
+        padding: 9px 0;
+      }
+      .row-fluid {
+        margin-bottom: 10px;
+      }
+      .btn {
+        margin-bottom: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page-header"><h1>Bookmarks <span id="stylename"></span></h1>
+    </div>
+    <div class="tabbable tabs-left">
+
+      <ul class="nav nav-tabs">
+        <li class="active"><a href="#first" data-toggle="tab">Quick</a></li>
+        <li><a href="#opentext" data-toggle="tab">Open Text</a></li>
+        <li><a href="#news" data-toggle="tab">News</a></li>
+        <li><a href="#weather" data-toggle="tab">Weather</a></li>
+        <li><a href="#sport" data-toggle="tab">Sport</a></li>
+        <li><a href="#finance" data-toggle="tab">Finance</a></li>
+        <li><a href="#social" data-toggle="tab">Social</a></li>
+        <li><a href="#training" data-toggle="tab">Lernen</a></li>
+        <li><a href="#travel" data-toggle="tab">Travel</a></li>
+        <li><a href="#misc" data-toggle="tab">Miscellaneous</a></li>
+        <li><a href="#bitcoins" data-toggle="tab">Bitcoin</a></li>
+      </ul>
+
+      <div class="tab-content">
+        <div class="active tab-pane" id="first">
+          <div class="row-fluid">
+              <button class="btn btn-large btn-primary span2" onclick="window.open('http://mail.google.com/mail');">Google Mail</button>
+              <button class="btn btn-large btn span2" onclick="window.open('https://google.com', 'google');">Google</button>
+              <button class="btn btn-large btn span2" onclick="window.open('https://mail.google.com/mail/h/?v=cl', 'contacts');">Contacts</button>
+              <button class="btn btn-large btn span2" onclick="window.open('http://trello.com', 'trello');">Trello</button>
+          </div>
+          <div class="row-fluid">
+              <button class="btn btn-large btn span2" onclick="window.open('http://www.readability.com/scooter_de', 'arc90');">Readability</button>
+              <button class="btn btn-large btn span2" onclick="window.open('http://www.instapaper.com', 'instapaper');">Instapaper</button>
+              <button class="btn btn-large btn span2" onclick="window.open('http://feedly.com', 'trello');">Feedly</button>
+          </div>
+          <div class="row-fluid">
+              <button class="btn btn-large btn span2" onclick="window.open('http://time.gov/HTML5/', 'time');">Time</button>
+              <button class="btn btn-large btn span2" onclick="window.open('http://www.overleaf.com', 'overleaf');">Overleaf (LaTeX)</button>
+          </div>
+          <div class="row-fluid">
+              <button class="btn btn-large btn span2" onclick="window.open('http://www.ixquick.com', 'startpage');">Ixquick</button>
+              <button class="btn btn-large btn span2" onclick="window.open('http://www.startpage.com', 'startpage');">Startpage</button>
+          </div>
+        </div>
+
+        <div class="tab-pane" id="opentext">
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://central.opentext.com');">OTCi</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.opentext.com');">Opentext.com</button>
+            <button class="btn btn-large span2" onclick="window.open('http://intranet.opentext.com');">Ollie</button>
+            <button class="btn btn-large span2" onclick="window.open('http://social.opentext.com');">Tempo Social</button>
+            <button class="btn btn-large span2" onclick="window.open('http://tv.opentext.com');">Open Text TV</button>
+          </div>
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('https://jira.opentext.com');">JIRA</button>
+            <button class="btn btn-large span2" onclick="window.open('https://confluence.opentext.com');">Confluence</button>
+            <button class="btn btn-large span2" onclick="window.open('https://knowledge.opentext.com');">KC</button>
+          </div>
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://cspatchdb.lab.opentext.com/');">Patch Administration</button>
+            <button class="btn btn-large span2" onclick="window.open('http://dailybuild.opentext.net');">DBV</button>
+            <button class="btn btn-large span2" onclick="window.open('https://vlmwl.lab.opentext.com');">LabManager</button>
+          </div>
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://employeeselfservice.opentext.com/');">ESS &amp; MSS</button>
+            <button class="btn btn-large span2" onclick="window.open('https://successfactors.opentext.com');">Successfactors</button>
+          </div>
+        </div>
+
+
+        <div class="tab-pane" id="news">
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://www.spiegel.de');">Der Spiegel</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.faz.net');">FAZ</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.welt.de');">Die Welt</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.zeit.de');">Die Zeit</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.nzz.ch');">Neue Z&uuml;rcher Zeitung</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.lto.de');">Legal Tribune Online</button>
+          </div>
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://www.theglobeandmail.com');">The Globe and Mail</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.macleans.ca');">MacLeans</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.economist.co.uk');">Economist</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.nytimes.com');">New York Times</button>
+          </div>
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://www.yacht.de');">Yacht</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.capital.de');">Capital</button>
+          </div>
+        </div>
+
+        <div class="tab-pane" id="finance">
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('/ticker.html');">Ticker</button>
+            <button class="btn btn-large span2" onclick="window.open('https://www.google.com/finance');">Google Finance</button>
+          </div>
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://www.mauldineconomics.com');">John Mauldin</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.onvista.de');">OnVista</button>
+            <button class="btn btn-large span2" onclick="window.open('http://de.finance.yahoo.com');">YAHOO! Finance (Deutschland)</button>
+            <button class="btn btn-large span2" onclick="window.open('http://ca.finance.yahoo.com');">YAHOO! Finance (Canada)</button>
+            <button class="btn btn-large span2" onclick="window.open('http://finance.yahoo.com');">YAHOO! Finance (US)</button>
+
+          </div>
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('https://www.txn.banking.pcfinancial.ca');">PC Financial</button>
+            <button class="btn btn-large span2" onclick="window.open('https://www.cibc.com/ca/personal.html');">CIBC</button>
+            <button class="btn btn-large span2" onclick="window.open('https://www.comdirect.de');">Comdirect bank</button>
+            <button class="btn btn-large span2" onclick="window.open('https://quirinbank.secure-banking.de');">Quirinbank</button>
+            <button class="btn btn-large span2" onclick="window.open('https://www.dab-bank.de');">Direkt Anlage Bank</button>
+            <button class="btn btn-large span2" onclick="window.open('https://iqessential.questrade.com');">Questrade</button>
+          </div>
+        </div>
+        <div class="tab-pane" id="bitcoins">
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('https://mining.bitcoin.cz');">Slush's Pool</button>
+            <button class="btn btn-large span2" onclick="window.open('https://www.coinotron.com');">Coinotron</button>
+
+          </div>
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('https://www.bitaddress.org');">Bitaddress</button>
+            <button class="btn btn-large span2" onclick="window.open('https://bitcoinpaperwallet.com');">Paperwallet</button>
+            <button class="btn btn-large span2" onclick="window.open('https://www.bctip.org');">BTC Tip</button>
+          </div>
+        </div>
+
+        <div class="tab-pane" id="sport">
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://www.endomondo.com');">Endomondo</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.nfl.com');">NFL</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.nhl.com');">NHL</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.nba.com');">NBA</button>
+          </div>
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://www.lauftagebuch.de');">Lauftagebuch</button>
+            <button class="btn btn-large span2" onclick="window.open('pace.html');">Pace Calculator</button>
+          </div>
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://www.ausgeruestet.com');">Ausger&uuml;stet</button>
+          </div>
+        </div>
+
+        <div class="tab-pane" id="social">
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://www.facebook.com');">Facebook</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.twitter.com');">Twitter</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.linkedin.com');">LinkedIn</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.xing.de');">Xing</button>
+          </div>
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://meta.discourse.org');">Discourse</button>
+            <button class="btn btn-large span2" onclick="window.open('http://disqus.com');">Disqus</button>
+          </div>
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://www.amazon.com');">Amazon</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.shopbot.ca');">Shopbot</button>
+          </div>
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://www.snopes.com/');">Snopes</button>
+            <button class="btn btn-large btn span2" onclick="window.open('http://www.wolframalpha.com');">Wolfram &alpha;</button>
+            <button class="btn btn-large btn span2" onclick="window.open('http://www.tumblr.com');">Tumblr</button>
+          </div>
+        </div>
+
+        <div class="tab-pane" id="weather">
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://forecast.io/#/f/43.4294,-80.4097');">Forecast</button>
+            <button class="btn btn-large span2" onclick="window.open('http://weather.uwaterloo.ca');">UW Weather Station</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.weatheroffice.gc.ca/city/pages/on-82_metric_e.html');">Environment Canada</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.weatheroffice.gc.ca/radar/index_e.html?id=WSO');">Radar</button>
+          </div>
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://www.accuweather.com');">AccuWeather</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.wunderground.com');">Weather Underground</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.noaa.gov');">NOAA</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.openweathermap.org');">Open Weather Map</button>
+          </div>
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://www.wunderground.com/personal-weather-station/dashboard?ID=IONTARIO745');">Kitchener - Alpine Village</button>
+          </div>
+        </div>
+
+        <div class="tab-pane" id="training">
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://www.codeacademy.com');">CodeAcademy</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.khanacademy.org');">KhanAcademy</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.tutsplus.com');">Tuts+</button>
+          </div>
+          <div class="row-fluid">
+            <a class="btn btn-large span2" href="/location.html">Location</a>
+            <a class="btn btn-large span2" href="/portfolio">Portfolio</a>
+          </div>
+        </div>
+
+        <div class="tab-pane" id="misc">
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://www.hartwork.org/beamer-theme-matrix');">Beamer Themes</button>
+            <a class="btn btn-large span2" href="/login">Login</a>
+            <a class="btn btn-large span2" href="/logout">Logout</a>
+            <a class="btn btn-large span2" href="/hello">Hello</a>
+            <a class="btn btn-large span2" href="/bt2/index.html">Bootstrap 2</a>
+          </div>
+        </div>
+        <div class="tab-pane" id="travel">
+          <div class="row-fluid">
+            <button class="btn btn-large span2" onclick="window.open('http://flightstats.com');">FlightStats</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.tripadvisor.ca');">Tripadvisor</button>
+            <button class="btn btn-large span2" onclick="window.open('http://www.parksleepfly.ca');">ParkSleepFly</button>
+          </div>
+        </div>
+
+
+      </div>
+    </div><!-- tabbable -->
+
+
+    <script src="//code.jquery.com/jquery-latest.js"></script>
+    <!-- script src="/bt2/js/bootstrap.min.js"></script -->
+    <script src="//netdna.bootstrapcdn.com/bootstrap/2.3.0/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+      var styles = ['amelia', 'cerulean', 'cosmo', 'cyborg', 'journal', 'readable',
+          'simplex', 'slate', 'spacelab', 'spruce', 'superhero', 'united'];
+
+      function set_theme(index) {
+        var link = $('#swatch');
+
+        style = "//netdna.bootstrapcdn.com/bootswatch/2.3.0/" + styles[index] + "/bootstrap.min.css";
+        $('#stylename').html("<small>(" + styles[index] + ")</small>");
+         link.attr('href', style);
+      };
+
+      (function(){
+       var index = Math.floor(Math.random() * styles.length);
+       set_theme(index);
+       $("h1").on('click', (function(){
+         index = index + 1;
+         if (index >= styles.length) {
+           index = 0;
+         }
+         set_theme(index);
+         }));
+       })();
+    
+    </script>
+  </body>
+</html>
+
+
