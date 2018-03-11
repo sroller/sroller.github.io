@@ -1,5 +1,6 @@
 # Tent Makers
-* Tarptent
+
+* [Tarptent](www.tarptent.com)
 * Hilleberg
 * MSR
 * Six Moon Designs
