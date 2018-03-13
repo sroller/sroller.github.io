@@ -2,6 +2,6 @@
 
 the old index page is under [index-old.html](index-old.html)
 
-[Tentmakers](tents.md)
-[Ruby](ruby.md)
-[Webservices](webservices.md)
+* [Tentmakers](tents.md)
+* [Ruby](ruby.md)
+* [Webservices](webservices.md)
