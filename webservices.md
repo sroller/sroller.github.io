@@ -1,4 +1,4 @@
 # List of web services
 
-* [Lonely Page](www.lonelypage.io)
+* [Lonely Page](https://www.lonelypage.io)
 
