@@ -1,4 +1,10 @@
 # Tools
 
-* [Pastebin](https://pastebin.com)
+* [Pastebin]
+* [Repl.it]
+* [github]
+
+[Pastebin]: (https://pastebin.com)
+[repl.it]: (https://repl.it)
+[github]: (https://github.com/sroller)
 
