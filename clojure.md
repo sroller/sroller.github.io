@@ -7,6 +7,6 @@
 * [Compojure]
 * [Cryogen]
 
-[Luminus]: https://www.luminusweb.net
+[Luminus]: http://www.luminusweb.net
 [Compojure]: https://github.com/weavejester/compojure
-[Cryogen]: https://cryogenweb.org
+[Cryogen]: http://cryogenweb.org
