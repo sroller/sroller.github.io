@@ -5,6 +5,6 @@
 * [github]
 
 [Pastebin]: https://pastebin.com
-[repl.it]: https://repl.i)
+[repl.it]: https://repl.it
 [github]: https://github.com/sroller
 
