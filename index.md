@@ -21,3 +21,4 @@ the old index page is under [index-old.html](html/index-old.html)
 ## Outdoors
 * [Tentmakers](tents.md)
 * [Prepping](prepping.md)
+* [Navigation](navigation.md)
