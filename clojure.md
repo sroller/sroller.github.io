@@ -13,6 +13,7 @@
 
 # documentations
 * [Grimoire] - Community Clojure Documentation
+* [Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
 
 [Grimoire]: https://www.conj.io
 
