@@ -7,6 +7,7 @@ the old index page is under [index-old.html](html/index-old.html)
 * [Tools](tools.md)
 * [Webservices](webservices.md)
 * [News](news.md)
+* [Social](social.md)
 
 ## Programming
 ### Languages
