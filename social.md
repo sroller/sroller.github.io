@@ -2,10 +2,11 @@
 
 ## English
 
-* [Facebook}(https://mbasic.facebook.com)
+* [Stackexchange](https://www.stackexchange.com)
+* [Facebook](https://mbasic.facebook.com)
 * [LinkedIn](https://www.linkedin.com)
 * [Twitter](https://twitter.com)
-* [Pinterest](https://www.pinteres.com)
+* [Pinterest](https://www.pinterest.com)
 * [Instagram](https://www.instagram.com)
 * [Tumblr](https://www.tumblr.com)
 
