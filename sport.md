@@ -12,6 +12,6 @@
 
 * [K2O] Kingston to Ottawa - 200 km on the Rideau Canal System
 
-[K2O]: https://kingston2ottawa.ca
+[K2O]: http://kingston2ottawa.ca
 
 ## Outdoor
