@@ -6,10 +6,12 @@
 * [Luminus]
 * [Compojure]
 * [Cryogen]
+* [Boot]
 
 [Luminus]: http://www.luminusweb.net
 [Compojure]: https://github.com/weavejester/compojure
 [Cryogen]: http://cryogenweb.org
+[Boot]: https://github.com/boot-clj/boot
 
 # documentations
 * [Grimoire] - Community Clojure Documentation
