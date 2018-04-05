@@ -21,6 +21,10 @@
 
 # other LISPs
 * [Portacle] - A portable Common Lisp Development Environment
+* [ChrysaLisp] - Assembler/C-Script/Lisp 64 bit OS. MIMD, multi CPU, multi threaded, multi core, multi user.
+* [BuildYourOwnLisp] - Build your own LISP in C
 
 [Portacle]: https://portacle.github.io
+[ChrysaLisp]: https://github.com/vygr/ChrysaLisp
+[BuildYourOwnLisp]: http://buildyourownlisp.com
 
