@@ -17,10 +17,12 @@
 * [Grimoire] - Community Clojure Documentation
 * [CDS] - Clojure Documentation Site
 * [Design Patterns]
+* [Venantius] - blog
 
 [Design Patterns]: http://mishadoff.com/blog/clojure-design-patterns
 [CDS]: http://clojure-doc.org/
 [Grimoire]: https://www.conj.io
+[Venantius]: http://blog.venanti.us/clojure-vim/
 
 # other LISPs
 * [Portacle] - A portable Common Lisp Development Environment
