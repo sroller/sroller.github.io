@@ -5,3 +5,14 @@
 
 * [Quartz](https://qz.com)
 
+## Science
+* [Nautilus]
+* [Aeon]
+* [Undark]
+* [Quanta]
+
+[Nautilus]: https://nautil.us
+[Aeon]: https://aeon.co
+[Undark]: https://undark.org
+[Quanta]:  https://www.quantamagazine.org
+
