@@ -1,8 +1,7 @@
 # welcome to markdown written github.io pages
 
+# [Grin](grin)project
 the old index page is under [index-old.html](html/index-old.html)
-
-
 
 * [Tools](tools.md)
 * [Webservices](webservices.md)
