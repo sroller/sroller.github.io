@@ -1,0 +1,144 @@
+	<!DOCTYPE html5>
+	<html>
+	<head>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<title>Station: Blair WQ Station</title>
+	</head>
+	<body>
+	<h1>Blair WQ Station</h1>
+	<form action="http://kiwis.grandriver.ca/KiWIS/KiWIS?service=kisters&type=queryServices&request=gettimeseriesvalues&datasource=0&format=html&header=true">
+		<input type="hidden" name="service" value="kisters">
+		<input type="hidden" name="type" value="queryServices">
+		<input type="hidden" name="request" value="getTimeSeriesValues">
+		<input type="hidden" name="datasource" value="0">
+		<input type="hidden" name="header" value="true">
+		<input type="hidden" name="format" value="html">
+		<div class="form-row">
+			<div class="col-sm-2">
+				<input type="date" class="form-control" name="from" value="2018-04-24"><br />
+			</div>
+			<div class="col-sm-2">
+				<input type="date" class="form-control" name="to" value="2018-04-25"><br />
+			</div>
+			<div class="col-sm-2">
+				<input type="submit" class="form-control" value="Send">
+			</div>
+		</div>
+		<hr />
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-10241042" value="10241042" checked>
+			
+			<label class="form-check-label" for="id-10241042">
+  temperature, water (01.GRCA.DPU.NRT.SCADA.TW.ADJ)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-10376042" value="10376042" >
+			
+			<label class="form-check-label" for="id-10376042">
+  Water conductance (01.GRCA.DPU.NRT.SCADA.WC.ADJ)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-10991042" value="10991042" >
+			
+			<label class="form-check-label" for="id-10991042">
+  water temperature (01.GRCA.DPU.NRT.SCADA.WT.ADJ)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-11577042" value="11577042" >
+			
+			<label class="form-check-label" for="id-11577042">
+  Water, pH value (07.NRT.PRODUCTION.HOURLY)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-12141042" value="12141042" >
+			
+			<label class="form-check-label" for="id-12141042">
+  Water, dissolved oxygen (07.NRT.PRODUCTION)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-16158042" value="16158042" >
+			
+			<label class="form-check-label" for="id-16158042">
+  temperature, water (02.NRT.ADJ)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-16159042" value="16159042" >
+			
+			<label class="form-check-label" for="id-16159042">
+  temperature, water (07.NRT.PRODUCTION.HOURLY)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-16160042" value="16160042" >
+			
+			<label class="form-check-label" for="id-16160042">
+  temperature, water (08.NRT.PUBLISHED)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-16384042" value="16384042" >
+			
+			<label class="form-check-label" for="id-16384042">
+  water temperature (02.NRT.ADJ)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-16385042" value="16385042" >
+			
+			<label class="form-check-label" for="id-16385042">
+  water temperature (03.NRT.E)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-16386042" value="16386042" >
+			
+			<label class="form-check-label" for="id-16386042">
+  water temperature (07.NRT.PRODUCTION.HOURLY)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-16387042" value="16387042" >
+			
+			<label class="form-check-label" for="id-16387042">
+  water temperature (08.NRT.PUBLISHED)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-16388042" value="16388042" >
+			
+			<label class="form-check-label" for="id-16388042">
+  Water, pH value (02.NRT.ADJ)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-16390042" value="16390042" >
+			
+			<label class="form-check-label" for="id-16390042">
+  Water, pH value (08.NRT.PUBLISHED)
+			</label>
+		</div>
+		
+	</div>
+	</form>
+	</body>
+	</html>

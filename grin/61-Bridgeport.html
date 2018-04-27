@@ -1,0 +1,80 @@
+	<!DOCTYPE html5>
+	<html>
+	<head>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<title>Station: Bridgeport</title>
+	</head>
+	<body>
+	<h1>Bridgeport</h1>
+	<form action="http://kiwis.grandriver.ca/KiWIS/KiWIS?service=kisters&type=queryServices&request=gettimeseriesvalues&datasource=0&format=html&header=true">
+		<input type="hidden" name="service" value="kisters">
+		<input type="hidden" name="type" value="queryServices">
+		<input type="hidden" name="request" value="getTimeSeriesValues">
+		<input type="hidden" name="datasource" value="0">
+		<input type="hidden" name="header" value="true">
+		<input type="hidden" name="format" value="html">
+		<div class="form-row">
+			<div class="col-sm-2">
+				<input type="date" class="form-control" name="from" value="2018-04-24"><br />
+			</div>
+			<div class="col-sm-2">
+				<input type="date" class="form-control" name="to" value="2018-04-25"><br />
+			</div>
+			<div class="col-sm-2">
+				<input type="submit" class="form-control" value="Send">
+			</div>
+		</div>
+		<hr />
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-8665042" value="8665042" checked>
+			
+			<label class="form-check-label" for="id-8665042">
+  waterflow (07.NRT.PRODUCTION.HOURLY)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-12237042" value="12237042" >
+			
+			<label class="form-check-label" for="id-12237042">
+  height, river stage (07.NRT.PRODUCTION.HOURLY)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-17930042" value="17930042" >
+			
+			<label class="form-check-label" for="id-17930042">
+  W-NO3 (01.GRCA.LOGGER.NRT.SODA.W-NO3)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-17931042" value="17931042" >
+			
+			<label class="form-check-label" for="id-17931042">
+  W-NO3 (03.NRT.E)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-17932042" value="17932042" >
+			
+			<label class="form-check-label" for="id-17932042">
+  W-NO3 (07.NRT.PRODUCTION)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-17933042" value="17933042" >
+			
+			<label class="form-check-label" for="id-17933042">
+  W-NO3 (03.NRT.E.TEST)
+			</label>
+		</div>
+		
+	</div>
+	</form>
+	</body>
+	</html>

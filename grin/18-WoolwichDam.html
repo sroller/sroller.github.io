@@ -1,0 +1,136 @@
+	<!DOCTYPE html5>
+	<html>
+	<head>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<title>Station: Woolwich Dam</title>
+	</head>
+	<body>
+	<h1>Woolwich Dam</h1>
+	<form action="http://kiwis.grandriver.ca/KiWIS/KiWIS?service=kisters&type=queryServices&request=gettimeseriesvalues&datasource=0&format=html&header=true">
+		<input type="hidden" name="service" value="kisters">
+		<input type="hidden" name="type" value="queryServices">
+		<input type="hidden" name="request" value="getTimeSeriesValues">
+		<input type="hidden" name="datasource" value="0">
+		<input type="hidden" name="header" value="true">
+		<input type="hidden" name="format" value="html">
+		<div class="form-row">
+			<div class="col-sm-2">
+				<input type="date" class="form-control" name="from" value="2018-04-24"><br />
+			</div>
+			<div class="col-sm-2">
+				<input type="date" class="form-control" name="to" value="2018-04-25"><br />
+			</div>
+			<div class="col-sm-2">
+				<input type="submit" class="form-control" value="Send">
+			</div>
+		</div>
+		<hr />
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-11402042" value="11402042" checked>
+			
+			<label class="form-check-label" for="id-11402042">
+  height, lake above specific datum (07.NRT.PRODUCTION.HOURLY)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-11610042" value="11610042" >
+			
+			<label class="form-check-label" for="id-11610042">
+  height, lake above specific datum (Lower.RuleCurve.RollOut)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-11612042" value="11612042" >
+			
+			<label class="form-check-label" for="id-11612042">
+  height, lake above specific datum (Upper.RuleCurve.RollOut)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-11650042" value="11650042" >
+			
+			<label class="form-check-label" for="id-11650042">
+  lake storage (07.NRT.PRODUCTION.HOURLY)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-12653042" value="12653042" >
+			
+			<label class="form-check-label" for="id-12653042">
+  discharge, computed total project outflow (07.NRT.PRODUCTION.HOURLY)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-14210042" value="14210042" >
+			
+			<label class="form-check-label" for="id-14210042">
+  lake storage (cms.days.7day)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-14211042" value="14211042" >
+			
+			<label class="form-check-label" for="id-14211042">
+  lake storage (cms.days.full)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-14212042" value="14212042" >
+			
+			<label class="form-check-label" for="id-14212042">
+  lake storage (cms.days.now)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-14213042" value="14213042" >
+			
+			<label class="form-check-label" for="id-14213042">
+  lake storage (runoff.full)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-14214042" value="14214042" >
+			
+			<label class="form-check-label" for="id-14214042">
+  lake storage (slope.uc)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-14235042" value="14235042" >
+			
+			<label class="form-check-label" for="id-14235042">
+  discharge, inflow (07.NRT.PRODUCTION.HOURLY)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-14251042" value="14251042" >
+			
+			<label class="form-check-label" for="id-14251042">
+  lake storage (Upper.RuleCurve.Hourly)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-14252042" value="14252042" >
+			
+			<label class="form-check-label" for="id-14252042">
+  lake storage (Upper.RuleCurve.Hourly.7day)
+			</label>
+		</div>
+		
+	</div>
+	</form>
+	</body>
+	</html>

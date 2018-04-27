@@ -1,0 +1,136 @@
+	<!DOCTYPE html5>
+	<html>
+	<head>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<title>Station: Arthur Climate Station</title>
+	</head>
+	<body>
+	<h1>Arthur Climate Station</h1>
+	<form action="http://kiwis.grandriver.ca/KiWIS/KiWIS?service=kisters&type=queryServices&request=gettimeseriesvalues&datasource=0&format=html&header=true">
+		<input type="hidden" name="service" value="kisters">
+		<input type="hidden" name="type" value="queryServices">
+		<input type="hidden" name="request" value="getTimeSeriesValues">
+		<input type="hidden" name="datasource" value="0">
+		<input type="hidden" name="header" value="true">
+		<input type="hidden" name="format" value="html">
+		<div class="form-row">
+			<div class="col-sm-2">
+				<input type="date" class="form-control" name="from" value="2018-04-24"><br />
+			</div>
+			<div class="col-sm-2">
+				<input type="date" class="form-control" name="to" value="2018-04-25"><br />
+			</div>
+			<div class="col-sm-2">
+				<input type="submit" class="form-control" value="Send">
+			</div>
+		</div>
+		<hr />
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-12250042" value="12250042" checked>
+			
+			<label class="form-check-label" for="id-12250042">
+  temperature, air (07.NRT.PRODUCTION.HOURLY)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-12460042" value="12460042" >
+			
+			<label class="form-check-label" for="id-12460042">
+  precipitation normal (07.NRT.PRODUCTION.HOURLY)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-14286042" value="14286042" >
+			
+			<label class="form-check-label" for="id-14286042">
+  precipitation normal (12hr.Totals)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-14287042" value="14287042" >
+			
+			<label class="form-check-label" for="id-14287042">
+  precipitation normal (1d.Totals)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-14288042" value="14288042" >
+			
+			<label class="form-check-label" for="id-14288042">
+  precipitation normal (2d.Totals)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-14289042" value="14289042" >
+			
+			<label class="form-check-label" for="id-14289042">
+  precipitation normal (3d.Totals)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-14290042" value="14290042" >
+			
+			<label class="form-check-label" for="id-14290042">
+  precipitation normal (3hr.Totals)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-14291042" value="14291042" >
+			
+			<label class="form-check-label" for="id-14291042">
+  precipitation normal (4d.Totals)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-14292042" value="14292042" >
+			
+			<label class="form-check-label" for="id-14292042">
+  precipitation normal (5d.Totals)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-14293042" value="14293042" >
+			
+			<label class="form-check-label" for="id-14293042">
+  precipitation normal (6d.Totals)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-14294042" value="14294042" >
+			
+			<label class="form-check-label" for="id-14294042">
+  precipitation normal (6hr.Totals)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-14295042" value="14295042" >
+			
+			<label class="form-check-label" for="id-14295042">
+  precipitation normal (7d.Totals)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-15526042" value="15526042" >
+			
+			<label class="form-check-label" for="id-15526042">
+  precipitation normal (10.Day.Total)
+			</label>
+		</div>
+		
+	</div>
+	</form>
+	</body>
+	</html>
