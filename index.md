@@ -1,7 +1,6 @@
 # welcome to markdown written github.io pages
 
-# [Grin](grin)project
-the old index page is under [index-old.html](html/index-old.html)
+# the [Grin](grin)-project
 
 * [Tools](tools.md)
 * [Webservices](webservices.md)
@@ -23,3 +22,9 @@ the old index page is under [index-old.html](html/index-old.html)
 * [Tentmakers](tents.md)
 * [Prepping](prepping.md)
 * [Navigation](navigation.md)
+
+## Küche
+* [Rezepte](rezepte.md)
+
+-----
+the old index page is under [index-old.html](html/index-old.html)
