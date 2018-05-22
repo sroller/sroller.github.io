@@ -29,6 +29,7 @@
 * [ChrysaLisp] - Assembler/C-Script/Lisp 64 bit OS. MIMD, multi CPU, multi threaded, multi core, multi user.
 * [BuildYourOwnLisp] - Build your own LISP in C
 * [SBCL] - Steel Bank Common Lisp
+* [PicoLisp]: mature interpreted LISP from Germany
 
 [Portacle]: https://portacle.github.io
 [ChrysaLisp]: https://github.com/vygr/ChrysaLisp
