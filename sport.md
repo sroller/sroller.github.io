@@ -11,6 +11,7 @@
 ### Races
 
 * [K2O] Kingston to Ottawa - 200 km on the Rideau Canal System
+* [Report about the 2018 edition of the race](K2O/2018-report.md)
 * [RiverX]: Muskoka River X, Big East River X in Huntsville, ON
 * [That Dam Hespeler]: Hespeler Millpond, last Sunday in April
 
