@@ -42,11 +42,11 @@ Overall I logged 770 km since March.
 
 ## Food, Hydration
 
-From experiences in 2016 I knew that I wouldn't be very hungry during the race. I prepared "energy balls" from a mix of dates, oatmeal and beet root juice. I also had several 150g bar of marsipan, Clif Bars and Lörabars. My wife bought cookies at Starbucks and Apple Fritter at Tim Hortons during the race.
+From experiences in 2016 I knew that I wouldn't be very hungry during the race. I prepared "energy balls" from a mix of dates, oatmeal and beet root juice. I also had several 150g bars of marsipan, Clif Bars and Lörabars. My wife bought cookies at Starbucks and Apple Fritter at Tim Hortons during the race.
 
 I eat one cookie, the apple fritter, two of the marsipan bars. I forced myself to eat one energy ball at least every 2 hours.
 
-I drank water, coffee, apple juice, coca cola. I have a hydration blatter on the back of my PFD and a [4l MSR Dromedary](https://www.msrgear.com/water/water-storage/dromedary-bags) in the kayak during the long leg to Poonamalie and the _Long Reach_. Throughout the race I probably drank 1.5l coffee, 1l apple juice, 2 cans of coke, 4-5l water.
+I drank water, coffee, apple juice, coca cola. I have a hydration bladder on the back of my PFD and a [4l MSR Dromedary](https://www.msrgear.com/water/water-storage/dromedary-bags) in the kayak during the long leg to Poonamalie and the _Long Reach_. Throughout the race I probably drank 1.5l coffee, 1l apple juice, 2 cans of coke, 4-5l water.
 
 I had problems with heartburn. I'll need to bring Tums or something similar if I'm going to do this again.
 
@@ -62,33 +62,41 @@ I downloaded charts for the GPS from [OpenStreetMap](http://garmin.openstreetmap
 
 Every racer needs a shore crew. You need the best crew you can assemble. I had the best crew _in da world_ :-). My wife, my brother-in-law and one of my wife's nephews helped me along the way. I cannot overstate how important those helpers are. They keep your spirits up, the help you with the portages, they replenish your food and drinks and they will be successful with you. You also don't want to disappoint them! These thoughts help you in your weaks moments.
 
-# Race
-
-## Travel
-
-- Cataraqui Canoe Club in Kingston
-- Dinner
-
 ## Equipment
 
-### boat
-EPIC 18X Sport - fast kayak. Bought it on Kijiji in 2016.
+### Boat
 
-EPIC mid wing full carbon paddle, size 210-220cm from Kayaksport Canada. Werner Cyprus (220cm) as spare paddle from Adventure Guide in Waterloo.
+2016 I paddled the race in my Wilderness System Tempest 170PRO. Back then I noticed how many other racers had EPICs. I decided that if I'd ever come back for the full distance I'd need one too.
 
-### mandatory safety equipment
+I setup an alert on Kijiji. Lo and behold an ad showed up in the Fall of 2016 and I was able to buy a - barely - used boat. I'm now paddling an [EPIC 18X Sport](https://www.epickayaks.com/18x-sport) model 2012. It's the same boat in which Freya Hoffmeister cirumnavigated Australia and two thirds of South America. That should be enough for me.
+
+My paddle is an [EPIC mid wing full carbon paddle](https://www.epickayaks.com/mid-wing-paddle), size 210-220cm from [Kayaksport Canada](http://www.kayaksport.net/) (thank you Dav!). My spare is a [Werner Cyprus](http://wernerpaddles.com/paddles/high-angle/cyprus) (220cm) from [Adventure Guide in Waterloo](http://advguide.com/).
+
+### Mandatory safety equipment
+
+I'm using the following safety equipment:
+
 - [Mocke PFD](https://mockepaddling.com/product/mocke-racer-pfd/) with built-in 1.5l hydration bladder
 - Whistle
 - [NRS Paddle Float](https://www.nrs.com/product/1598/nrs-sea-kayak-paddle-float)
 - 50 feet throw line
 - [Scotty pump](https://www.mec.ca/en/product/4007-257/Pump-13-5%22-with-Float)
 
-### other
-- GPS [Garmin eTrex 20x](https://www.gpscity.ca/garmin-etrex-20x), charts
-- lights: [Black Diamond Spot](https://www.blackdiamondequipment.com/en_CA/headlamps-and-lanterns/spot-BD620634_cfg.html), [Gemini Duo](https://gemini-lights.com/products/duo) with 4-cell battery
-- [portaging cart](https://www.mec.ca/en/product/5032-082/Mini-Tuff-Tire-Wheels)
-- car, electrical cooler, sleeping bag, pillow for shore crew
-- I got the sun and moon times from the [US Navy](http://aa.usno.navy.mil/data/docs/RS_OneYear.php).
+### Other Equipment
+
+My GPS is a [Garmin eTrex 20x](https://www.gpscity.ca/garmin-etrex-20x).
+I got the sun and moon times from the [US Navy](http://aa.usno.navy.mil/data/docs/RS_OneYear.php).
+
+The lights are [Black Diamond Spot](https://www.blackdiamondequipment.com/en_CA/headlamps-and-lanterns/spot-BD620634_cfg.html) and [Gemini Duo](https://gemini-lights.com/products/duo) with 4-cell battery.
+
+I'm using a [portaging cart](https://www.mec.ca/en/product/5032-082/Mini-Tuff-Tire-Wheels).
+
+
+# Race
+
+## Travel
+
+We live in Kitchener, ON. We took Friday off and drove to Kingston. I had booked a hotel room on Princess St, less than 15 min drive away from the start at the Cataraqui Canoe Club. We showed up for the checkin in the afternoon. I had a good chat with the folks from [Infinite Blue](https://infiniteblue.blue/). My wife bought me paddle shorts for my birthday in September which I wore for the race. I stored my boat at the club - thank you to the club members for the permission. Then we went for dinner in downtown Kingston.
 
 
 ## Segments
