@@ -6,7 +6,7 @@ Ontario's longest marathon paddle race
 
 For me, the [K2O](http://kingston2ottawa.ca) is an iconic race. It takes place on the [Rideau Waterway](https://en.wikipedia.org/wiki/Rideau_Canal) which is managed by Parks Canada and a designated UNESCO World Heritage Site. It connects the old capital Kingston with current capital Ottawa.
 
-[Watson's Paddling Guide to the Rideau Canal](http://www.rideau-info.com/canal/paddling/guides.html)
+For those who want to explore the area there are good online resources available, eg. [Watson's Paddling Guide to the Rideau Canal](http://www.rideau-info.com/canal/paddling/guides.html). It's said that the tour from Ottawa to Kingston or vice versa is a good weeklong trip.
 
 ## The Route
 
@@ -15,19 +15,28 @@ The Newboro Lockstation is the highest point on the way to Ottawa. After the loc
 
 The Narrows are the 8th portage of the race. The next leg is the second longest of the race. The paddlers will navigate through the Big Rideau and the Lower Rideau Lake to finally arrive in Poonamalie after more than 30 km.
 
-# My first race in 2016
+The racer have to portage 11 locks over the next 35 km. When they leave the last one which Burritts Rapids Lock #17 then the _Long Reach_ begins. This extends more than 40 km and is the longest leg of the race.
 
-# My failed attempt in 2017
+The paddlers will see the Long Island after 35 km. But the name was givin for a reason. Another five kilometers have to be paddled before the lock finally appears.
 
-# Preparation for the 2018 edition
+The paddlers who made it to this place have already more than 180 km behind them. The remaining 14 km are a piece of cake. The last portage at the Black Rapids Lock #13 is a short 165 m. From here it's only 6 km until the racers cross the finishing line at the docks of the Rideau Canoe Club in Ottawa, close to Hog's Back.
+
+My GPS showed 196 km at this place.
+
+# Preparation
 
 ## Training
 
-Logged 770 km overall since beginning of the year.
+Starting in the Fall I prepare for some half marathon races in the early Spring. I usually participate in the Chilly Halfmarathon in Burlington, ON on the first Sunday in March.
 
-Epic paddle 95 km
+I started paddling this Spring as soon as the Grand River was safe end of March. I was on the water on 36 days before the K2O. I paddled The Dam Hespeler Race in April (20km) and the Big East River X Race in May (40km).
+I also organized and paddled the 3rd edition of the "EPIC Paddle" from Elora Gorge to Paris, ON on the Grand River. This is an open event hosted by our Waterloo Wellington Canoe and Kayak Club of which I'm a member. This covers a distance of about 95 km slow moving downstream. This year it took us about 14 hours from 6am to 8pm.
 
-65 km overnight trip from Wilsons Flat to Cambridge
+Then I paddled 65 km in 10 hours overnight from Wilsons Flat to Cambridge, ON to test my night equipment and to learn about myself paddling alone in the dark.
+
+Overall I logged 770 km since March.
+
+
 
 ## Food
 
