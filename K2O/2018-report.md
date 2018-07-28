@@ -27,6 +27,8 @@ My GPS showed 196 km at this place.
 
 ## Training
 
+I finished the K 1/2 O in 2016. This year I was ready to go the full distance.
+
 Starting in the Fall I prepare for some half marathon races in the early Spring. I usually participate in the Chilly Halfmarathon in Burlington, ON on the first Sunday in March.
 
 I started paddling this Spring as soon as the Grand River was safe end of March. I was on the water on 36 days before the K2O. I paddled The Dam Hespeler Race in April (20km) and the Big East River X Race in May (40km).
@@ -38,17 +40,27 @@ Overall I logged 770 km since March.
 
 
 
-## Food
+## Food, Hydration
+
+From experiences in 2016 I knew that I wouldn't be very hungry during the race. I prepared "energy balls" from a mix of dates, oatmeal and beet root juice. I also had several 150g bar of marsipan, Clif Bars and Lörabars. My wife bought cookies at Starbucks and Apple Fritter at Tim Hortons during the race.
+
+I eat one cookie, the apple fritter, two of the marsipan bars. I forced myself to eat one energy ball at least every 2 hours.
+
+I drank water, coffee, apple juice, coca cola. I have a hydration blatter on the back of my PFD and a [4l MSR Dromedary](https://www.msrgear.com/water/water-storage/dromedary-bags) in the kayak during the long leg to Poonamalie and the _Long Reach_. Throughout the race I probably drank 1.5l coffee, 1l apple juice, 2 cans of coke, 4-5l water.
+
+I had problems with heartburn. I'll need to bring Tums or something similar if I'm going to do this again.
 
 ## Logistics
 
-Atlas from [TrakMap](https://www.trakmaps.com/en/products/printed/details/rideau-canal-kingston-ottawa-614/)
-[Navigational Charts](http://www.charts.gc.ca/documents/charts-cartes/manitoba-index.pdf) from Fisheries and Oceans Canada, #1512 and #1513. Those are only available from certified printer, eg. [World of Maps in Ottawa](http://worldofmaps.com/) on Wellington St W and Parkdale Ave.
+For the navigation I relied primarily on the GPS and the Atlas from [TrakMap](https://www.trakmaps.com/en/products/printed/details/rideau-canal-kingston-ottawa-614/). [Navigational Charts](http://www.charts.gc.ca/documents/charts-cartes/manitoba-index.pdf) from Fisheries and Oceans Canada, #1512 and #1513 are available from certified printer, eg. [World of Maps in Ottawa](http://worldofmaps.com/) on Wellington St W and Parkdale Ave.
+Those are helpful in the preparation at home. I looked at them on those long and cold Winter nights.
 
-I downloaded charts for the GPS from [OpenStreetMap](http://garmin.openstreetmap.nl). I used Garmin Basecamp to create all lock stations as waypoints. I didn't use directly the GPX track provided by the race organizers. Instead I created a route from the track. I highly recommend this procedure. You can learn more about the differences between tracks and routes at the [Garmin website](https://support.garmin.com/en-US/?faq=v0rJAHy2hq3prHjRlxdRw5&searchType=noProduct).
+I downloaded charts for the GPS from [OpenStreetMap](http://garmin.openstreetmap.nl). I used Garmin Basecamp to create all lock stations as waypoints. I didn't use directly the GPX track provided by the race organizers. Instead I created a route from the track. To learn more about the differences between tracks and routes visit the [Garmin website](https://support.garmin.com/en-US/?faq=v0rJAHy2hq3prHjRlxdRw5&searchType=noProduct).
 
 
 ## Shore Crew
+
+Every racer needs a shore crew. You need the best crew you can assemble. I had the best crew _in da world_ :-). My wife, my brother-in-law and one of my wife's nephews helped me along the way. I cannot overstate how important those helpers are. They keep your spirits up, the help you with the portages, they replenish your food and drinks and they will be successful with you. You also don't want to disappoint them! These thoughts help you in your weaks moments.
 
 # Race
 
