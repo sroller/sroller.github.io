@@ -1,14 +1,25 @@
 # K2O - Kingston to Ottawa
 
-Material around the Ultramarathon Paddle Race Kingston2Ottawa (200km in 36 hours)
+Ontario's longest marathon paddle race
 
-# Story
+# What's the story?
+
+For me, the [K2O](http://kingston2ottawa.ca) is an iconic race. It takes place on the [Rideau Waterway](https://en.wikipedia.org/wiki/Rideau_Canal) which is managed by Parks Canada and a designated UNESCO World Heritage Site. It connects the old capital Kingston with current capital Ottawa.
+
+[Watson's Paddling Guide to the Rideau Canal](http://www.rideau-info.com/canal/paddling/guides.html)
+
+## The Route
+
+The race starts from the Cataraqui Canoe Club in Kingston. First the paddlers have to go out to Lake Ontario before they turn around and come back into the sheltered waters of the Cataraqui River. The route leads North towards the Kingston Mills Lockstation, continues through Colonel By Lake into the River Styx to the Lower Brewers. Cranberry Lake follows the Upper Brewers. At the end of Whitefish Lake lies Jones Falls Lock. The waterway winds through the landscape to Sand Lake, Opinicon Lake, Indian Lake, Clear Lake and finally into Newboro Lake, the first bigger lake.
+The Newboro Lockstation is the highest point on the way to Ottawa. After the lock is passed the way leads through the Upper Rideau Lake to Rideau Narrows.
+
+The Narrows are the 8th portage of the race. The next leg is the second longest of the race. The paddlers will navigate through the Big Rideau and the Lower Rideau Lake to finally arrive in Poonamalie after more than 30 km.
 
 # My first race in 2016
 
-# my failed attempt in 2017
+# My failed attempt in 2017
 
-# Preparation
+# Preparation for the 2018 edition
 
 ## Training
 
@@ -56,6 +67,7 @@ EPIC mid wing full carbon paddle, size 210-220cm from Kayaksport Canada. Werner 
 - lights: [Black Diamond Spot](https://www.blackdiamondequipment.com/en_CA/headlamps-and-lanterns/spot-BD620634_cfg.html), [Gemini Duo](https://gemini-lights.com/products/duo) with 4-cell battery
 - [portaging cart](https://www.mec.ca/en/product/5032-082/Mini-Tuff-Tire-Wheels)
 - car, electrical cooler, sleeping bag, pillow for shore crew
+- I got the sun and moon times from the [US Navy](http://aa.usno.navy.mil/data/docs/RS_OneYear.php).
 
 
 ## Segments
@@ -80,13 +92,16 @@ EPIC mid wing full carbon paddle, size 210-220cm from Kayaksport Canada. Werner 
 
 
 - extra water, 4l MSR bladder
-- extra food, energy balls with own recipe, energy bars (Clif Bar, Lörrabar)
+- extra food, energy balls with own recipe, energy bars (Clif Bar, Lörabar)
+- The sun sets 8:41pm on the 21-JUL-2018. Daylight will be gone by 9:30pm.
 
-Big Rideau
+- Big Rideau, big(ger) waves
 
-pain
+- pain, if you ignore it long enough it will stop at some point
 
-wanted to stop
+- I wanted to give up.
+
+- I couldn't find the [Mud Cut](https://www.google.ca/maps/place/44%C2%B052'22.7%22N+76%C2%B005'39.6%22W/@44.872984,-76.096535,715m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d44.872984!4d-76.0943407) at the end of the Lower Rideau.
 
 ### Poonamalie to Buritts Rapids
 
