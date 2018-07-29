@@ -8,23 +8,26 @@ Ontario's longest marathon paddle race
 
 The [K2O](http://kingston2ottawa.ca) is an iconic race. For me it is THE iconic paddle race. It takes place on the [Rideau Waterway](https://en.wikipedia.org/wiki/Rideau_Canal) which is managed by Parks Canada and a designated UNESCO World Heritage Site. It connects the old capital Kingston with current capital Ottawa.
 
-For those who want to explore the area there are good online resources available, eg. [Watson's Paddling Guide to the Rideau Canal](http://www.rideau-info.com/canal/paddling/guides.html). It's said that the tour from Ottawa to Kingston or vice versa is a good weeklong trip.
+For those who want to explore the area there are good online resources available, eg. [Watson's Paddling Guide to the Rideau Canal](http://www.rideau-info.com/canal/paddling/guides.html). It's said that the tour from Ottawa to Kingston or vice versa is a good week-long trip.
 
-There are other ultra marathon paddle races in North America like the [Yukon River Quest], [Missouri American Water MR340], the [Texas Water Safari]. Those are longer but all of them mandate or at least expect the racers to have breaks along the way.
+There are other ultra marathon paddle races in North America like the [Yukon River Quest], [Missouri American Water MR340], the [Texas Water Safari]. Those are longer but all of them mandate stops or at least expect the racers to have breaks along the way.
 
 Not so in the K2O. The winning teams often make it under 24 hours and the cut off time at the finish is 36 hours.
 
-The first time I read about the race was in 2014. There was this webpage about this crazy race on this iconic waterway. At that time I only paddled a 14ft sit-on-top kayak which is 29 inch wide and by no means a boat in which one could race. As it turned out the race director was a coworker of my wife. He tried to bring me in as member of a relay team. But I didn't dare, I wasn't ready back then. I went to Iceland for a paddle trip that Summer. In the Fall I purchased my first fiber glass boat - a Wilderness Tempest 170PRO. Things changed. The K2O changed. Now they offered a half distance for chicken like me who didn't want to go 200 km the very first time.
+The first time I read about the race was in 2014. There was this webpage about this crazy race on the Rideau. At that time I only paddled a 14 feet long 29 inches wide sit-on-top kayak. By no means this was a boat in which one could race. As it turned out the race director was a coworker of my wife. He tried to bring me in as member of a relay team. But I didn't dare, I wasn't ready back then. I went to Iceland for a paddle trip that Summer. In the Fall I purchased my first fiber glass boat - a Wilderness Tempest 170PRO.
 
-100 km seemed more doable. I found another crazy guy just down the hallway in my office. The two of us paddled from the 8th line bridge North of Westmontrose to Paris, Ontario on the Grand River. We logged 88.4 km. Colleagues at work called it an "Epic Paddle". The name stuck. We were disappointed that we hadn't crossed the magical 90 km marker. So in 2017 we started a few kilometers upstream at the lower bridge of the Elora Gorge. After that day the odometer on my GPS show 94 km. It was also way more catchy to say: "We paddled from the Elora Gorge to Paris, ON in one day". Nobody knew where the 8th Line crosses the Grand after all.
-This year - 2018 - we were four kayaks and one canoe to cover the full distance. We're planning an **Epic Paddle** for the next year. It will be open for everybody who thinks can paddle 94km in 14ish hours. Perhaps we've started a tradition.
+Things changed. The K2O changed. Now they offered a half distance for chicken like me who didn't want to go 200 km the very first time.
+100 km seemed more doable.
+
+I found another crazy guy. He works just down the hallway in my office. The two of us paddled from the 8th line bridge North of Westmontrose to Paris, Ontario on the Grand River. We logged [88.3 km](https://www.endomondo.com/users/2331405/workouts/578506690). Colleagues at work called it an "Epic Paddle". The name stuck. We were disappointed that we hadn't crossed the magical 90 km marker. So in 2017 we started a few kilometers upstream at the lower bridge of the Elora Gorge. After that day the odometer on my GPS show [93.4 km](https://www.endomondo.com/users/2331405/workouts/958850726). Given the new starting point it was also way more catchy to say: "We paddled from the Elora Gorge to Paris, ON in one day". Nobody knew where the 8th Line crosses the Grand after all.
+This year - 2018 - we were four kayaks and one canoe to cover the [full distance](https://www.endomondo.com/users/2331405/workouts/1137787341). We're planning an **Epic Paddle** for the next year. It will be open for everybody who thinks can paddle 94km in 14ish hours. Perhaps we've started a tradition.
 
 In August 2016 I took my 17ft touring kayak to the K&frac12;O. I went from Kingston to Smiths Falls in 16 hours 24 minutes. I had wait out a thunderstorm with lightning and some torrential rain which costed me one hour.
 I noticed that the good paddlers all seem to be in an EPIC kayak (this time I mean the brand). After the race I decided if I'd ever go for the full distance I needed an EPIC.
 
 I setup an alert on Kijiji. When an ad came up in September I could not not buy it.
 
-I decided to start in 2017. We went to Florida on vacation the Fall before where I was able to rent a brand new EPIC 18X Sport for two weeks. I paddled every day and clocked eventually 320 km in the mangroves. I registered. We had our Epic paddle in early Summer. Overall I logged more than 1,200 km. I had lined up a bigger shore crew to cover the night. I was prepared.
+I decided to start in 2017. We went to Florida on vacation in November 2016 where I was able to rent a brand new EPIC 18X Sport for two weeks. I paddled every day and clocked eventually 320 km in the mangroves. I registered. We had our Epic paddle in early Summer. Overall I logged more than 1,200 km. I had lined up a bigger shore crew to cover the night. I was prepared.
 
 What I wasn't prepared for was injury.
 
@@ -40,13 +43,9 @@ The Newboro Lockstation is the highest point on the way to Ottawa. After the loc
 
 The Narrows are the 8th portage of the race. The next leg is the second longest of the race. The paddlers will navigate through the Big Rideau and the Lower Rideau Lake to finally arrive in Poonamalie after more than 30 km.
 
-The racer have to portage 11 locks over the next 35 km. When they leave the last one which Burritts Rapids Lock #17 then the _Long Reach_ begins. This extends more than 40 km and is the longest leg of the race.
-
-The paddlers will see the Long Island after 35 km. But the name was givin for a reason. Another five kilometers have to be paddled before the lock finally appears.
+The racer have to portage 11 locks over the next 35 km. When they leave the last one at Burritts Rapids Lock #17 then the _Long Reach_ begins. For endless 40 km there is no lock. It is the longest leg of the race.
 
 The paddlers who made it to this place have already more than 180 km behind them. The remaining 14 km are a piece of cake. The last portage at the Black Rapids Lock #13 is a short 165 m. From here it's only 6 km until the racers cross the finishing line at the docks of the Rideau Canoe Club in Ottawa, close to Hog's Back.
-
-My GPS showed 196 km at this place.
 
 # Preparation
 
@@ -117,16 +116,12 @@ The lights are [Black Diamond Spot](https://www.blackdiamondequipment.com/en_CA/
 I'm using a [portaging cart](https://www.mec.ca/en/product/5032-082/Mini-Tuff-Tire-Wheels).
 
 
-# Race
+# Race Days
 
-## Travel
+We live in Kitchener, ON. We took Friday off from work and drove to Kingston. I had booked a hotel room less than 15 min drive away from the start at the Cataraqui Canoe Club. We checked in the afternoon. I had a good chat with the folks from [Infinite Blue]. My wife bought me paddle shorts for my birthday in September which I wore for the race. I stored my boat at the club for the night. A big thank you to the club members for the permission to use their premises. Then we went for dinner in downtown Kingston.
+![Briefing](2018-07-20-briefing.jpg)
 
-We live in Kitchener, ON. We took Friday off and drove to Kingston. I had booked a hotel room on Princess St, less than 15 min drive away from the start at the Cataraqui Canoe Club. We showed up for the checkin in the afternoon. I had a good chat with the folks from [Infinite Blue](https://infiniteblue.blue/). My wife bought me paddle shorts for my birthday in September which I wore for the race. I stored my boat at the club - thank you to the club members for the permission. Then we went for dinner in downtown Kingston.
-
-
-## Segments
-
-### Start
+The alarm went off at the ungodly time of 04:30am
 - getting up at 4:30am
 - getting the boat ready 5:15am
 - start one minute later because of capsized starter
@@ -194,9 +189,15 @@ When I came in to Poonamalie there was still light. Two years ago - when I paddl
 - I considered to call my shore crew for an early extraction
 - I stopped multiple times (6x) for several minutes to eat and to rest. I was at the end of my abilities.
 
+After 35 km The paddlers will see the Long Island after 35 km. But the name was given for a reason. Another five kilometers have to be paddled before the lock finally appears.
+
 ### The Rest (16km)
 
-# Analysis
+### Finish at the Rideau Canoe Club
+
+My GPS showed 196 km at this place.
+
+# Technical Analysis
 
 ## Course
 
@@ -220,4 +221,4 @@ When I came in to Poonamalie there was still light. Two years ago - when I paddl
 [Yukon River Quest]: https://www.yukonriverquest.com/
 [Missouri American Water MR340]: https://rivermiles.com/mr340/
 [Texas Water Safari]: http://www.texaswatersafari.org/
-
+[Infinite Blue]: (https://infiniteblue.blue/)
