@@ -216,7 +216,7 @@ After 35 km The paddlers will see the Long Island after 35 km. But the name was 
 
 My GPS showed 196 km at this place.
 
-![Finished - literally](2018-07-22.jpg)
+![Finished - literally](2018-07-22-finished.jpg)
 
 # Technical Analysis
 
