@@ -244,13 +244,19 @@ After the race I looked at my GPS track. I found out that I stopped six times fo
 
 Finally after 35 km and almost seven hours I could see Long Island. But the name was given for a reason. Another five kilometers had to be paddled before the lock finally appears.
 
-## The Rest (16km)
+## The Rest (14km)
 
+It was 12:35pm when I arrived at the Long Island Lock Station. My wife and her nephew came to met me there. It was so good to see them!
 
+It took me seven and a half hours to get there. My moving average was only 5.6 km/h, my overall average was 5.4 km/h.
+
+Because of the steep stairs my crew was allowed to move my boat which was a big help. I got my coffee shot and kept going. The last 14 km would be a piece of cake (how often did I say _that_ before?). The rain had stopped but the wind was even picking up more. But who cares if the finish is nigh?
 
 ## Finish at the Rideau Canoe Club
 
-My GPS showed 196 km at this place.
+I stopped my GPS after 1 day 9 hours 5 minuts and 39 second. The trip odometer showed 195 km on the display.
+
+I did it!
 
 ![Finished - literally](2018-07-22-finished.jpg)
 
