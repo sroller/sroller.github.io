@@ -118,13 +118,19 @@ I'm using a [portaging cart](https://www.mec.ca/en/product/5032-082/Mini-Tuff-Ti
 
 # Race Days
 
-We live in Kitchener, ON. We took Friday off from work and drove to Kingston. I had booked a hotel room less than 15 min drive away from the start at the Cataraqui Canoe Club. We checked in the afternoon. I had a good chat with the folks from [Infinite Blue]. My wife bought me paddle shorts for my birthday in September which I wore for the race. I stored my boat at the club for the night. A big thank you to the club members for the permission to use their premises. Then we went for dinner in downtown Kingston.
-![Briefing](2018-07-20-briefing.jpg)
+We live in Kitchener, ON. We took Friday off from work and drove to Kingston. I had booked a hotel room less than 15 min drive away from the start at the Cataraqui Canoe Club. We checked in the afternoon. I had a good chat with the folks from [Infinite Blue]. My wife bought me paddle shorts for my birthday in September which I wore for the race. I stored my boat at the club for the night. A big thank you to the club members for the permission to use their premises. Then we went for dinner in downtown Kingston. I had a big pasta meal with chicken.
+![Briefing](2018-07-20-briefing.JPG)
 
-The alarm went off at the ungodly time of 04:30am
-- getting up at 4:30am
-- getting the boat ready 5:15am
-- start one minute later because of capsized starter
+The alarm went off at the ungodly time of 04:30am. While I was getting dressed I ran the coffee maker in the room. It was too early to eat something.
+We arrived at the club by 05:15am. I moved my kayak out of the boat house and prepared for the start. I tied my little GPS cradle to the deck, put the charts into the SealLine map case and tethered it to the deck lines. I stored the paddle float behind the back bend, tied the spare paddle and the pump on the after deck.
+The throw line and the food went into the day hatch.
+I put my mobile phone into energy saving mode. It should it would last for 30 hours. I decided to switch it off because that might not be enough. My idea was to switch it on again when I'd enter the long legs of the race. I nevertheless packed it into a waterproof sleeve and stored in the front pocket of my PFD secured with a carabiner.
+
+I picked up my [SPOT3] device from the registration deck. The SPOT3 is a two-way satellite tracker. The device sends a position update every 5 min via satellite. It can be a live saver if one gets lost in remote areas. It gives the race organisers the position of each racers and also drives the live online tracker during the race. I could also replay the entire race as I found out on the webpage last night.
+
+One last run to the bathroom where I found a short lineup and off I went to the dock.
+
+The start was the usual crowded place. I alway stay at the end of the field. I compete for arrival not for a spot on the podium. While we were waiting for signal I noticed that there was a paddler already in the water and an empty kayak was pushed out of the way. We started eventually at 06:01:00am.
 
 ### Kingstons to Rideau Narrows
 
@@ -222,3 +228,4 @@ My GPS showed 196 km at this place.
 [Missouri American Water MR340]: https://rivermiles.com/mr340/
 [Texas Water Safari]: http://www.texaswatersafari.org/
 [Infinite Blue]: (https://infiniteblue.blue/)
+[SPOT3]: https://www.findmespot.com/en/index.php?cid=100
