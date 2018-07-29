@@ -2,13 +2,14 @@
 
 Ontario's longest marathon paddle race
 
-![On my way to Ottawa](https://flic.kr/p/28tQLyL)
+![The author in 2018](k2o-7-6.jpg)
 
 # What's the story?
 
 For me, the [K2O](http://kingston2ottawa.ca) is an iconic race. It takes place on the [Rideau Waterway](https://en.wikipedia.org/wiki/Rideau_Canal) which is managed by Parks Canada and a designated UNESCO World Heritage Site. It connects the old capital Kingston with current capital Ottawa.
 
 For those who want to explore the area there are good online resources available, eg. [Watson's Paddling Guide to the Rideau Canal](http://www.rideau-info.com/canal/paddling/guides.html). It's said that the tour from Ottawa to Kingston or vice versa is a good weeklong trip.
+
 
 ## The Route
 
