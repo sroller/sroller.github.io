@@ -194,23 +194,59 @@ I was apparently talking German to Kent as he told us later. Not that he was und
 The deep of the night was over. We could see the dawn on the horizon. I left my head lamps and the batteries with Kent who would drive home after he spent the entire night with me hopping from lock station to lock station.
 
 ###### What happened to Creek Freak?
+
 The volunteers at the station told us a story about Shawn (Team Creek Freak).
 
+Before _The Long Reach_ he was three hours ahead of the second boat which would have been _The Bickerson_ - also the overall winner of the 2016 race. It was the first time in the history of the race that it looked like a single kayak could beat the canoes.
+One hour after he left Burritts Rapids he turned around and came back. The helpers think he got lost in a group of islands up North.
+
+He finished just 8 minutes after the _The Bickersons_ just below 24 hours. Imaging what he could have achieved if he wouldn't have make that mistake.
+
+He still won some prize money and also a door prize at the after race celebration. There was much teasing that he should put the money forward to a GPS. I congratulated him for his nevertheles phenomenal result and told him that I would never go without a GPS. He told me that he was using a GPS indeed! What happened was that at a break he fumbled his glow light and the GPS fell off his front pocket. When he put it back he did so upside down. He didn't realize his mistake until he reached Burritts Rapids again.
+
+I think this is a classical case of "marathon stupid". It was late at night - he arrived at Burritts just after 8pm. He was paddling on a very high level for 14 hours. His brain wasn't functioning. All his blood was in his muscles. The brain shuts down as much as possible. I read about this phenomenon from my running coach. At marathons people go to the bathroom and when the leave the porta potty they continue into the wrong direction. They don't recognise it. Shawn had even less environmental signals. It was dark, he was exhausted. I think he should work with a route on his GPS. I don't know if he did. If he just loaded the GPS _track_ and didn't converted it to a route it could have contributed to the problem. Perhaps he can tell us next time I see him.
 
 ## The Long Reach (40km)
 
-- I left Burritts Rapids Lock at dawn. The river was still like a mirror. All that changed just before sunrise.
-- The wind started at 5:30am, according to Environment Canada >30 km/h, gusts felt stronger, came from Northeast, difficult to find protection
+I left 4:48am. I looked at my GPS to find out the exact time of the sun rise which made it freeze. I had to remove the batteries to turn it on again. While I was doing it I realised that I was running on the same pair of batteries since the start. After 23 hours those were still going strong. I changed them anyway out of precaution. Who knows what conditions would lay ahead of me and whether I would be able to change it later. While I was tinkering with the device the _Dos Amigos_ paddled by. We wished each other luck and that was the last time I saw them on the water. The weather forecast called for wind with 10 - 20 km/h from Northeast and 60% rain probability on Sunday. Now, in the wee hours it was still completly calm.
 
-- rain started about two hours later at 7:30am
-- speed stopped dramatically with the wind
-- I started to calculate whether I could still make it within the cutoff times
-- I considered to call my shore crew for an early extraction
-- I stopped multiple times (6x) for several minutes to eat and to rest. I was at the end of my abilities.
+Not for long though. At 05:30am the wind began to pick up. The Rideau River flows mainly towards Northeast. That meant headwind all the way to the finishing line. I was hoping the forecast would be a bit off but the weather turned out exactly to be as predicted.
 
-After 35 km The paddlers will see the Long Island after 35 km. But the name was given for a reason. Another five kilometers have to be paddled before the lock finally appears.
+I later checked the Environment Canada website for data which were measured: Wind speed was above 30 km/h with stronger gusts. It was disgusting. At times I made only 4 - 5 km/h. It felt less but at least the GPS was giving me the real data.
+
+I was distraught.
+
+Around 6:00am I stopped to eat and to consider my options. I left the last lock station only 16 min behind my "7.5 km/h schedule". I had a lot of buffer to make the cutoff in Long Island at 3pm. I had 35 km to go in 9 hours. That meant even if I would do only 4 km/h I could still make it. But it would be a grind.
+
+And so I continued.
+
+At 07:30am it started to rain.
+
+I just keept going and going and going and going. Left - right - left - right - left - right - ...
+
+I was so sleep deprived after 24 hours of paddling I started to see patterns in things around me which weren't there. There was this submarine on the left with legs like a squid moored in front of a mansion. Who'd need that on the Rideau. When I got closer it tourned out be an ordinary small power boat. What looked like the glass hemisphere was the outboard motor and the squid legs were just the fenders to protect the boat from damage.
+
+I looked at this house behind the trees and it seems to have big letters on the wall. I tried to read what it meant just to recognise that the letters were the windows.
+
+My mind started to fool around with my vision. I wonder if LSD would have a similar impact on ones brain.
+
+"How are you doing this morning?"
+
+All of a sudden there was somebody next to me on the right. It was a paddler on a Stellar surfski. He was the leader of the 50km field. They started at 6am from Burritts Rapids. I explained that I was one of the 200ers. He had some encouraging comments for me before he took off. That must have been John Dunkelberger. Thank you for the good words!
+
+Only 10 minutes later I noticed far ahead of me a kayak in the water with a guy who tried to get back into the boat. He had to pay tribute to the windy conditions. I could see that he tried again and again to get back into the seat but each team he flipped over and found himself back in the river. I directed my boat towards him to offer him help. While I was slowly making progress another surfsky passed my on the left. But before any of us come close enough John regained control of his boat and continued.
+
+A quarter after 8am I passed under the highway 416 bridge. That was a good uplifting feeling. I knew I was "closing in" on Ottawa. Everytime we drove over the bridge I said to Lynne: "One of these days I will paddle _under_ this road".
+
+The wind didn't let up. I tried to find a little bit of protection switching sides but to not much avail.
+
+After the race I looked at my GPS track. I found out that I stopped six times for several minutes to eat and to rest. I was at the end of my abilities.
+
+Finally after 35 km and almost seven hours I could see Long Island. But the name was given for a reason. Another five kilometers had to be paddled before the lock finally appears.
 
 ## The Rest (16km)
+
+
 
 ## Finish at the Rideau Canoe Club
 
