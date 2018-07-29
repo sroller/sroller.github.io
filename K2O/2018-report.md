@@ -6,10 +6,19 @@ Ontario's longest marathon paddle race
 
 # What's the story?
 
-For me, the [K2O](http://kingston2ottawa.ca) is an iconic race. It takes place on the [Rideau Waterway](https://en.wikipedia.org/wiki/Rideau_Canal) which is managed by Parks Canada and a designated UNESCO World Heritage Site. It connects the old capital Kingston with current capital Ottawa.
+The [K2O](http://kingston2ottawa.ca) is an iconic race. For me it is THE iconic paddle race. It takes place on the [Rideau Waterway](https://en.wikipedia.org/wiki/Rideau_Canal) which is managed by Parks Canada and a designated UNESCO World Heritage Site. It connects the old capital Kingston with current capital Ottawa.
 
 For those who want to explore the area there are good online resources available, eg. [Watson's Paddling Guide to the Rideau Canal](http://www.rideau-info.com/canal/paddling/guides.html). It's said that the tour from Ottawa to Kingston or vice versa is a good weeklong trip.
 
+There are other ultra marathon paddle races in North America like the [Yukon River Quest], [Missouri American Water MR340], the [Texas Water Safari]. Those are longer but all of them mandate or at least expect the racers to have breaks along the way.
+
+Not so in the K2O. The winning teams often make it under 24 hours and the cut off time at the finish is 36 hours.
+
+I learned about the race 
+
+[Yukon River Quest]: https://www.yukonriverquest.com/
+[Missouri American Water MR340]: https://rivermiles.com/mr340/
+[Texas Water Safari]: http://www.texaswatersafari.org/
 
 ## The Route
 
@@ -122,20 +131,37 @@ We live in Kitchener, ON. We took Friday off and drove to Kingston. I had booked
 
 ### Rideau Narrows to Poonamalie (30km)
 
+_Dos Amigos_, _Canoe Dig It_ and I spent a few minutes together at the Narrow Lock Station. I had a chat with Radu Crisu of _Dos Amigos_. (We knew each other from the [Big East River X] in Huntsville where we paddled side by side for a while last year. Radu used his paddles intentionally "the wrong way" and he explained to me why he thought that was a good thing.) We compared our GPS recordings so far. I had logged a bit over 73 km and he was at over 75 km. We agreed that this was within the expected variation. Although we used the suggested GPX data from the race organisers we didn't paddle the _exact_ same course. At the end of our conversation Radu said: "75 km is much better than 73, because it is already in the fourth eighth of the race!". It was obvious that he was playing the same mindgames as I was and perhaps all of us. The overall distance is so overwhelming therefore we divide the full distance into smaller pieces -- in 10% segments, in thirds, quarters, fifths and so on. We compare it to known routes from home like "I did the _EPIC paddle_ earlier this year which goes over 94 km. I'm still 19 km under that. No big deal!". Those thoughts help to deal with the long and monotone segments one has to go through.
 
-- extra water, 4l MSR bladder
-- extra food, energy balls with own recipe, energy bars (Clif Bar, Lörabar)
-- The sun sets 8:41pm on the 21-JUL-2018. Daylight will be gone by 9:30pm.
+The next segment would be over 30 km long with no option to get additional food. I left my small 1.5 l Mocke bladder behind and stowed 4 l additional water in a MSR Dromedary bladder with hydration kit in the cockpit behind my backbend. I also put some extra food, the home made energy balls and a few Clif Bars and Lörabars into my dayhatch. I knew the sun would set at 8:41pm that day. Daylight would be gone by 9:30pm. I planned to arrive at the next lock before it would be completely dark. I didn't pack any lights yet.
 
-- Big Rideau, big(ger) waves
+Lynne would leave the race now and drive to Ottawa where she would hand over the car to my brother-in-law Kent. The plan was that he would drive to Poonamalie to meet me there when I arrived.
 
-- pain, if you ignore it long enough it will stop at some point
+The Narrows separate the Upper Rideau and the Big Rideau. Bigger lake meant big(ger) waves. The Southern end of the Big Rideau sees usually the biggest waves of the race. In 2014, when the race was organised for the very first time, the director even had to cancel the race for safety reasons because of the conditions. 3 km after the Narrows the lake opens. At the widest point the water stretches 6 km to the Southwest. That can be a lot of fetch to create some waves. But this year we were lucky. Although the waves were higher than on Newboro Lake it wasn't as uncomfortable as on Lake Ontario in the very first hour of the competition.
 
-- I wanted to give up.
+After another 5 km the paddlers leave the open area behind. They will pass the road bridge at Rideau Ferry after two hours. Rideau Ferry marks the beginning of the Lower Rideau Lake, the last lake of the course.
 
-- I couldn't find the [Mud Cut](https://www.google.ca/maps/place/44%C2%B052'22.7%22N+76%C2%B005'39.6%22W/@44.872984,-76.096535,715m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d44.872984!4d-76.0943407) at the end of the Lower Rideau.
+This was the area were I had some weak moments. In the shady corners my mind I was searching for lame excuses why I would surrender the race in Smith Falls. I would have paddled longer than I ever had by then. The race doesn't matter, who's so crazy to paddle 200 km in a row anyway.
+
+Things like that.
+
+I still had 16 oz Starbucks Grande Latte in my Stanley thermos mug. The coffee combined with 150 gram marsipan lifted my spirits. After a short break I was able to keep a good speed around 7 km/h. I loudly sang German traditionals. Nobody could hear me, nobody could judge me, but it helped to mitigate the fatigue in the muscles, the pain.
+
+Pain is an interesting thing. I experienced if you ignore it long enough it will stop at some point. My shoulder-neck muscles were very sore. I had sometimes cramps in my inner thighs. But over time this became less and less an issue. I think the brain switches off certain communication lines in the body. As my colleague on Monday said: It's mind over matter. If you can manage that you'll be successful in the end.
+
+So let's go.
+
+I wanted to give up.
+
+No I don't.
+
+At the end of the Lower Rideau is a potential short cut - the so called [Mud Cut]. I found the entrance on Google Maps. I created a waypoint in my GPS. I couldn't find the [Mud Cut]. After a brief irritation I just went back into the navigational channel and continued on the recommended route.
+
+[Mud Cut]: https://www.google.ca/maps/place/44%C2%B052'22.7%22N+76%C2%B005'39.6%22W/@44.872984,-76.096535,715m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d44.872984!4d-76.0943407
 
 ### Poonamalie to Buritts Rapids
+
+When I came in to Poonamalie there was still light. Two years ago - when I paddled the first 100k for the K&frac12;O - it was already pitch black at my arrival. I was happy to see and to hear my brother-in-law at the dock expecting me. I gave him a big hug. We hat a brief chat in which we decided to make all the big changes in Smith Falls where the parking lot is right at the dock and I could show him what I'd need and fetch some things he might not easily find in my car.
 
 - Navigation at night
 - GPS, Charts, Stars
