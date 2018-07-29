@@ -153,7 +153,7 @@ Mindgames.
 
 At the end of the Lower Rideau there is a potential short cut - the so called [Mud Cut]. I found the entrance on Google Maps. I created a waypoint in my GPS. I couldn't find it. After a brief irritation I just went back into the navigational channel and continued on the recommended route.
 
-### Poonamalie to Buritts Rapids (36 km)
+## Poonamalie to Buritts Rapids (36 km)
 
 When I came in to Poonamalie dusk had set in but is was still light. Two years ago - when I paddled the first 100k for the K&frac12;O - it was already pitch black at my arrival. I was happy to see my brother-in-law at the dock expecting me. I gave him a big hug. We had a brief chat in which we decided to make all the big changes in Smith Falls where the parking lot is right at the dock and I could show him what I'd need and fetch some things he might not easily find in my car. I packed my head lights. When I left Poonamalie it was almost dark.
 
@@ -197,7 +197,7 @@ The deep of the night was over. We could see the dawn on the horizon. I left my 
 The volunteers at the station told us a story about Shawn (Team Creek Freak).
 
 
-### The Long Reach (40km)
+## The Long Reach (40km)
 
 - I left Burritts Rapids Lock at dawn. The river was still like a mirror. All that changed just before sunrise.
 - The wind started at 5:30am, according to Environment Canada >30 km/h, gusts felt stronger, came from Northeast, difficult to find protection
@@ -210,11 +210,13 @@ The volunteers at the station told us a story about Shawn (Team Creek Freak).
 
 After 35 km The paddlers will see the Long Island after 35 km. But the name was given for a reason. Another five kilometers have to be paddled before the lock finally appears.
 
-### The Rest (16km)
+## The Rest (16km)
 
-### Finish at the Rideau Canoe Club
+## Finish at the Rideau Canoe Club
 
 My GPS showed 196 km at this place.
+
+![Finished - literally](2018-07-22.jpg)
 
 # Technical Analysis
 
