@@ -2,7 +2,7 @@
 
 Ontario's longest marathon paddle race
 
-![On my way to Ottawa](https://photos.app.goo.gl/NxSFUXEmQ9Cnsh3U9)
+![On my way to Ottawa](https://flic.kr/p/28tQLyL)
 
 # What's the story?
 
