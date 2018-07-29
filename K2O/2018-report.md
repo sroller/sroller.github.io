@@ -4,7 +4,7 @@ Ontario's longest marathon paddle race
 
 ![The author in 2018](k2o-7-6.jpg)
 
-# What's the story?
+## Why oh way
 
 The [K2O](http://kingston2ottawa.ca) is an iconic race. For me it is THE iconic paddle race. It takes place on the [Rideau Waterway](https://en.wikipedia.org/wiki/Rideau_Canal) which is managed by Parks Canada and a designated UNESCO World Heritage Site. It connects the old capital Kingston with current capital Ottawa.
 
@@ -36,7 +36,7 @@ I pinched a nerve in my right leg 10 days before the race. I followed my doctor'
 Another year, another race. In 2018 everything came together.
 
 
-# The Route
+## The Route
 
 The race starts from the Cataraqui Canoe Club in Kingston. First the paddlers have to go out to Lake Ontario before they turn around and come back into the sheltered waters of the Cataraqui River. The route leads North towards the Kingston Mills Lockstation, continues through Colonel By Lake into the River Styx to the Lower Brewers. Cranberry Lake follows the Upper Brewers. At the end of Whitefish Lake lies Jones Falls Lock. The waterway winds through the landscape to Sand Lake, Opinicon Lake, Indian Lake, Clear Lake and finally into Newboro Lake, the first bigger lake.
 The Newboro Lockstation is the highest point on the way to Ottawa. After the lock is passed the way leads through the Upper Rideau Lake to Rideau Narrows.
@@ -48,6 +48,8 @@ The racer have to portage 11 locks over the next 35 km. When they leave the last
 The paddlers who made it to this place have already more than 180 km behind them. The remaining 14 km are a piece of cake. The last portage at the Black Rapids Lock #13 is a short 165 m. From here it's only 6 km until the racers cross the finishing line at the docks of the Rideau Canoe Club in Ottawa, close to Hog's Back.
 
 # Race Days
+
+## Getting there
 
 We live in Kitchener, ON. We took Friday off from work and drove to Kingston. I had booked a hotel room less than 15 min drive away from the start at the Cataraqui Canoe Club. We checked in the afternoon. I had a good chat with the folks from [Infinite Blue]. My wife bought me paddle shorts for my birthday in September which I wore for the race. I stored my boat at the club for the night. A big thank you to the club members for the permission to use their premises. Then we went for dinner in downtown Kingston. I had a big pasta meal with chicken.
 ![Briefing](2018-07-20-briefing.JPG)
@@ -72,7 +74,7 @@ The start was the usual crowded place. I alway stay at the end of the field. I c
 
 We started eventually at 06:01:00am.
 
-## Kingstons to Rideau Narrows
+## Kingstons to Rideau Narrows (73 km)
 
 The segment on the big lake was even more uncomfortable than I feared. The waves were probably 0.5m high coming from the left. I tried to cut through them to help my balance. A few times I almost went over.
 While I was fighting the waves Shawn (Team Creek Freak) had already turned and passed me on his way back North. This man is a machine!
@@ -89,15 +91,30 @@ Ok then.
 I have the following technique: First I lift the boat on my thighs and in a second step I put it on my (usually right) shoulder. I had forgotten that Kingston Mills is one of the longer portages. It is 350 m long and one has to go up 14 meters. After 100 m of carrying my kayak I surrendered and put the boat on my cart.
 Before I continued I stored my Starbucks Latte and the ginger molasses cookie Lynne had for me. I know, that doesn't sound very sporty for some of the readers. But it works for me.
 
-- Kingston Mills
-- Lower Brewers
-- Upper Brewers
+Behind Kingston Mills lies the River Styx. I could see two kayakers in front of me. As I should learn later one of them was Brian King of Ottawa (Team Haulin' Yak - King). I was playing catch up.
 
-- bridge was open when I came because of jetski
+After the more open River Styx the course leads through narrow channels. I passed the Lower and the Upper Brewers Mills.
 
-- power boats and jet skis were a general annoyance
+At the race briefing on Friday night we were reminded of the Brass Point Bridge. It very low but if you keep your heads very low a paddler can pass it without problems.
+When I approached the bridge it was opened for a jetski to pass through. The operator kept the cars waiting for another 30 seconds and let me pass as well. That was very convenient.
 
-### Rideau Narrows to Poonamalie (30km)
+A word on the jetskies or Seadogs as the Bombardier brand is named. Those are a general annoyance. They seem to have less etiquette than "normal" boaters. I'm sure those jetski riders are nice people - on shore. But I came to hate them on the water.
+At some particular occasion in one of the narrow channels befor Jones Falls Locks there were two vehicles: One male - probably the father and one with a female and a teenager. They slowly passed me coming from behind in a close distance creating a big wake. Then they stopped 50 m in front of me to discuss a matter while I was catching up and now I was passing them. Two minutes later they seems to have made a decision and move on just to pass me yet again. I was uttering deadly threats on my end towards to extinction of all jetski riders once and for all until they finally disappeared around the next river bend.
+
+Lo and behold - five minutes later they were back returning from whereever they just went now passing me from the front. I considered to call in air support from the RCAF.
+
+Those guys were just the first of many to come. As it turned out the faster they go the less wake they create. At the Newboro Lock I had some exchange about this with the guys from team Canoe Dig It and they had the same observation.
+
+After leaving the Upper Brewers the recommded course breaks off the official navigational channel and leads the paddlers through some very narrow connections into Sand Lake. Here I had my first encounter with a cluster of power boats with QC numbers which very racing for the next spot at Davis Lock. Those guys throw even bigger waves than the pesky jetskis. As long as I was aware of the coming wake I turn the kayak towards and cut through the wave. Kayaks are built for this. Canoes might have a more difficult time though.
+
+Oh and by the way all those power boats where still waiting while I portaged Davis Lock unassisted.
+
+At Chaffey's Lockstation I got new coffee from Lynne - yay! Off to Newboro Lake.
+
+Newboro Lake is the first bigger lake and I had to consider the wind conditions. Two years ago I hugged the banks on my Port side. This year I tried to optimize the distance while avoiding the wind. I took a more direct route hopping from island to island while trying to stay in wind protected areas. I didn't matter much though but it was fun.[^]
+
+
+## Rideau Narrows to Poonamalie (30km)
 
 _Dos Amigos_, _Canoe Dig It_ and I spent a few minutes together at the Narrow Lock Station. I had a chat with Radu Crisu of _Dos Amigos_. (We knew each other from the [Big East River X] in Huntsville where we paddled side by side for a while last year. Radu used his paddles intentionally "the wrong way" and he explained to me why he thought that was a good thing.) We compared our GPS recordings so far. I had logged a bit over 73 km and he was at over 75 km. We agreed that this was within the expected variation. Although we used the suggested GPX data from the race organisers we didn't paddle the _exact_ same course. At the end of our conversation Radu said: "75 km is much better than 73, because it is already in the fourth eighth of the race!". It was obvious that he was playing the same mindgames as I was and perhaps all of us. The overall distance is so overwhelming therefore we divide the full distance into smaller pieces -- in 10% segments, in thirds, quarters, fifths and so on. We compare it to known routes from home like "I did the _EPIC paddle_ earlier this year which goes over 94 km. I'm still 19 km under that. No big deal!". Those thoughts help to deal with the long and monotone segments one has to go through.
 
@@ -251,3 +268,5 @@ I'm using a [portaging cart](https://www.mec.ca/en/product/5032-082/Mini-Tuff-Ti
 [Texas Water Safari]: http://www.texaswatersafari.org/
 [Infinite Blue]: (https://infiniteblue.blue/)
 [SPOT3]: https://www.findmespot.com/en/index.php?cid=100
+
+[^] For those who interested in the details - here's the [link](https://drive.google.com/open?id=1bIGoepeJ0ixuNrj_76IFFbemKIE&usp=sharing) to the map with the tracks.
