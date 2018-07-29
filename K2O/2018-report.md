@@ -14,11 +14,24 @@ There are other ultra marathon paddle races in North America like the [Yukon Riv
 
 Not so in the K2O. The winning teams often make it under 24 hours and the cut off time at the finish is 36 hours.
 
-I learned about the race 
+The first time I read about the race was in 2014. There was this webpage about this crazy race on this iconic waterway. At that time I only paddled a 14ft sit-on-top kayak which is 29 inch wide and by no means a boat in which one could race. As it turned out the race director was a coworker of my wife. He tried to bring me in as member of a relay team. But I didn't dare, I wasn't ready back then. I went to Iceland for a paddle trip that Summer. In the Fall I purchased my first fiber glass boat - a Wilderness Tempest 170PRO. Things changed. The K2O changed. Now they offered a half distance for chicken like me who didn't want to go 200 km the very first time.
 
-[Yukon River Quest]: https://www.yukonriverquest.com/
-[Missouri American Water MR340]: https://rivermiles.com/mr340/
-[Texas Water Safari]: http://www.texaswatersafari.org/
+100 km seemed more doable. I found another crazy guy just down the hallway in my office. The two of us paddled from the 8th line bridge North of Westmontrose to Paris, Ontario on the Grand River. We logged 88.4 km. Colleagues at work called it an "Epic Paddle". The name stuck. We were disappointed that we hadn't crossed the magical 90 km marker. So in 2017 we started a few kilometers upstream at the lower bridge of the Elora Gorge. After that day the odometer on my GPS show 94 km. It was also way more catchy to say: "We paddled from the Elora Gorge to Paris, ON in one day". Nobody knew where the 8th Line crosses the Grand after all.
+This year - 2018 - we were four kayaks and one canoe to cover the full distance. We're planning an **Epic Paddle** for the next year. It will be open for everybody who thinks can paddle 94km in 14ish hours. Perhaps we've started a tradition.
+
+In August 2016 I took my 17ft touring kayak to the K&frac12;O. I went from Kingston to Smiths Falls in 16 hours 24 minutes. I had wait out a thunderstorm with lightning and some torrential rain which costed me one hour.
+I noticed that the good paddlers all seem to be in an EPIC kayak (this time I mean the brand). After the race I decided if I'd ever go for the full distance I needed an EPIC.
+
+I setup an alert on Kijiji. When an ad came up in September I could not not buy it.
+
+I decided to start in 2017. We went to Florida on vacation the Fall before where I was able to rent a brand new EPIC 18X Sport for two weeks. I paddled every day and clocked eventually 320 km in the mangroves. I registered. We had our Epic paddle in early Summer. Overall I logged more than 1,200 km. I had lined up a bigger shore crew to cover the night. I was prepared.
+
+What I wasn't prepared for was injury.
+
+I pinched a nerve in my right leg 10 days before the race. I followed my doctor's advice and cancelled my start the Tuesday before the 2017 K2O. I was devastated.
+
+Another year, another race. In 2018 everything came together.
+
 
 ## The Route
 
@@ -149,11 +162,13 @@ I still had 16 oz Starbucks Grande Latte in my Stanley thermos mug. The coffee c
 
 Pain is an interesting thing. I experienced if you ignore it long enough it will stop at some point. My shoulder-neck muscles were very sore. I had sometimes cramps in my inner thighs. But over time this became less and less an issue. I think the brain switches off certain communication lines in the body. As my colleague on Monday said: It's mind over matter. If you can manage that you'll be successful in the end.
 
-So let's go.
+So let's go then.
 
-I wanted to give up.
+I want to give up.
 
 No I don't.
+
+Mindgames.
 
 At the end of the Lower Rideau is a potential short cut - the so called [Mud Cut]. I found the entrance on Google Maps. I created a waypoint in my GPS. I couldn't find the [Mud Cut]. After a brief irritation I just went back into the navigational channel and continued on the recommended route.
 
@@ -201,3 +216,8 @@ When I came in to Poonamalie there was still light. Two years ago - when I paddl
 # Stories
 
 ## What ever happened to Shawn aka The Creek Freak?
+
+[Yukon River Quest]: https://www.yukonriverquest.com/
+[Missouri American Water MR340]: https://rivermiles.com/mr340/
+[Texas Water Safari]: http://www.texaswatersafari.org/
+
