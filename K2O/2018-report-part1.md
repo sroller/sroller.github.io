@@ -19,7 +19,7 @@ The first time I read about the race was in 2014. There was this webpage about t
 Things changed. The K2O changed. Now they offered a half distance for chicken like me who didn't want to go 200 km the very first time.
 100 km seemed more doable.
 
-I found another crazy guy. He works just down the hallway in my office. The two of us paddled from the 8th line bridge North of Westmontrose to Paris, Ontario on the Grand River. We logged [88.3 km](https://www.endomondo.com/users/2331405/workouts/578506690). Colleagues at work called it an "Epic Paddle". The name stuck. We were disappointed that we hadn't crossed the magical 90 km marker. So in 2017 we started a few kilometers upstream at the lower bridge of the Elora Gorge. After that day the odometer on my GPS show [93.4 km](https://www.endomondo.com/users/2331405/workouts/958850726). Given the new starting point it was also way more catchy to say: "We paddled from the Elora Gorge to Paris, ON in one day". Nobody knew where the 8th Line crosses the Grand after all.
+I found another crazy guy. He works just down the hallway in my office. The two of us paddled from the 8th line bridge North of West Montrose to Paris, Ontario on the Grand River. We logged [88.3 km](https://www.endomondo.com/users/2331405/workouts/578506690). Colleagues at work called it an "Epic Paddle". The name stuck. We were disappointed that we hadn't crossed the magical 90 km marker. So in 2017 we started a few kilometers upstream at the lower bridge of the Elora Gorge. After that day the odometer on my GPS show [93.4 km](https://www.endomondo.com/users/2331405/workouts/958850726). Given the new starting point it was also way more catchy to say: "We paddled from the Elora Gorge to Paris, ON in one day". Nobody knew where the 8th Line crosses the Grand after all.
 This year - 2018 - we were four kayaks and one canoe to cover the [full distance](https://www.endomondo.com/users/2331405/workouts/1137787341). We're planning an **Epic Paddle** for the next year. It will be open for everybody who thinks can paddle 94km in 14ish hours. Perhaps we've started a tradition.
 
 In August 2016 I took my 17ft touring kayak to the K&frac12;O. I went from Kingston to Smiths Falls in 16 hours 24 minutes. I had wait out a thunderstorm with lightning and some torrential rain which costed me one hour.
@@ -49,7 +49,7 @@ The paddlers who made it to this place have already more than 180 km behind them
 
 # Race Days
 
-## Getting there
+## Friday
 
 We live in Kitchener, ON. We took Friday off from work and drove to Kingston. I had booked a hotel room less than 15 min drive away from the start at the Cataraqui Canoe Club. We checked in the afternoon. I had a good chat with the folks from [Infinite Blue]. My wife bought me paddle shorts for my birthday in September which I wore for the race.
 
