@@ -53,7 +53,7 @@ The paddlers who made it to this place have already more than 180 km behind them
 
 We live in Kitchener, ON. We took Friday off from work and drove to Kingston. I had booked a hotel room less than 15 min drive away from the start at the Cataraqui Canoe Club. We checked in the afternoon. I had a good chat with the folks from [Infinite Blue]. My wife bought me paddle shorts for my birthday in September which I wore for the race.
 
-![Pre-race briefing](2018-07-20-briefing.JPG)
+![Pre-race briefing](2018-07-20-briefing.jpg)
 
 I stored my boat at the club for the night. A big thank you to the club members for the permission to use their premises. From there we went to downtown Kingston for dinner. I had a big pasta meal with chicken; and beer.
 
