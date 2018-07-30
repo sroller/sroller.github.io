@@ -2,39 +2,39 @@
 
 Ontarios längstes Marathon-Paddelrennen
 
-Der Autor im Jahr 2018](k2o-7-6.jpg)
+![Der Autor im Jahr 2018](k2o-7-6.jpg)
 
-## Why oh way
+## Warum machst Du sowas?
 
-Die[K2O](http://kingston2ottawa.ca) ist eine ikonische Rasse. Für mich ist es DAS ikonische Paddelrennen. Sie findet auf dem[Rideau Waterway] (https://en.wikipedia.org/wiki/Rideau_Canal) statt, der von Parks Canada verwaltet wird. Die Wasserstraße ist von der UNESCO zum Weltkulturerbe erklärt worden. Sie verbindet die alte Hauptstadt Kingston mit der heutigen Hauptstadt Ottawa.
+Das [K2O](http://kingston2ottawa.ca) ist eine besondere Regatta. Für mich ist es _das_ Paddelrennen an sich. Es findet auf dem [Rideau Waterway] (https://en.wikipedia.org/wiki/Rideau_Canal) statt, der von Parks Canada verwaltet wird. Die Wasserstraße ist von der UNESCO zum Weltkulturerbe erklärt worden. Sie verbindet die alte Hauptstadt Kingston mit der heutigen Hauptstadt Ottawa.
 
-Für diejenigen, die die Gegend erkunden wollen, gibt es gute Online-Ressourcen, z.B. [Watson's Paddling Guide to the Rideau Canal] (http://www.rideau-info.com/canal/paddling/guides.html). Man sagt, dass die Tour von Ottawa nach Kingston oder umgekehrt eine gute einwöchige Reise ist.
+Für diejenigen, die die Gegend erkunden wollen, gibt es gute Online-Ressourcen, z.B. [Watson's Paddling Guide to the Rideau Canal] (http://www.rideau-info.com/canal/paddling/guides.html). Die Tour von Ottawa nach Kingston oder umgekehrt eine gut einwöchige Reise.
 
-Es gibt noch andere Ultra-Marathon-Paddelrennen in Nordamerika, wie das[Yukon River Quest],[Missouri American Water MR340], die[Texas Water Safari]. Diese sind zwar länger, aber alle von ihnen verlangen Stopps oder erwarten zumindest, dass die Rennfahrer unterwegs Pausen einlegen.
+Es gibt noch andere Ultra-Marathon-Paddelrennen in Nordamerika, wie das [Yukon River Quest], [Missouri American Water MR340], die[Texas Water Safari]. Diese sind zwar alle länger, aber alle von ihnen haben verpflichtende Zwischenstopps oder erwarten zumindest, dass die Teilnehmer unterwegs Pausen einlegen.
 
-Nicht so im K2O. Die Siegerteams schaffen es oft unter 24 Stunden und die Cut-Off-Zeit im Ziel beträgt 36 Stunden.
+Nicht so im K2O. Die Siegerteams schaffen es oft unter 24 Stunden und die Zielschlußzeit beträgt 36 Stunden.
 
-Das erste Mal las ich über das Rennen im Jahr 2014. Da war diese Webseite über dieses verrückte Rennen auf dem Rideau. Damals paddelte ich nur ein 14 Fuß langes 29 Zoll breites Sit-on-Top-Kajak. Das war keineswegs ein Boot, auf dem man Rennen fahren konnte. Wie sich herausstellte, war der Rennleiter ein Mitarbeiter meiner Frau. Er hat versucht, mich als Mitglied einer Staffel zu gewinnen. Aber ich wagte es nicht, ich war damals noch nicht bereit. Ich war in diesem Sommer auf einer Paddeltour in Island. Im Herbst kaufte ich mein erstes Fiberglasboot - ein Wilderness Tempest 170PRO.
+Das erste Mal las ich über das Rennen im Jahr 2014. Es gab da ein Webseite über ein verrückte Rennen auf dem Rideau. Damals hatte ich nur einen 14 Fuß langen 29 Zoll breiten Sit-on-Top-Kajak. Das war kein Boot, mit dem man an Rennen hätte teilnehmen können. Wie sich herausstellte, war der Rennorganiator ein Kollege meiner Frau. Als er von meinem Interess erfuhr hat er versucht, mich als Mitglied für eine Staffel zu gewinnen. Aber ich traute mich nicht, ich war damals noch nicht soweit. Im Sommer des Jahre reiste ich zu einer Paddeltour nach Island. Im Herbst kaufte ich dann mein erstes Fiberglasboot - ein Wilderness Tempest 170PRO.
 
-Die Dinge haben sich geändert. Der K2O hat sich geändert. Jetzt haben sie eine halbe Strecke für Hühner wie mich angeboten, die beim ersten Mal keine 200 km fahren wollten.
+Die Dinge haben sich geändert. Das K2O hat sich geändert. Inzwischen hatten sie eine halbe Strecke für Feiglinge wie mich im Angebot, die beim ersten Mal keine 200 km fahren wollten.
+
 100 km schienen machbarer.
 
-Ich habe einen anderen Verrückten gefunden. Er arbeitet den Flur entlang in meinem Büro. Wir beide paddelten von der 8. Linienbrücke nördlich von Westmontrose nach Paris, Ontario am Grand River. Wir haben uns angemeldet [88,3 km](https://www.endomondo.com/users/2331405/workouts/578506690). Kollegen bei der Arbeit nannten es ein "Episches Paddel". Der Name steckt fest. Wir waren enttäuscht, dass wir die magische 90 km-Marke nicht überquert hatten. So starteten wir 2017 einige Kilometer flussaufwärts an der unteren Brücke der Elora-Schlucht. Nach diesem Tag wird der Kilometerzähler auf meinem GPS angezeigt[93.4 km](https://www.endomondo.com/users/2331405/workouts/958850726). Angesichts der neuen Ausgangslage war es auch viel eingängiger zu sagen: "Wir paddelten von der Elora-Schlucht nach Paris, an einem Tag." Niemand wusste, wo die 8. Linie den Grand überquert.
-Dieses Jahr - 2018 - waren wir vier Kajaks und ein Kanu, um die gesamte Strecke zu bewältigen (https://www.endomondo.com/users/2331405/workouts/1137787341). Wir planen ein **Epic Paddle** für das nächste Jahr. Es ist offen für alle, die glauben, in 14 Stunden 94 km paddeln zu können. Vielleicht haben wir eine Tradition begonnen.
+Ich fand andere Verrückte gefunden. Einer davon arbeitet auf dem gleichen Flur wie ich im Büro. Wir beide paddelten von der 8th Line Brück nördlich von Westmontrose nach Paris, Ontario auf Grand River. Wir machten [88,3 km](https://www.endomondo.com/users/2331405/workouts/578506690). Unsere Arbeitskollegen nannten es das "EpiC Paddeln". Der Name blieb. Wir waren enttäuscht, dass wir die magische 90 km-Marke nicht erreicht hatten. Deswegen starteten wir 2017 einige Kilometer weiter flussaufwärts an der unteren Brücke der Elora-Schlucht. Den Tag zeigte der Kilometerzähler auf meinem GPS [93.4 km](https://www.endomondo.com/users/2331405/workouts/958850726) an. Angesichts der neuen Strecke war es auch viel eingängiger zu sagen: "Wir paddelten von der Elora-Schlucht nach Paris, an einem Tag." Niemand wusste, wo die 8th Line den Grand überquert.
+Heuer - 2018 - waren wir vier Kajaks und ein Kanu, welche die gesamte Strecke bewältigten (https://www.endomondo.com/users/2331405/workouts/1137787341). Wir planen ein **Epic Paddeln** für das nächste Jahr. Es ist offen für alle, die glauben, in 14 Stunden 94 km paddeln zu können. Möglicherweise haben wir eine Tradition gestartet.
 
-Im August 2016 fuhr ich mit meinem 17ft Tourenkajak zum K&frac12;O. Ich fuhr von Kingston nach Smiths Falls in 16 Stunden und 24 Minuten. Ich hatte ein Gewitter mit Blitzen und sintflutartigem Regen abgewartet, das mich eine Stunde kostete.
-Ich bemerkte, dass die guten Paddler alle in einem EPIC-Kajak zu sein scheinen (diesmal meine ich die Marke). Nach dem Rennen entschied ich mich, ob ich jemals die volle Strecke fahren würde, und brauchte einen EPIC.
+Im August 2016 nahm ich mit meinem 17ft Tourenkajak am K&frac12;O teil. Ich paddelte von Kingston nach Smiths Falls in 16 Stunden und 24 Minuten. Auf dem Weg dorthin mußte ich wegen eines Gewitters mit sintflutartigem Regen eine Stunde Unterschlupf suchen.
+Ich bemerkte, dass die guten Paddler alle in einem EPIC-Kajak zu sein schienen. Nach dem Rennen beschloß ich, wenn ich jemals die volle Strecke paddeln würde bräuchte ich auch einen EPIC.
 
-Ich habe einen Alarm für Kijiji eingerichtet. Als im September eine Anzeige erschien, konnte ich sie nicht kaufen.
+Daraufhin habe ich auf Kijiji einen Alarm für EPICs eingerichtet. Als im September eine Anzeige erschien für einen EPIC 18X Sport auftauchte mußte ich einfach zuschlagen. Es war ein Schnäppchen.
 
-Ich beschloss, 2017 zu beginnen. Im November 2016 fuhren wir nach Florida, wo ich einen brandneuen EPIC 18X Sport für zwei Wochen mieten konnte. Ich paddelte jeden Tag und fuhr schließlich 320 km in den Mangroven. Ich habe mich registriert. Wir hatten unser Epic Paddel im Frühsommer. Insgesamt habe ich mehr als 1.200 km zurückgelegt. Ich hatte eine größere Küstencrew aufgestellt, um die Nacht abzudecken. Ich war vorbereitet.
+Mein Plan war am Rennen in 2017 teilzunehmen. Im November 2016 fuhren wir nach Florida, wo ich einen brandneuen EPIC 18X Sport mieten konnte. Ich paddelte jeden Tag durch die Mangroven und hatte nach zwei Wochen 320 km zurückgelegt. Danach meldete ich für den Wettbewerb in 2017. Wir hatten unser Epic Paddel im Frühsommer. Insgesamt hatte ich mehr als 1,200 km zurückgelegt. Ich hatte eine größere Supportmannschaft aufgestellt, um auch die Nacht abzudecken. Ich war vorbereitet.
 
 Worauf ich nicht vorbereitet war, war eine Verletzung.
 
-Ich habe mir 10 Tage vor dem Rennen einen Nerv im rechten Bein eingeklemmt. Ich bin dem Rat meines Arztes gefolgt und habe meinen Start am Dienstag vor dem K2O 2017 abgesagt. Ich war am Boden zerstört.
+10 Tage vor dem Rennen klemmte ich mir einen Nerv im rechten Bein. Ich folgte dem Rat meines Arztes und sagte meinen Start am Dienstag vor dem K2O 2017 ab. Ich war am Boden zerstört.
 
-Ein weiteres Jahr, ein weiteres Rennen. Im Jahr 2018 kam alles zusammen.
-
+Ein neues Jahr, ein neues Rennen. Im Jahr 2018 kam alles zusammen.
 
 ## Die Route
 
