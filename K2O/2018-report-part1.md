@@ -177,6 +177,10 @@ Navigation by night was interesting. I had use the official GPX track from the K
 
 I set my GPS to a display timeout of 30 seconds. When I arrive at a waypoint the eTrex would make a sound and the display would go on. I then had 30 seconds to turn the kayak to the bearing. The time was plenty. I then picked a star from the sky in front of me and steered towards it. I felt so cool. It was like the old polynesian navigators.
 
+## Sunday
+
+While I was looking to find the Kilmarnock Lockstation the next day began. I overshoot the entry point because it was lined with white and red buoys. At most other locks those buoys would block the path. Here they shaped a a channel leading to the jetty. After 50 meters I noticed my mistake and turned around.
+
 After Kilmarnock Lock there was such a turning point on the route which led me directly into the weeds. I struggled to find a way. I wanted to return to the navigational channel. While I fumbled with my charts I spotted a light closing in on me.
 
 Somebody asked: "Are you ok?". I recognized Radu's voice.
