@@ -43,9 +43,9 @@ The Newboro Lockstation is the highest point on the way to Ottawa. After the loc
 
 The Narrows are the 8th portage of the race. The next leg is the second longest of the race. The paddlers will navigate through the Big Rideau and the Lower Rideau Lake to finally arrive in Poonamalie after more than 30 km.
 
-The racer have to portage 11 locks over the next 35 km. When they leave the last one at Burritts Rapids Lock #17 then the _Long Reach_ begins. For endless 40 km there is no lock. It is the longest leg of the race.
+The participants have to portage 11 locks over the next 35 km. When they leave the last one at Burritts Rapids Lock #17 then the _Long Reach_ begins. For endless 40 km there is no lock. It is the longest segment of the race.
 
-The paddlers who made it to this place have already more than 180 km behind them. The remaining 14 km are a piece of cake. The last portage at the Black Rapids Lock #13 is a short 165 m. From here it's only 6 km until the racers cross the finishing line at the docks of the Rideau Canoe Club in Ottawa, close to Hog's Back.
+The paddlers who made it to Long Island have already more than 180 km in their backwash. The remaining 14 km are a piece of cake. The last portage at the Black Rapids Lock #13 is a short 165 m. From here it's only 6 km until the racers cross the finishing line at the docks of the Rideau Canoe Club in Ottawa, close to Hog's Back.
 
 # Race Days
 
@@ -56,6 +56,8 @@ We live in Kitchener, ON. We took Friday off from work and drove to Kingston. I 
 ![Pre-race briefing](2018-07-20-briefing.jpg)
 
 I stored my boat at the club for the night. A big thank you to the club members for the permission to use their premises. From there we went to downtown Kingston for dinner. I had a big pasta meal with chicken; and beer.
+
+## Saturday
 
 The alarm went off at the ungodly time of 04:30am. While I was getting dressed I ran the coffee maker in the room. It was too early to eat something.
 We arrived at the club by 05:15am. I moved my kayak out of the boat house and prepared for the start. I tied my little GPS cradle to the deck, put the charts into the SealLine map case and tethered it to the deck lines. I stored the paddle float behind the back bend, tied the spare paddle and the pump on the after deck.
@@ -163,7 +165,7 @@ While planning I had considered to change into new clothes. I skipped that. It w
 There would be another eight locks aka portages until I'd reach Burritts Rapids. The next lock was just 400 m away. I didn't even close my skirt. Needless to say that Kent couldn't make it. I carried my kayak over the 220 m to the put in place. It was now easier because since Newboro all locks were descending.
 
 Next stop was at Old Slys Locks. This is one of the two locks in which I could get help portaging my boat. Kent missed me by two minutes or so. It took longer to drive from lock to lock than to paddle. The volunteer at Old Slys was a gentleman who did this for the fourth year in the row. He was spending he's weekend sitting under a canopy at a lock in rural Ontario to help paddlers portaging their boats through the night. I big shout out to all the volunteers who made this race possible. You guys were crucial for our success. All the portage routes were meticulously marked with glowing sticks. There was a person on every lock who guided me through the unknown trails. Thank you to the lady who gave me some of her tablets against my heartburn! I don't remember which lock it was. Somethings are just a blur.
-I chatted with the gentlemen at Old Slys while he was carrying the bow of my kayak. I thanked him that he would help us crazy ones to fullfill our dream (nightmares?). He said that would be something I will remember on my dead bed. I've done something 95% of the people wouldn't do. There would be no regrets.
+I chatted with the gentlemen at Old Slys while he was carrying the bow of my kayak (I learned that my helper in the night was Robert Douglas of Ottawa). I thanked him that he would help us crazy ones to fullfill our dream (nightmares?). He said that would be something I will remember on my dead bed. I've done something 95% of the people wouldn't do. There would be no regrets.
 
 Thank you man! How could I ever consider to retire from a race where such fine people helping me.
 
