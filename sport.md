@@ -19,4 +19,8 @@
 [RiverX]: http://muskokariverx.com
 [That Dam Hespeler]: http://damhespeler.com
 
+[Yukon River Quest]: https://www.yukonriverquest.com/
+[Missouri American Waters MR340]: https://rivermiles.com/mr340/
+[Texas Water Safari]: http://www.texaswatersafari.org/
+
 ## Outdoor
