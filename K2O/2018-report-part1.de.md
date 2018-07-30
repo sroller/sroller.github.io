@@ -20,7 +20,7 @@ Die Dinge haben sich geändert. Das K2O hat sich geändert. Inzwischen hatten si
 
 100 km schienen machbarer.
 
-Ich fand andere Verrückte gefunden. Einer davon arbeitet auf dem gleichen Flur wie ich im Büro. Wir beide paddelten von der 8th Line Brück nördlich von Westmontrose nach Paris, Ontario auf Grand River. Wir machten [88,3 km](https://www.endomondo.com/users/2331405/workouts/578506690). Unsere Arbeitskollegen nannten es das "EpiC Paddeln". Der Name blieb. Wir waren enttäuscht, dass wir die magische 90 km-Marke nicht erreicht hatten. Deswegen starteten wir 2017 einige Kilometer weiter flussaufwärts an der unteren Brücke der Elora-Schlucht. Den Tag zeigte der Kilometerzähler auf meinem GPS [93.4 km](https://www.endomondo.com/users/2331405/workouts/958850726) an. Angesichts der neuen Strecke war es auch viel eingängiger zu sagen: "Wir paddelten von der Elora-Schlucht nach Paris, an einem Tag." Niemand wusste, wo die 8th Line den Grand überquert.
+Ich fand andere Verrückte. Einer davon arbeitet auf dem gleichen Flur wie ich im Büro. Wir beide paddelten von der 8th Line Brück nördlich von Westmontrose nach Paris, Ontario auf Grand River. Wir machten [88,3 km](https://www.endomondo.com/users/2331405/workouts/578506690). Unsere Arbeitskollegen nannten es das "EpiC Paddeln". Der Name blieb. Wir waren enttäuscht, dass wir die magische 90 km-Marke nicht erreicht hatten. Deswegen starteten wir 2017 einige Kilometer weiter flussaufwärts an der unteren Brücke der Elora-Schlucht. Den Tag zeigte der Kilometerzähler auf meinem GPS [93.4 km](https://www.endomondo.com/users/2331405/workouts/958850726) an. Angesichts der neuen Strecke war es auch viel eingängiger zu sagen: "Wir paddelten von der Elora-Schlucht nach Paris, an einem Tag." Niemand wusste, wo die 8th Line den Grand überquert.
 Heuer - 2018 - waren wir vier Kajaks und ein Kanu, welche die gesamte Strecke bewältigten (https://www.endomondo.com/users/2331405/workouts/1137787341). Wir planen ein **Epic Paddeln** für das nächste Jahr. Es ist offen für alle, die glauben, in 14 Stunden 94 km paddeln zu können. Möglicherweise haben wir eine Tradition gestartet.
 
 Im August 2016 nahm ich mit meinem 17ft Tourenkajak am K&frac12;O teil. Ich paddelte von Kingston nach Smiths Falls in 16 Stunden und 24 Minuten. Auf dem Weg dorthin mußte ich wegen eines Gewitters mit sintflutartigem Regen eine Stunde Unterschlupf suchen.
@@ -36,13 +36,36 @@ Worauf ich nicht vorbereitet war, war eine Verletzung.
 
 Ein neues Jahr, ein neues Rennen. Im Jahr 2018 kam alles zusammen.
 
-## Die Route
+# Tages des Wettkampfs
 
-Das Rennen beginnt im Cataraqui Canoe Club in Kingston. Zuerst müssen die Paddler zum Ontariosee fahren, bevor sie sich umdrehen und in die geschützten Gewässer des Cataraqui-Flusses zurückkehren. Die Route führt nach Norden zur Kingston Mills Lockstation, weiter durch Colonel By Lake in den Fluss Styx zu den Lower Brewers. Cranberry Lake folgt den Upper Brewers. Am Ende des Whitefish Lake liegt die Jones Falls Lock. Der Wasserweg schlängelt sich durch die Landschaft zum Sand Lake, Opinicon Lake, Indian Lake, Clear Lake und schließlich zum Newboro Lake, dem ersten größeren See.
-Die Newboro Lockstation ist der höchste Punkt auf dem Weg nach Ottawa. Nach der Schleuse führt der Weg durch den Upper Rideau Lake nach Rideau Narrows.
+## Freitag
 
-Die Narrows sind die 8. Portage des Rennens. Die nächste Etappe ist die zweitlängste des Rennens. Die Paddler werden durch den Big Rideau und den Lower Rideau Lake fahren, um schließlich nach über 30 km in Poonamalie anzukommen.
+Wir wohnen in Kitchener, ON. Wir nahmen uns den Freitag frei und fuhren nach Kingston. Ich hatte ein Hotelzimmer gebucht, das 15 Autominuten vom Start im Cataraqui Canoe Club entfernt war. Wir haben am Nachmittag eingecheckt. Ich hatte ein gutes Gespräch mit den Leuten von [Infinite Blue]. Meine Frau kaufte mir zu meinem Geburtstag im September eine Paddelhose, die ich für das Rennen trug.
 
-Die Rennfahrer müssen die
+![vor dem Rennen](2018-07-20-briefing.JPG)
+
+Ich habe mein Boot im Club für die Nacht im Bootsschuppen einschließen lassen. Ein großes Dankeschön an die Clubmitglieder für die Erlaubnis, ihre Räumlichkeiten zu nutzen. Von dort ging es zum Abendessen in die Innenstadt von Kingston. Ich hatte ein großes Nudelgericht mit Huhn und Bier.
+
+Der Alarm ging um 04:30 Uhr los. Während ich mich anzog, leitete ich die Kaffeemaschine im Zimmer. Es war zu früh, um etwas zu essen.
+Wir kamen um 05:15 Uhr im Club an. Ich zog mein Kajak aus dem Bootshaus und bereitete mich auf den Start vor. Ich band meine kleine GPS-Halterung an das Deck, legte die Karten in das SealLine Kartenetui und befestigte sie an den Deckslinien. Ich lagerte den Paddelschwimmer hinter der hinteren Kurve, band das Ersatzpaddel und die Pumpe auf dem Achterdeck fest.
+Die Wurfleine und das Essen gingen in die Tagesluke.
+
+Ich habe etwas Wind bemerkt. Es war mehr, als ich am frühen Morgen erwartet hätte. Die Vorhersage für Samstag sah Süd- bis Südostwind mit Geschwindigkeiten um 10 - 15 km/h und noch mehr in Böen vor. Das hat mir nicht gut gefallen. Ich erinnerte mich an die Bedingungen im Jahr 2016, als wir sehr starke Winde von hinten hatten, die für ein sehr technisches Paddeln sorgten. Meine Bedenken betrafen nicht so sehr das Flusspaddeln. Der Wind wäre dort nur ein Ärgernis. Ich hatte Angst vor dem Abschnitt, in dem wir am Rande des Ontariosees unterwegs waren.
+
+Ich kenterte am Lake Huron im Urlaub in der Nähe von Bayfield, ON. Ich blies mehrere Rollen und musste den Ausgang nass machen. Ich konnte auch nicht mit meinem Paddelschwimmer umgehen. Ich brauchte nur ein paar Minuten, um mit meinem Boot ans Ufer zu schwimmen. Aber es hatte einen Einfluss auf mein Selbstvertrauen. Ich habe mehrmals auf dem Guelph Lake trainiert, um mein Rollen zu verbessern und Erfahrungen mit der Selbstrettung zu sammeln. Aber das Gefühl des Unbehagens hatte mich nicht verlassen.
+
+Ich habe mein Handy in den Energiesparmodus versetzt. Es sollte 30 Stunden dauern. Ich beschloss, es auszuschalten, weil das vielleicht nicht genug ist. Meine Idee war, es wieder einzuschalten, wenn ich die langen Etappen des Rennens bestreiten würde. Trotzdem habe ich es in eine wasserdichte Hülle gepackt und in der Vordertasche meiner PFD mit einem Karabinerhaken gesichert verstaut.
+
+Am Abend zuvor hatte ich eine Schale Joghurt mit einer halben Tasse Haferflocken und Rosinen zubereitet. Das war mein Frühstück. Ich rechnete knapp 2 Stunden, bevor ich an der ersten Schleusenstation in Kingston Mills ankam. Lynne würde die Zeit nutzen, um meine Thermosflaschen mit Kaffee zu füllen. Ich hatte eineinhalb Liter Wasser in meiner Trinkblase auf dem Rücken, was reichlich sein würde.
+
+Ich habe mein[SPOT3]-Gerät vom Registrierungsdeck abgeholt. Der SPOT3 ist ein Zwei-Wege-Satelliten-Tracker. Das Gerät sendet alle 5 Minuten ein Positions-Update über Satellit. Es kann ein Lebensretter sein, wenn man sich in entlegenen Gebieten verirrt. Es gibt den Organisatoren die Position der einzelnen Rennfahrer und steuert auch den Live-Online-Tracker während des Rennens. Ich konnte auch das ganze Rennen nachspielen, wie ich gestern Abend auf der Webseite erfahren habe.
+
+Ein letzter Lauf zur Toilette, wo ich eine kurze Aufstellung fand und dann ging ich zum Dock.
+
+Der Start war der übliche überfüllte Ort. Ich bleibe immer am Ende des Feldes. Ich kämpfe um die Ankunft, nicht um einen Platz auf dem Podium. Während wir auf das Signal warteten, bemerkte ich, dass bereits ein Paddler im Wasser war und ein leeres Kajak aus dem Weg geschoben wurde. Jemand kenterte vor dem Start.
+
+Wir begannen schließlich um 06:01:00 Uhr.
+
+
 
 Übersetzt mit www.DeepL.com/Translator
