@@ -8,7 +8,7 @@ Ontarios längstes Marathon-Paddelrennen
 
 Das [K2O](http://kingston2ottawa.ca) ist eine besondere Regatta. Für mich ist es _das_ Paddelrennen an sich. Es findet auf dem [Rideau Waterway] (https://en.wikipedia.org/wiki/Rideau_Canal) statt, der von Parks Canada verwaltet wird. Die Wasserstraße ist von der UNESCO zum Weltkulturerbe erklärt worden. Sie verbindet die alte Hauptstadt Kingston mit der heutigen Hauptstadt Ottawa.
 
-Für diejenigen, die die Gegend erkunden wollen, gibt es gute Online-Ressourcen, z.B. [Watson's Paddling Guide to the Rideau Canal] (http://www.rideau-info.com/canal/paddling/guides.html). Die Tour von Ottawa nach Kingston oder umgekehrt eine gut einwöchige Reise.
+Für diejenigen, die die Gegend erkunden wollen, gibt es gute Online-Ressourcen, z.B. [Watson's Paddling Guide to the Rideau Canal] (http://www.rideau-info.com/canal/paddling/guides.html). Die Tour von Ottawa nach Kingston oder umgekehrt ist eine gut einwöchige Reise. Der Spiegel hat im Jahre 2007 mal einen netten Artikel zu dem Thema veröffentlicht. Die Überschrift heißt [Paddeln wie die Pioniere](http://www.spiegel.de/reise/aktuell/ottawa-per-kanu-paddeln-wie-die-pioniere-a-494941.html) und ist im Archiv online verfügbar.
 
 Es gibt noch andere Ultra-Marathon-Paddelrennen in Nordamerika, wie das [Yukon River Quest], [Missouri American Water MR340], die[Texas Water Safari]. Diese sind zwar alle länger, aber alle von ihnen haben verpflichtende Zwischenstopps oder erwarten zumindest, dass die Teilnehmer unterwegs Pausen einlegen.
 
