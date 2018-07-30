@@ -29,7 +29,6 @@
 [Everglades Challenge]: http://www.watertribe.com/events/evergladeschallenge/
 
 ### Training for Ultra Marathon Paddling Races
-[Fitness Paddling]: http://race.fit2paddle.com/carter-johnson-on-training-for-ultra-marathon-paddling-races/
-
+[Fitness Paddling](http://race.fit2paddle.com/carter-johnson-on-training-for-ultra-marathon-paddling-races/)
 
 ## Outdoor
