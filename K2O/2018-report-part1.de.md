@@ -42,7 +42,7 @@ Ein neues Jahr, ein neues Rennen. Im Jahr 2018 kam alles zusammen.
 
 Wir wohnen in Kitchener, ON. Wir nahmen uns den Freitag frei und fuhren nach Kingston. Ich hatte ein Hotelzimmer gebucht, das 15 Autominuten vom Start im Cataraqui Canoe Club entfernt war. Wir haben am Nachmittag eingecheckt. Ich hatte ein gutes Gespräch mit den Leuten von [Infinite Blue]. Meine Frau kaufte mir zu meinem Geburtstag im September eine Paddelhose, die ich für das Rennen trug.
 
-![vor dem Rennen](2018-07-20-briefing.JPG)
+![vor dem Rennen](2018-07-20-briefing.jpg)
 
 Ich habe mein Boot im Club für die Nacht im Bootsschuppen einschließen lassen. Ein großes Dankeschön an die Clubmitglieder für die Erlaubnis, ihre Räumlichkeiten zu nutzen. Von dort ging es zum Abendessen in die Innenstadt von Kingston. Ich hatte ein großes Nudelgericht mit Huhn und Bier.
 
@@ -64,8 +64,48 @@ Ein letzter Lauf zur Toilette, wo ich eine kurze Aufstellung fand und dann ging 
 
 Der Start war der übliche überfüllte Ort. Ich bleibe immer am Ende des Feldes. Ich kämpfe um die Ankunft, nicht um einen Platz auf dem Podium. Während wir auf das Signal warteten, bemerkte ich, dass bereits ein Paddler im Wasser war und ein leeres Kajak aus dem Weg geschoben wurde. Jemand kenterte vor dem Start.
 
-Wir begannen schließlich um 06:01:00 Uhr.
+Um 06:01:00 Uhr ging es schließlich los.
 
+## Kingstons to Rideau Narrows (73 km)
 
+Zuerst ging es raus auf den Ontariosee. Es war noch unangenehmer, als ich befürchtet hatte. Die Wellen waren ungefähr 0,5m hoch und kamen von links. Ich versuchte die Wellen zu schneiden, um meine Balance besser zu kontrollieren. Ein paar Mal wäre ich fast gekentert.
+Während ich gegen die Wellen kämpfte, hatte Shawn (Team Creek Freak) bereits die Wendeboje umrundet und kam auf seinem Weg zurück nach Norden an mir vorbei. Der Mann ist eine Maschine!
+Hinter einem Wellenbrecher direkt neben dem Ahoi-Bootsvermietung konnte ich kurz verschnaufen und meine Handschuhe anziehen. Das hätte ich gleich von Anfang an machen sollen! Danach gings weiter.
 
-Übersetzt mit www.DeepL.com/Translator
+Nach der Wende ging es zurück in den Cataraqui Fluss während ich fortwährend unzitierbare deutsche und englische Schimpfwörter grummelte. Ich nahm einen Kurs hart am Wind, um den Schutz der Halbinsel von Fort Frederick zu erreichen. Es gab einige Paddler in Freizeitkajaks ohne Spritzschutz. Ich frage mich, wie viel Wasser sie genommen haben, während sie da draußen waren. Als ich am RMC (Royal Military College) vorbeikam, entdeckte ich ein Kanu auf dem Steg dort. Die Jungs hatten so viel Wasser mitgenommen, dass sie an Land gehen mussten, um ihr Boot zu leeren.
+
+Der Cataraqui war geschützt vom Wind. Ich machte gute Fortschritte und war um 7:32 am Dock der Kingston Mills nach den ersten 12 km des Rennens.
+
+Wegen meines Kajaks mußte ich in der "Wettkampfkategorie" starten. Ursprünglich hatte ich wie vor zwei Jahren für die "Freizeitkategorie" gemeldet. Die Rennleitung hatte jedoch meine Anmeldung nicht akzeptiert und mich in die Wettkampfkategorie eingestuft. Mit einem EPIC wird man nicht mehr als Freizeitpaddler angesehen. Das wäre kein großes Problem außer für die Regel, dass man keine Unterstützung beim Bewegen seines Kajaks in Anspruch nehmen darf. Die Regeln schreiben vor, dass ich mein Boot ohne fremde Hilfe aus dem Wasser heben muss. Ich bin die einzige Person, die mein Boot bewegen darf. Meine Crew kann das Boot beim Ein- und Aussteigen stabilisieren, darf es aber nicht bewegen. Ausnahme sind die Schleusen in Old Slys und Long Island, da diese zu schwer zu umtragen sind. Dort wäre es ein Sicherheitsrisiko.
+
+Na gut.
+
+Ich habe die folgende Technik: Zuerst hebe ich das Boot auf meine Oberschenkel und in einem zweiten Schritt lege ich es auf meine (meist rechte) Schulter. Ich hatte vergessen, dass Kingston Mills eine der längeren Portagen hat. Man muß 350 m weit gehen und dann noch 14 m Höhe gewinnen. Nach 100 m mit meinem Kajak habe ich das eingesehen und das Boot auf meinen Wagen gesetzt.
+Bevor es weiter ging packte ich meinen Starbucks Latte und den Ingwer-Melasse-Keks, den Lynne für mich hatte, ein. Ich weiß, das klingt für manche Leser nicht nach sportlichem Essen, aber für mich funktionierts.
+
+Hinter Kingston Mills beginnt der Styx. Ich konnte zwei Kajakfahrer vor mir sehen. Wie ich später erfahren sollte, war einer von ihnen Brian King aus Ottawa (Team Haulin' Yak - King). Ich versuchte zu ihnen aufzuschließen.
+
+Am Ende des offeneren Fluss Styx führt die Strecke später in engere Kanäle. Ich passierte die Schleusen Lower Brewers und Upper Brewers.
+
+Beim Briefing am Freitagabend wurden wir an die Brass Point Brücke erinnert. Sie ist sehr niedrig, aber wenn man den Kopf unten hält, kann man als Paddler ohne Probleme passieren.
+Als ich mich der Brücke näherte, wurde sie für einen Jetski geöffnet. Der Brückenwärter hielt die Autos für mich noch 30 Sekunden länger zurück und ließ mich ebenfalls passieren. War sehr praktisch.
+
+Ein Wort zu den Jetskies oder Seadogs, wie die Bombardier-Marke hier genannt wird. Die sind ein allgemeines Ärgernis. Sie scheinen weniger Etikette zu haben als "normale" Bootsführer. Ich bin mir sicher, diese Jetski-Fahrer sind nette Leute - an Land. Auf dem Wasser sind sie unnausstehlich.
+Bei einer Gelegenheit in einem der engen Kanäle vor den Jones Falls waren zwei Jetskis nah bei mir: Ein Mann - wahrscheinlich der Vater und ein anderer mit einer Frau und einem Teenager. Langsam passierten sie mich von hinten kommend und erzeugten eine große Bugwelle. Dann hielten sie 50 m vor mir an, um sich zu besprechen, während ich sie erneut überholte. Zwei Minuten später schienen sie eine Entscheidung getroffen zu haben und zogen weiter, nur um mich noch einmal zu überholen. Ich habe tödliche Drohungen ausgestoßen und alle Jetski-Fahrer ein für alle Mal verflucht bis sie schließlich hinter der nächste Flussbiegung verschwanden.
+
+Aber nur fünf Minuten später kehrten sie von dort wieder zurück und passierten mich erneut. Ich habe überlegt, Luftunterstützung von der RCAF anzufordern und das Problem ein für alle Mal zu erledigen. 
+
+Diese Typen waren nur die ersten von vielen, die später noch kamen. Wie sich herausstellte ist die Bugwelle um kleiner je schneller sie fahren. Während des Halts in der Newboro Schleusenstation hatte ich ein Gespräch mit den Jungs vom Team _Canoe Dig It_ und sie hatten die gleiche Beobachtung.
+
+Nach den Brewers holte ich schließlich Brian vom Team _Haulin' Yak - King_ ein. Er paddelte einen Freizeitkajak von Clearwater Design. Ich war erstaunt wie schnell er damit war. Er kam am Ende drei Stunden vor mir ins Ziel in Ottawa.
+Brian erzählte mir, dass er eigentlich einer von vier Freunden war, die sich für das Rennen angemeldet hatten. Ich erinnere mich, dass wir beim Portaging in Kingston Mills ein sehr kurzes Gespräch hatten. Er schien kein Unterstützungsteam zu haben. Er erzählte mir, dass er mehrere Leute für die verschiedenen Schleusenstationen aufgestellt hatte und dass das Team von Kingston Mills nicht auftauchte. Später traf Lynne seine Mutter, die alle vier im Team unterstützte, aber ihrem Sohn den Vorzug gab (was sollte eine Mutter sonst tun?!). Der Paddler, der am Start kenterte, war einer von Brians Kumpels. Er erwähnte, dass die anderen drei Teammitglieder weniger erfahrene Paddler seien. Er selbst kam gut vorbereitet. Es war das erste Mal, dass er im K2O startete. Er erzählte mir, dass er in Vorbereitung auf den Wettkampf die Strecke mindestens dreimal gepaddelt sei, allerdings nie durch die Nacht. Einmal, als sie es doch versuchten, waren die Wellen auf dem Big Rideau so hoch, dass sie anlandeten und für die Nacht ein Zelt aufschlugen.
+
+Wie sich später herausstellte, setzte Brian sein Wissen über die lokalen Wasserwege ein. Einmal hat er eine Abkürzung durch ein Wasserrohr genommen, auf die ich nie gekommen wäre. Bei den Jones Falls Schleusen ist er nicht am offiziellen Steg ausgestiegen. Stattdessen paddelte er weiter in die Jones Falls Bucht und verkürzte so die Portage. Es hat aber nicht viel geholfen, weil ich doch noch vor ihm weitergepaddlen bin. Seine überlegene Athletik gab ihm dann den großen Vorteil im zweiten Durchgang. Bis Smiths Falls blieb ich noch vor ihm.
+
+Nach dem Verlassen der Jones Falls Lockstation weicht der empfohlene Kurs vom offiziellen Fahrwasser ab und führt durch einige sehr enge Kanäle in den Sandsee. Hier hatte ich meine erste Begegnung mit einer Gruppe von Motorbooten mit QC-Nummern (Quebec), die um die Wette zur nächsten Schleuse Davis rasten. Diese Typen werfen noch größere Wellen als die lästigen Jetskis. Immer wenn ich die Bugwelle kommen sah, drehte ich den Kajak Richtung Welle. Dafür wurden Kajaks entworfen. Kanus haben es da schwieriger.
+
+Ach ja, alle diese Motorboote haben noch gewartet, während ich später durch die Schleuenstation spaziert bin.
+
+Bei Chaffey's Lockstation habe ich neuen Kaffee von Lynne bekommen - yay! Danach ging es zum Newboro Lake.
+
+Der Newboro Lake ist der erste größere See. Hier ging zum ersten wieder darum die die Windverhältnisse zu berücksichtigen. Vor zwei Jahren bin ich ganz Nahe am Ufer gepaddelt wegen der starken Winde seinerzeit. Dieses Jahr habe ich versucht, die Strecke zu optimieren und dabei den Wind zu vermeiden. Ich nahm einen direkteren Weg von Insel zu Insel, während ich versuchte, in den windgeschützten Gebieten zu bleiben. Es hat am Ende kaum was gebracht, aber es hat Spaß gemacht.
