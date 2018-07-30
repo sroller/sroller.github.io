@@ -14,7 +14,7 @@ Es gibt noch andere Ultra-Marathon-Paddelrennen in Nordamerika, wie das [Yukon R
 
 Nicht so im K2O. Die Siegerteams schaffen es oft unter 24 Stunden und die Zielschlußzeit beträgt 36 Stunden.
 
-Das erste Mal las ich über das Rennen im Jahr 2014. Es gab da ein Webseite über ein verrückte Rennen auf dem Rideau. Damals hatte ich nur einen 14 Fuß langen 29 Zoll breiten Sit-on-Top-Kajak. Das war kein Boot, mit dem man an Rennen hätte teilnehmen können. Wie sich herausstellte, war der Rennorganiator ein Kollege meiner Frau. Als er von meinem Interess erfuhr hat er versucht, mich als Mitglied für eine Staffel zu gewinnen. Aber ich traute mich nicht, ich war damals noch nicht soweit. Im Sommer des Jahre reiste ich zu einer Paddeltour nach Island. Im Herbst kaufte ich dann mein erstes Fiberglasboot - ein Wilderness Tempest 170PRO.
+Das erste Mal las ich über das Rennen im Jahr 2014. Es gab da ein Webseite über ein verrückte Rennen auf dem Rideau. Damals hatte ich nur einen 14 Fuß langen 29 Zoll breiten Sit-on-Top-Kajak. Das war kein Boot, mit dem man an einem Rennen hätte teilnehmen können. Wie sich herausstellte, war der Rennorganiator ein Kollege meiner Frau. Als er von meinem Interess erfuhr hat er versucht, mich als Mitglied für eine Staffel zu gewinnen. Aber ich traute mich nicht, ich war damals noch nicht soweit. Im Sommer des Jahre reiste ich zu einer Paddeltour nach Island. Im Herbst kaufte ich dann mein erstes Fiberglasboot - ein Wilderness Tempest 170PRO.
 
 Die Dinge haben sich geändert. Das K2O hat sich geändert. Inzwischen hatten sie eine halbe Strecke für Feiglinge wie mich im Angebot, die beim ersten Mal keine 200 km fahren wollten.
 
