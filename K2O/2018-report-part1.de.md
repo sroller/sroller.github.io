@@ -34,7 +34,7 @@ Worauf ich nicht vorbereitet war, war eine Verletzung.
 
 10 Tage vor dem Rennen klemmte ich mir einen Nerv im rechten Bein. Ich folgte dem Rat meines Arztes und sagte meinen Start am Dienstag vor dem K2O 2017 ab. Ich war am Boden zerstört.
 
-Ein neues Jahr, ein neues Rennen. Im Jahr 2018 kam alles zusammen.
+Ein neues Jahr, ein neues Rennen. Im Jahr 2018 kam dann alles zusammen.
 
 # Wettkampftage
 
@@ -109,3 +109,36 @@ Ach ja, alle diese Motorboote haben noch gewartet, während ich später durch di
 Bei Chaffey's Lockstation habe ich neuen Kaffee von Lynne bekommen - yay! Danach ging es zum Newboro Lake.
 
 Der Newboro Lake ist der erste größere See. Hier ging zum ersten wieder darum die die Windverhältnisse zu berücksichtigen. Vor zwei Jahren bin ich ganz Nahe am Ufer gepaddelt wegen der starken Winde seinerzeit. Dieses Jahr habe ich versucht, die Strecke zu optimieren und dabei den Wind zu vermeiden. Ich nahm einen direkteren Weg von Insel zu Insel, während ich versuchte, in den windgeschützten Gebieten zu bleiben. Es hat am Ende kaum was gebracht, aber es hat Spaß gemacht.
+
+## Von den Rideau Narrows nach Poonamalie (30km)
+
+Bei den Narrows traf ich die _Dos Amigos_ und _Canoe Dig It_. Das war die achte Schleuse auf unserer Reise nach Ottawa. Wir haben ein paar Minuten zusammen verbracht. Ich hatte ein Gespräch mit Radu Crisu von _Dos Amigos_. Wir kannten uns vom [Big East River X] in Huntsville. Wir haben unsere bisherigen GPS-Aufnahmen verglichen. Ich hatte etwas mehr als 73 km zurückgelegt und er war bei über 75 km. Wir waren uns einig, dass dies innerhalb der erwarteten Abweichung liegt. Obwohl wir die von den Organisatoren vorgeschlagenen GPX-Daten verwendet haben, haben wir nicht den _exakten_ Kurs gepaddelt. Am Ende unseres Gesprächs sagte Radu: "75 km sind viel besser als 73, weil wir damit schon im vierten Achtel des Rennens sind." Es war offensichtlich, dass er die gleichen Gedanken im Kopf durchspielte wie ich und vielleicht auch wir alle. Die Gesamtstrecke ist so überwältigend. Die Art und Weise, wie ich damit umgehe, ist, die volle Distanz in kleinere Stücke zu teilen - in 10% Segmente, in Drittel, Viertel, Fünftel und so weiter. Man vergleicht es mit bekannten Routen von zu Hause wie "Ich habe das _EPIC Paddle_ Anfang des Jahres gemacht, das über 94 km geht. Ich bin immer noch 19 km darunter. Keine große Sache!". Diese Gedanken helfen einem, mit den langen und manchmal monotonen Abschnitten umzugehen, die man durchfahren muss.
+
+Der nächste Abschnitt würde über 30 km lang sein, ohne die Möglichkeit, zusätzliches Essen zu bekommen. Ich ließ meine kleine 1,5 l Mocke Blase zurück und staute 4 l zusätzliches Wasser in einer MSR Dromedarblase mit Trinkschlauch im Cockpit hinter meinem Rücken. Die hausgemachten Energiebälle und ein paar Clif Bars und Lörabars gingen in meine Tagesluke. Ich wusste, dass die Sonne an diesem Tag um 20:41 Uhr untergehen würde. Das Tageslicht wäre um 21:30 Uhr verschwunden. Ich wollte die nächste Schleuse erreichen, bevor es ganz dunkel wird. Ich habe noch keine Lampen eingepackt.
+
+Lynne würde das Rennen jetzt verlassen und nach Ottawa fahren, wo sie das Auto meinem Schwager Kent übergeben würde. Der Plan war, dass er nach Poonamalie fährt, um mich dort zu treffen.
+
+Die Narrows trennen den Upper Rideau und den Big Rideau Lake. Big Lake bedeutete große Wellen. Das südliche Ende des Big Rideau hat meist die größten Wellen des Rennens. Im Jahr 2014, als das Rennen zum ersten Mal organisiert wurde, musste der Direktor aus Sicherheitsgründen sogar abbrechen. 3 km nach den Narrows öffnet sich der See. An der breitesten Stelle erstreckt sich das Wasser 6 km nach Südwesten. Das ist genügen Wasserfläche, um ein paar Wellen zu erzeugen. Dieses Jahr hatten wir Glück. Obwohl die Wellen höher waren als am Newboro Lake, war es nicht so unangenehm wie am Lake Ontario am Anfang.
+
+Nach weiteren 5 km verlassen die Paddler das offene Wasser. Nach weiteren zwei Stunden passiert man Rideau Ferry. Trotz des Namens (Ferry == Fähre) ist es eigentlich eine Straßenbrücke. Er markiert den Beginn des Lower Rideau Lake - dem letzten See der Strecke.
+
+Das war der Bereich, in dem ich meine ersten schwachen Momente hatte. In den dunklen Winkeln meines Geistes suchte ich nach lahmen Ausreden, warum ich das Rennen in Smith Falls aufgeben würde. Ich wäre dann länger gepaddelt als je zuvor. Das Rennen spielt keine Rolle; wer ist so verrückt, 200 km hintereinander zu paddeln, blah, blah, blah ...
+
+Blödes Zeuch wie dieses.
+
+Aber ich hatte immer noch einen halben Liter Starbucks Kaffee Latte in meiner Thermostasse. Der Kaffee kombiniert mit 150 Gramm Marzipan hob meine Stimmung. Nach einer kurzen Pause konnte ich wieder eine Geschwindigkeit von ca. 7 km/h halten. Ich sang lautstark deutsche Volks- und Kampflieder - "Wenn alle Brünnlein fließen", "Auf Du junger Wandersmann", "Spaniens Himmel breitet seine Sterne", ... Niemand konnte mich hören, niemand konnte mich beurteilen, aber es half, die Müdigkeit in den Muskeln, die Schmerzen zu lindern.
+
+Schmerz ist eine interessante Sache. Wenn man ihn lange genug ignoriert, hört es irgendwann auf. Meine Schulter- und Nackenmuskeln taten weh. Ich hatte manchmal Krämpfe in meinen inneren Oberschenkeln. Aber mit der Zeit wurde dies immer weniger ein Thema. Ich glaube, das Gehirn schaltet dann bestimmte Kommunikationsleitungen im Körper ab. Wie mein Kollege am Montag meinte: "it's mind over matter". Auf Deutsch würde ich wohl sagen: Was mich nicht umbringt, macht mich stärker. Wenn du das schaffst, wirst du am Ende erfolgreich sein.
+
+_Und weiter geht's!_
+
+_Ich hör auf._
+
+_Nein, tue ich nicht._
+
+_Los, los!_
+
+Alles im Kopf.
+
+Am Ende des Lower Rideau gibt es eine mögliche Abkürzung - den so genannten [Mud Cut]. Ich habe den Eingang bei Google Maps gefunden. Ich habe einen Wegpunkt in meinem GPS erstellt. Ich konnte es nicht finden. Nach einer kurzen Suche kehrte ich einfach auf den Navigationskanal zurück und fuhr auf der empfohlenen Route weiter.
+
