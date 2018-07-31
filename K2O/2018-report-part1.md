@@ -75,7 +75,7 @@ I picked up my [SPOT3] device from the registration deck. The SPOT3 is a two-way
 
 One last run to the bathroom where I found a short lineup and off I went to the dock.
 
-The start was the usual crowded place. I alway stay at the end of the field. I compete for arrival not for a spot on the podium. While we were waiting for signal I noticed that there was already a paddler in the water and an empty kayak was pushed out of the way. Somebody capsized before the start.
+The start was the usual crowded place. I always stay at the end of the field. I compete for arrival not for a spot on the podium. While we were waiting for signal I noticed that there was already a paddler in the water and an empty kayak was pushed out of the way. Somebody capsized before the start.
 
 We started eventually at 06:01:00am.
 
@@ -104,7 +104,7 @@ At the race briefing on Friday night we were reminded of the Brass Point Bridge.
 When I approached the bridge it was opened for a jetski to pass through. The operator kept the cars waiting for another 30 seconds and let me pass as well. That was very convenient.
 
 A word on the jetskies or Seadogs as the Bombardier brand is named. Those are a general annoyance. They seem to have less etiquette than "normal" boaters. I'm sure those jetski riders are nice people - on shore. But I came to hate them on the water.
-At some particular occasion in one of the narrow channels befor Jones Falls Locks there were two vehicles: One male - probably the father and one with a female and a teenager. They slowly passed me coming from behind in a close distance creating a big wake. Then they stopped 50 m in front of me to discuss a matter while I was catching up and now I was passing them. Two minutes later they seems to have made a decision and move on just to pass me yet again. I was uttering deadly threats on my end towards to extinction of all jetski riders once and for all until they finally disappeared around the next river bend.
+At some particular occasion in one of the narrow channels before Jones Falls Locks there were two vehicles: One male - probably the father and one with a female and a teenager. They slowly passed me coming from behind in a close distance creating a big wake. Then they stopped 50 m in front of me to discuss a matter while I was catching up and now I was passing them. Two minutes later they seems to have made a decision and move on just to pass me yet again. I was uttering deadly threats on my end towards to extinction of all jetski riders once and for all until they finally disappeared around the next river bend.
 
 Lo and behold - five minutes later they were back returning from whereever they just went now passing me from the front. I considered to call in air support from the RCAF.
 
@@ -164,8 +164,8 @@ While planning I had considered to change into new clothes. I skipped that. It w
 
 There would be another eight locks aka portages until I'd reach Burritts Rapids. The next lock was just 400 m away. I didn't even close my skirt. Needless to say that Kent couldn't make it. I carried my kayak over the 220 m to the put in place. It was now easier because since Newboro all locks were descending.
 
-Next stop was at Old Slys Locks. This is one of the two locks in which I could get help portaging my boat. Kent missed me by two minutes or so. It took longer to drive from lock to lock than to paddle. The volunteer at Old Slys was a gentleman who did this for the fourth year in the row. He was spending he's weekend sitting under a canopy at a lock in rural Ontario to help paddlers portaging their boats through the night. I big shout out to all the volunteers who made this race possible. You guys were crucial for our success. All the portage routes were meticulously marked with glowing sticks. There was a person on every lock who guided me through the unknown trails. Thank you to the lady who gave me some of her tablets against my heartburn! I don't remember which lock it was. Somethings are just a blur.
-I chatted with the gentlemen at Old Slys while he was carrying the bow of my kayak (I learned that my helper in the night was Robert Douglas of Ottawa). I thanked him that he would help us crazy ones to fullfill our dream (nightmares?). He said that would be something I will remember on my dead bed. I've done something 95% of the people wouldn't do. There would be no regrets.
+Next stop was at Old Slys Locks. This is one of the two locks in which I could get help portaging my boat. Kent missed me by two minutes or so. It took longer to drive from lock to lock than to paddle. The volunteer at Old Slys was a gentleman who did this for the fourth year in the row. He was spending he's weekend sitting under a canopy at a lock in rural Ontario to help paddlers portaging their boats through the night. A big shout out to all the volunteers who made this race possible. You guys were crucial for our success. All the portage routes were meticulously marked with glowing sticks. There was a person on every lock who guided me through the unknown trails. Thank you to the lady who gave me some of her tablets against my heartburn! I don't remember which lock it was. Somethings are just a blur.
+I chatted with the gentlemen at Old Slys while he was carrying the bow of my kayak (I learned that my helper in the night was Robert Douglas of Ottawa). I thanked him that he would help us crazy ones to fullfill our dream (nightmares?). He said that would be something I will remember on my death bed. I've done something 95% of the people wouldn't do. There would be no regrets.
 
 Thank you man! How could I ever consider to retire from a race where such fine people helping me.
 
@@ -189,7 +189,7 @@ I said: "Yes".
 
 "Do you want to join us. The more the merrier as they say." I heard him chuckeling.
 
-We staid close to each other for a brief period. But the _Dos Amigos_ navigated slightly different than I did and I move on leaving them behind - for now.
+We stayed close to each other for a brief period. But the _Dos Amigos_ navigated slightly different than I did and I move on leaving them behind - for now.
 
 After five more locks I finally arrived at Burritts Rapids at the very same time as the _Dos Amigos_. Because of contruction there was a pedestrian bridge crossing the river which we had to portage. Eric - the race director - had told us about it. It would be 10 feet portage but we had to leave the boats, lift them out of the water and reenter on the other side. I didn't need that at 4am after more than 150 km paddling.
 
@@ -260,7 +260,7 @@ Because of the steep stairs my crew was allowed to move my boat which was a big 
 
 ## Finish at the Rideau Canoe Club
 
-I stopped my GPS after 1 day 9 hours 5 minuts and 39 second. The trip odometer showed 195 km on the display.
+I stopped my GPS after 1 day 9 hours 5 minutes and 39 seconds. The trip odometer showed 195 km on the display.
 
 I did it!
 
