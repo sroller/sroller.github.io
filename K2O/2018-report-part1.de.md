@@ -227,7 +227,7 @@ Mein Verstand fing an verrückt zu spielen. Ich frage mich, ob LSD einen ähnlic
 
 Plötzlich hörte ich: "Wie geht es heute Morgen?"
 
-Plötzlich tauchte rechts neben mir jemand auf. Es war ein Paddler auf einem Stellar Surfski. Er war der Führende des 50km-Felds. Die waren um 6 Uhr morgens von Burritts Rapids aus gestartet. Ich erklärte ihm, dass ich einer der letzten 200er war. Er hatte einige ermutigende Kommentare für mich, bevor er abzog. Das muss John Dunkelberger gewesen sein. Danke für die guten Worte!
+Rechts neben mir tauchte jemand auf. Es war ein Paddler auf einem Stellar Surfski. Er war der Führende des 50km-Felds. Die waren um 6 Uhr morgens von Burritts Rapids aus gestartet. Ich erklärte ihm, dass ich einer der letzten 200er war. Er hatte einige ermutigende Kommentare für mich, bevor er abzog. Das muss John Dunkelberger gewesen sein. Danke für die guten Worte!
 
 Nur 10 Minuten später bemerkte ich weit vor mir ein Kajak mit einem Mann im Wasser, der versuchte wieder ins Boot zu kommen. Er musste den windigen Bedingungen Tribut zollen. Ich konnte sehen, dass er immer wieder versuchte, in den Sitz zurückzukehren, aber jedes Mal, wenn einsteigen wollte, fand sich im Fluss wieder. Ich änderte meinen Kurs in seine Richtung, um ihm Hilfe anzubieten. Während ich langsam Fortschritte machte, überholte mich ein anderer Surfski auf der linken Seite. Aber bevor einer von uns nah genug heran kam, hat John die Kontrolle über sein Boot wiedererlangt und konnte weitermachen.
 
@@ -257,11 +257,9 @@ Ich war im Ziel!
 
 Wer sich für die Details interessiert kann sich die Karte unter diesem [link](https://drive.google.com/open?id=1bIGoepeJ0ixuNrj_76IFFbemKIE&usp=sharing) anschauen.
 
-There will be a Part 2 with the technical details of the race. Stay tuned!
 Ich plane noch einen zweiten Teil zu diesem Text mit den technischen Details.
 
 Danke für Eure Aufmerksamkeit und Unterstützung.
-
 
 [Yukon River Quest]: https://www.yukonriverquest.com/
 [Missouri American Water MR340]: https://rivermiles.com/mr340/
