@@ -199,3 +199,74 @@ Er gewann Preisgeld und auch einen Preis bei der After-Race-Feier. Es wurde viel
 
 Ich denke, das ist ein klassischer Fall von "Marathon-Dummheit". Es war spät in der Nacht - er kam kurz nach 20 Uhr in Burritts an. Er paddelte 14 Stunden lang auf sehr hohem Niveau. Sein Gehirn hat nicht funktioniert. Sein ganzes Blut war in seinen Muskeln. Das Gehirn schaltet sich so weit wie möglich ab. Über dieses Phänomen habe ich von meinem Lauftrainer gelesen. Bei Marathons gehen die Leute auf die Toilette und wenn sie das Töpfchen verlassen, gehen sie in die falsche Richtung. Sie kriegen nichts mehr mit. Shawn hatte noch weniger Umweltreize. Es war dunkel, er war erschöpft. Ich denke, er sollte mit einer Route auf seinem GPS arbeiten. Ich weiß nicht, ob er das tat. Wenn er nur einen GPS _track_ geladen hat und es nicht in eine Route umgewandelt hatte, könnte das zu dem Problem beigetragen haben. Vielleicht kann er es uns sagen was es war, wenn ich ihn das nächste Mal sehe.
 
+## The Long Reach (40km)
+
+Um 4:48 Uhr legte ich ab. Ich schaute auf mein GPS, um den genauen Zeitpunkt des Sonnenaufgangs herauszufinden, was dazu führte, daß es abstürzte. Ich musste die Batterien entfernen, um es wieder einzuschalten. Während ich es tat, wurde mir klar, dass ich immer noch mit den gleichen Batterien vom Anfang arbeitete. Nach 23 Stunden waren diese immer noch stark genug. Ich habe sie trotzdem aus Vorsichtsgründen ausgetauscht. Wer weiß, welche Bedingungen vor mir liegen würden. Während ich an dem Gerät bastelte, paddelten  die _Dos Amigos_ vorbei. Wir wünschten uns gegenseitig Glück. Das war das letzte Mal, dass ich sie auf dem Wasser sah.
+
+Die Wettervorhersage sagte Wind mit 10 - 20 km/h aus Nordosten und 60% Regenwahrscheinlichkeit für Sonntag voraus. Jetzt, in den frühen Morgenstunden war es noch völlig ruhig.
+
+Das sollte nicht lange so bleiben. Um 05:30 Uhr nahm der Wind auf. Der Rideau River fließt hauptsächlich in Richtung Nordosten. Das bedeutete Gegenwind bis ins Ziel. Ich hatte gehofft, die Vorhersage wäre etwas ungenau, aber das Wetter war genau so, wie es vorhergesagt wurde.
+
+Nach dem Rennen schaute ich auf der Website von Environment Canada nach dem Meßdaten für Sonntag: Die Windgeschwindigkeit lag bei über 30 km/h plus Böen. Es war ekelhaft. Manchmal habe ich nur 4 - 5 km/h gemacht. Es fühlte sich sogar noch weniger an, aber zumindest gab mir das GPS die echten Daten.
+
+Es war zum verzweifeln.
+
+Gegen 6:00 Uhr morgens hielt ich an um zu essen und über meine Möglichkeiten nachzudenken. Die letzte Schleusenstation verließ ich nur 16 min unter meinem "7,5 km/h Fahrplan". Ich hatte eine Menge Puffer, um die Zeitmarke in Long Island um 15 Uhr zu schaffen. In 9 Stunden hatte ich noch 35 km vor mir. Das heißt, selbst wenn ich nur 4 km/h fahren würde, könnte ich es noch schaffen. Aber es wäre eine Schinderei.
+
+Und so paddelte ich weiter.
+
+Um 07:30 Uhr fing es an zu regnen.
+
+Es ging einfach weiter und weiter und weiter und weiter und weiter und weiter. Links - rechts - links - rechts - rechts - links - rechts - ....
+
+Ich war nach 24 Stunden Paddeln todmüde. Ich begann Muster in Dingen um mich herum zu sehen, die nicht da waren. Da lag ein kleines U-Boot auf der linken Seite mit Tintenfischbeinen vor einer Villa. Wer würde das wohl auf dem Rideau brauchen. Als ich näher kam, war es ein gewöhnliches kleines Motorboot. Was wie die Glashalbkugel aussah, war der Außenbordmotor und die Tintenfischbeine waren nur die Fender, die das Boot vor Beschädigungen zu schützen.
+
+Dann dieses Haus hinter den Bäumen. Es schien große Buchstaben an der Wand zu haben. Ich versuchte zu lesen, was es bedeutete, nur um zu erkennen, dass die Buchstaben die Fenster waren.
+
+Mein Verstand fing an verrückt zu spielen. Ich frage mich, ob LSD einen ähnlichen Einfluss auf das Gehirn haben würde.
+
+Plötzlich hörte ich: "Wie geht es heute Morgen?"
+
+Plötzlich tauchte rechts neben mir jemand auf. Es war ein Paddler auf einem Stellar Surfski. Er war der Führende des 50km-Felds. Die waren um 6 Uhr morgens von Burritts Rapids aus gestartet. Ich erklärte ihm, dass ich einer der letzten 200er war. Er hatte einige ermutigende Kommentare für mich, bevor er abzog. Das muss John Dunkelberger gewesen sein. Danke für die guten Worte!
+
+Nur 10 Minuten später bemerkte ich weit vor mir ein Kajak mit einem Mann im Wasser, der versuchte wieder ins Boot zu kommen. Er musste den windigen Bedingungen Tribut zollen. Ich konnte sehen, dass er immer wieder versuchte, in den Sitz zurückzukehren, aber jedes Mal, wenn einsteigen wollte, fand sich im Fluss wieder. Ich änderte meinen Kurs in seine Richtung, um ihm Hilfe anzubieten. Während ich langsam Fortschritte machte, überholte mich ein anderer Surfski auf der linken Seite. Aber bevor einer von uns nah genug heran kam, hat John die Kontrolle über sein Boot wiedererlangt und konnte weitermachen.
+
+Ein Viertel nach 8 Uhr morgens passierte ich die Autobahnrücke 416. Das war ein gutes erhebendes Gefühl. Ich wusste, dass ich mich Ottawa nähere. Jedes Mal, wenn wir über die Brücke fuhren, sagte ich zu Lynne: "Eines Tages werde ich _unter_ dieser Straße paddeln".
+
+Der Wind ließ nicht nach. Ich versuchte, ein wenig Schutz zu finden, aber es hat nicht viel gebracht.
+
+Nach dem Rennen habe ich mir meine GPS-Strecke angesehen. Ich habe herausgefunden, dass ich sechs Mal für Minuten angehalten habe, um zu essen und mich auszuruhen. Ich war am Ende meiner Fähigkeiten.
+
+Endlich nach 35 km und fast sieben Stunden konnte ich Long Island sehen. Den Name trägt die Insel nicht ohne Grund. Weitere fünf Kilometer mussten gepaddelt werden, bevor die Schleuse endlich auftaucht.
+
+## The Rest (14km)
+
+Es war 12:35 Uhr, als ich an der Long Island Lock Station ankam. Lynne und Phil warteten auf mich. Es war so toll sie zu sehen!
+
+Ich habe siebeneinhalb Stunden gebraucht, um dorthin zu kommen. Mein gleitender Durchschnitt lag bei nur 5,6 km/h, mein Gesamtdurchschnitt bei 5,4 km/h.
+
+Wegen der steilen Treppe durfte meine Crew mein Boot bewegen, was eine große Hilfe war. Ich bekam meine Kaffeeinfusion und weiter gings. Die letzten 14 km waren ein Kinderspiel (wie oft habe ich das schon gesagt?). Der Regen hatte aufgehört, aber der Wind nahm noch mehr zu. Aber wen kümmert es, wenn das Ziel nah ist?
+
+## Ziel am Rideau Canoe Club
+
+Nach einem Tag neun Stunden fünf Minuten und 39 Sekunden hielt ich mein GPS an. Es zeigte einen Kilometerstand von 195 km an.
+
+Ich war im Ziel!
+
+![Erledigt - im wahrsten Sinne des Wortes](2018-07-22-finished.jpg)
+
+Wer sich für die Details interessiert kann sich die Karte unter diesem [link](https://drive.google.com/open?id=1bIGoepeJ0ixuNrj_76IFFbemKIE&usp=sharing) anschauen.
+
+There will be a Part 2 with the technical details of the race. Stay tuned!
+Ich plane noch einen zweiten Teil zu diesem Text mit den technischen Details.
+
+Danke für Eure Aufmerksamkeit und Unterstützung.
+
+
+[Yukon River Quest]: https://www.yukonriverquest.com/
+[Missouri American Water MR340]: https://rivermiles.com/mr340/
+[Texas Water Safari]: http://www.texaswatersafari.org/
+[Infinite Blue]: (https://infiniteblue.blue/)
+[SPOT3]: https://www.findmespot.com/en/index.php?cid=100
+
+[Mud Cut]: https://www.google.ca/maps/place/44%C2%B052'22.7%22N+76%C2%B005'39.6%22W/@44.872984,-76.096535,715m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d44.872984!4d-76.0943407
