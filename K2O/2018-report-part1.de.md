@@ -164,3 +164,38 @@ Bei Nacht wird es interssant. Ich hatte die offizielle GPX-Strecke der K2O-Organ
 
 Ich habe mein GPS auf eine Anzeigezeit von 30 Sekunden eingestellt. Wenn ich an einem Wegpunkt ankomme, piepst es und die Anzeige geht an. Ich habe dann 30 Sekunden Zeit, um den Kajak in die neue Richtung zu bringen. Das ist genug Zeit. Danach wählte ich einen Stern vom Himmel vor mir aus und steuerte ihn an bis zum nächsten Wegepunkt. Ich fühlte mich so cool. Es war wie bei den alten polynesischen Seefahrern.
 
+## Sonntag
+
+Während ich nach der Kilmarnock Lockstation suchte, begann der nächste Tag. Ich verpaßte die Einfahrt zur Schleuse, weil sie mit weißen und roten Bojen ausgewiesen war. Bei den meisten anderen Schleusen würden genau diese Bojen den gesperrten Weg markiren. Nur diesmal haben sie einen Weg zum Steg aufgezeigt. Nach 50 Metern bemerkte ich meinen Fehler und drehte um.
+
+Nach der Kilmarnock-Schleuse gab es einen der obengenannten Wendepunkte, der mich direkt ins Unkraut führte. Ich habe gekämpft, um einen Weg zu finden. Ich wollte zum Navigationskanal zurück. Während ich mit meinen Karten herumfummelte, entdeckte ich ein Licht, das sich mir näherte.
+
+Jemand hat gefragt: "Bist du in Ordnung?". Ich habe Radus Stimme erkannt.
+
+Ich sagte: "Ja".
+
+"Willst du dich uns anschließen. Je mehr, desto besser, wie man sagt. (_the more, the merrier_)" Ich hörte ihn kichern.
+
+Wir blieben für kurze Zeit dicht beieinander. Aber die _Dos Amigos_ navigierten etwas anders als ich und ich lies sie vorerst hinter mir zurück.
+
+Nach fünf weiteren Schleusen kam ich schließlich zur gleichen Zeit wie die _Dos Amigos_ in Burritts Rapids an. Wegen Bauarbeiten gab es eine Fußgängerbrücke über den Fluss, die wir umtragen mussten. Eric - der Rennleiter - hatte uns davon erzählt. Wir mussten die Boote verlassen, sie aus dem Wasser heben und auf der anderen Seite wieder einsteigen. Das hätte ich um 4 Uhr morgens nach mehr als 150 km Paddeln nicht gebraucht.
+
+Kent wartete am Dock auf mich. Wir haben mich mit Essen und Trinken aufgefüllt. Ich habe meine kleine Blase gegen die große getauscht und sie wieder ins Cockpit gepackt. Ich ging auf die Toilette, weil in den nächsten 6 oder 7 Stunden nichts kam.
+
+Ich sprach offenbar Deutsch mit Kent, wie er uns später sagte. Nicht, dass er etwas verstanden hätte. Er sagte nur: "Ja, Kumpel, du machst das großartig." und "ahem" und "ah". Ich erinnere mich an nichts.
+
+Die Tiefe der Nacht war vorbei. Wir konnten die Morgendämmerung am Horizont sehen. Ich ließ meine Stirnlampen und die Batterien bei Kent, der nach Hause fuhr, nachdem er die ganze Nacht mit mir von Schleusenstation zu Schleusenstation hüpfte.
+
+###### Was war mit Creek Freak los?
+
+Die Freiwilligen an der Schleuse erzählten uns eine Geschichte über Shawn (Team Creek Freak).
+
+Als er den _The Long Reach_ begann war er drei Stunden vor dem zweiten Boot, _The Bickersons_. Die waren der Sieger von 2016. Es wäre das erste Mal in der Geschichte des Rennens, dass ein Einzelkajak die Kanus schlagen würde.
+Eine Stunde nachdem er Burritts Rapids verlassen hatte, drehte er um und kam zurück. Die Helfer denken, dass er sich in einer Inselgruppe weiter nördlich vertan hatte.
+
+Ins Ziel kam er letztendlich nur 8 Minuten nach den _The Bickersons_ und blieb knapp unter 24 Stunden. Stell Euch vor, was er hätte erreichen können, wenn er diesen Fehler nicht begangen hätte.
+
+Er gewann Preisgeld und auch einen Preis bei der After-Race-Feier. Es wurde viel gehänselt, dass er das Geld an ein GPS umsetzen sollte. Ich gratulierte ihm zu seinem dennoch phänomenalen Ergebnis und sagte ihm, dass ich nie ohne GPS gehen würde. Er sagte mir, dass er tatsächlich ein GPS benutzt! Was passierte, war, dass er in einer Pause mit seine Glühlicht rumfummelte und das GPS aus seiner Brusttasche fiel. Als er es zurücklegte, tat er es verkehrt herum rein. Er bemerkte seinen Fehler nicht, bis er Burritts Rapids wieder erreichte.
+
+Ich denke, das ist ein klassischer Fall von "Marathon-Dummheit". Es war spät in der Nacht - er kam kurz nach 20 Uhr in Burritts an. Er paddelte 14 Stunden lang auf sehr hohem Niveau. Sein Gehirn hat nicht funktioniert. Sein ganzes Blut war in seinen Muskeln. Das Gehirn schaltet sich so weit wie möglich ab. Über dieses Phänomen habe ich von meinem Lauftrainer gelesen. Bei Marathons gehen die Leute auf die Toilette und wenn sie das Töpfchen verlassen, gehen sie in die falsche Richtung. Sie kriegen nichts mehr mit. Shawn hatte noch weniger Umweltreize. Es war dunkel, er war erschöpft. Ich denke, er sollte mit einer Route auf seinem GPS arbeiten. Ich weiß nicht, ob er das tat. Wenn er nur einen GPS _track_ geladen hat und es nicht in eine Route umgewandelt hatte, könnte das zu dem Problem beigetragen haben. Vielleicht kann er es uns sagen was es war, wenn ich ihn das nächste Mal sehe.
+
