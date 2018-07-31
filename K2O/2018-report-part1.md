@@ -89,6 +89,8 @@ I made my way back into the Cataraqui River while uttering unquotable German and
 
 The Cataraqui River offered sheltered waters. I made good progress and touched the dock at Kingston Mills after the first 12 km of the race at 07:32am.
 
+![On my way](k2o-7-5-1080.jpg)
+
 I had to start in the "competetion" category because of my kayak. Originally I signed up for the "recreational" category as I did two years ago. The race organisation rejected my application and put me into the competetive group. That would not be a big issue execpt for the rule that a competetive paddler cannot have support moving his kayak. The rules mandate that I have to lift my boat out of the water without help from other people. I'm the only person to move my boat. My crew can stabilize the boat while getting in and out but must not move it. The exceptions are the locks at Old Slys and Long Island because those are too difficult to navigate. It would be safety hazard.
 
 Ok then.
