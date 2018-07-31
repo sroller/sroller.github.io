@@ -189,9 +189,9 @@ Die Tiefe der Nacht war vorbei. Wir konnten die Morgendämmerung am Horizont seh
 
 ###### Was war mit Creek Freak los?
 
-Die Freiwilligen an der Schleuse erzählten uns eine Geschichte über Shawn (Team Creek Freak).
+Die Helfer auf Burritts Rapids erzählten uns eine Geschichte über Shawn (Team Creek Freak).
 
-Als er den _The Long Reach_ begann war er drei Stunden vor dem zweiten Boot, _The Bickersons_. Die waren der Sieger von 2016. Es wäre das erste Mal in der Geschichte des Rennens, dass ein Einzelkajak die Kanus schlagen würde.
+Als er den _The Long Reach_ begann hatte er drei Stunden Vorsprung vor dem zweiten Boot, _The Bickersons_. Die waren der Sieger von 2016. Es wäre das erste Mal in der Geschichte des Rennens, dass ein Einzelkajak die Kanus schlagen würde.
 Eine Stunde nachdem er Burritts Rapids verlassen hatte, drehte er um und kam zurück. Die Helfer denken, dass er sich in einer Inselgruppe weiter nördlich vertan hatte.
 
 Ins Ziel kam er letztendlich nur 8 Minuten nach den _The Bickersons_ und blieb knapp unter 24 Stunden. Stell Euch vor, was er hätte erreichen können, wenn er diesen Fehler nicht begangen hätte.
