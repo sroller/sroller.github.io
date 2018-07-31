@@ -2,7 +2,7 @@
 
 Ontario's longest marathon paddle race (hier zur [Deutschen Version](2018-report-part1.de.md))
 
-![The author in 2018](k2o-7-6.jpg)
+![The author in 2018](k2o-7-6-1920.jpg)
 
 ## Why are you doing this to yourself?
 
@@ -53,7 +53,7 @@ The paddlers who made it to Long Island have already more than 180 km in their b
 
 We live in Kitchener, ON. We took Friday off from work and drove to Kingston. I had booked a hotel room less than 15 min drive away from the start at the Cataraqui Canoe Club. We checked in the afternoon. I had a good chat with the folks from [Infinite Blue]. My wife bought me paddle shorts for my birthday in September which I wore for the race.
 
-![Pre-race briefing](2018-07-20-briefing.jpg)
+![Pre-race briefing](2018-07-20-briefing-1920.jpg)
 
 I stored my boat at the club for the night. A big thank you to the club members for the permission to use their premises. From there we went to downtown Kingston for dinner. I had a big pasta meal with chicken; and beer.
 
@@ -264,7 +264,7 @@ I stopped my GPS after 1 day 9 hours 5 minutes and 39 seconds. The trip odometer
 
 I did it!
 
-![Finished - literally](2018-07-22-finished.jpg)
+![Finished - literally](2018-07-22-finished-1920.jpg)
 
 For those who interested in the details - here's the [link](https://drive.google.com/open?id=1bIGoepeJ0ixuNrj_76IFFbemKIE&usp=sharing) to the map with the tracks.
 

@@ -2,7 +2,7 @@
 
 Ontarios längstes Marathon-Paddelrennen
 
-![Der Autor im Jahr 2018](k2o-7-6.jpg)
+![Der Autor im Jahr 2018](k2o-7-6-1920.jpg)
 
 ## Warum macht man sowas?
 
@@ -42,7 +42,7 @@ Ein neues Jahr, ein neues Rennen. Im Jahr 2018 kam dann alles zusammen.
 
 Wir wohnen in Kitchener, ON. Wir nahmen uns den Freitag frei und fuhren nach Kingston. Ich hatte ein Hotelzimmer gebucht, das 15 Autominuten vom Start im Cataraqui Canoe Club entfernt war. Wir haben am Nachmittag eingecheckt. Ich hatte ein gutes Gespräch mit den Leuten von [Infinite Blue] welche als Sponsoren einen improvisierten Verkaufsstand aufgebaut hatten. Lynne kaufte mir zu meinem Geburtstag im September eine Paddelhose, die ich für das Rennen trug.
 
-![vor dem Rennen](2018-07-20-briefing.jpg)
+![vor dem Rennen](2018-07-20-briefing-1920.jpg)
 
 Ich habe mein Boot im Club für die Nacht im Bootsschuppen einschließen lassen. Ein großes Dankeschön an die Clubmitglieder für die Erlaubnis, ihre Räumlichkeiten zu nutzen. Von dort ging es zum Abendessen in die Innenstadt von Kingston. Ich hatte eine große Schüssel Nudeln mit Huhn; und Bier.
 
@@ -74,6 +74,7 @@ Hinter einem Wellenbrecher direkt neben dem Ahoi-Bootsvermietung konnte ich kurz
 
 Nach der Wende führte der Kurs zurück nach Norden während ich - noch immer in den Wellen - fortwährend unzitierbare deutsche und englische Schimpfwörter grummelte. Ich nahm einen Kurs hart am Wind, um den Schutz der Halbinsel der gegenüberliegenden Halbinsel auszunutzen. Es gab einige Paddler in Freizeitkajaks ohne Spritzschutz. Ich frage mich, wie viel Wasser sie genommen haben, während sie da draußen waren. Als ich am RMC (Royal Military College) vorbeikam, sah ich dort ein Kanu auf dem Steg. Die Jungs hatten so viel Wasser mitgenommen, dass sie an Land ihr Boot leeren mußten.
 
+![Unterwegs](k2o-7-5-1080.jpg)
 Der Cataraqui war windgeschützt. Es ging gut voran. Ich war um 7:32 am Steg der Kingston Mills Schleusenstation. Die ersten 12 km des Rennens waren geschafft.
 
 Weil ich ein schnelles Kajakmodell paddele, mußte ich in der "Wettkampfkategorie" starten. Ursprünglich hatte ich wie vor zwei Jahren für die "Freizeitkategorie" gemeldet. Die Rennleitung hatte jedoch meine Anmeldung nicht akzeptiert und mich in die Wettkampfkategorie eingestuft. Mit einem EPIC wird man nicht mehr als Freizeitpaddler angesehen. Das wäre an sich kein großes Problem außer für die Regel, dass man keine Unterstützung beim Bewegen seines Kajaks in Anspruch nehmen darf. Das Reglement schreibt vor, dass ich mein Boot ohne fremde Hilfe aus dem Wasser heben muss. Keine Person außer mir darf das Boot bewegen. Meine Crew kann beim Ein- und Aussteigen stabilisieren, mehr ist nicht drin. Ausnahme sind die Schleusen in Old Slys und Long Island, da diese zu schwer zu umtragen sind. Dort wäre es ein Sicherheitsrisiko.
@@ -253,7 +254,7 @@ Nach einem Tag neun Stunden fünf Minuten und 39 Sekunden hielt ich mein GPS an.
 
 Ich war im Ziel!
 
-![Erledigt - im wahrsten Sinne des Wortes](2018-07-22-finished.jpg)
+![Erledigt - im wahrsten Sinne des Wortes](2018-07-22-finished-1920.jpg)
 
 Wer sich für die Details interessiert kann sich die Karte unter diesem [link](https://drive.google.com/open?id=1bIGoepeJ0ixuNrj_76IFFbemKIE&usp=sharing) anschauen.
 
