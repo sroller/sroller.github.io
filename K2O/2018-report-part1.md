@@ -1,6 +1,6 @@
 # K2O - Kingston to Ottawa
 
-Ontario's longest marathon paddle race
+Ontario's longest marathon paddle race (hier zur [Deutschen Version](2018-report-part1.de.md))
 
 ![The author in 2018](k2o-7-6.jpg)
 
