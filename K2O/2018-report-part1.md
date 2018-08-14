@@ -106,9 +106,9 @@ At the race briefing on Friday night we were reminded of the Brass Point Bridge.
 When I approached the bridge it was opened for a jetski to pass through. The operator kept the cars waiting for another 30 seconds and let me pass as well. That was very convenient.
 
 A word on the jetskies or Seadogs as the Bombardier brand is named. Those are a general annoyance. They seem to have less etiquette than "normal" boaters. I'm sure those jetski riders are nice people - on shore. But I came to hate them on the water.
-At some particular occasion in one of the narrow channels before Jones Falls Locks there were two vehicles: One male - probably the father and one with a female and a teenager. They slowly passed me coming from behind in a close distance creating a big wake. Then they stopped 50 m in front of me to discuss a matter while I was catching up and now I was passing them. Two minutes later they seems to have made a decision and move on just to pass me yet again. I was uttering deadly threats on my end towards to extinction of all jetski riders once and for all until they finally disappeared around the next river bend.
+At some particular occasion in one of the narrow channels before Jones Falls Locks there were two vehicles: One male - probably the father and one with a female and a teenager. They slowly passed me coming from behind in a close distance creating a big wake. Then they stopped 50 m in front of me to discuss a matter while I was catching up and now I was passing them. Two minutes later they seems to have made a decision and move on just to pass me yet again. I was uttering deadly threats on my end towards to the extinction of all jetski riders once and for all until they finally disappeared around the next river bend.
 
-Lo and behold - five minutes later they were back returning from whereever they just went now passing me from the front. I considered to call in air support from the RCAF.
+Lo and behold - five minutes later they were back returning from where ever they just went now passing me from the front. I considered to call in air support from the RCAF.
 
 Those guys were just the first of many to come. As it turned out the faster they go the less wake they create. At the Newboro Lock I had some exchange about this with the guys from team Canoe Dig It and they had the same observation.
 
