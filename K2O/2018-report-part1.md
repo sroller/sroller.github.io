@@ -6,7 +6,8 @@ Ontario's longest marathon paddle race (hier zur [Deutschen Version](2018-report
 
 ## Why are you doing this to yourself?
 
-The [K2O](http://kingston2ottawa.ca) is an iconic race. For me it is THE iconic paddle race. It takes place on the [Rideau Waterway](https://en.wikipedia.org/wiki/Rideau_Canal) which is managed by Parks Canada. The waterway is a designated UNESCO World Heritage Site. It connects the old capital Kingston with the current capital Ottawa.
+The [K2O](http://kingston2ottawa.ca) is an iconic race. For me it is THE iconic paddle race. It takes place on the [Rideau Waterway](https://en.wikipedia.org/wiki/Rideau_Canal) which is managed by Parks Canada.
+The waterway is a designated UNESCO World Heritage Site. It connects the old capital Kingston with the current capital Ottawa.
 
 For those who want to explore the area there are good online resources available, eg. [Watson's Paddling Guide to the Rideau Canal](http://www.rideau-info.com/canal/paddling/guides.html). It's said that the tour from Ottawa to Kingston or vice versa is a good week-long trip.
 
@@ -14,20 +15,24 @@ There are other ultra marathon paddle races in North America like the [Yukon Riv
 
 Not so in the K2O. The winning teams often make it under 24 hours and the cut off time at the finish is 36 hours.
 
-The first time I read about the race was in 2014. There was this webpage about this crazy race on the Rideau. At that time I only paddled a 14 feet long 29 inches wide sit-on-top kayak. By no means this was a boat in which one could race. As it turned out the race director was a coworker of my wife. He tried to bring me in as member of a relay team. But I didn't dare, I wasn't ready back then. I went to Iceland for a paddle trip that Summer. In the Fall I purchased my first fiber glass boat - a Wilderness Tempest 170PRO.
+The first time I read about the race was in 2014. There was a webpage about this crazy race on the Rideau. At that time I only paddled a 14 feet long 29 inches wide sit-on-top kayak.
+By no means this was a boat in which one could race. As it turned out the race director was a coworker of my wife. He tried to bring me in as member of a relay team.
+But I didn't dare, I wasn't ready back then. I went to Iceland for a paddle trip that Summer. In the Fall I purchased my first fiber glass boat - a Wilderness Tempest 170PRO.
 
-Things changed. The K2O changed. Now they offered a half distance for chicken like me who didn't want to go 200 km the very first time.
-100 km seemed more doable.
+Things changed. The K2O changed. Now they offered a half distance for a chicken like me who didn't want to go 200 km the very first time. 100 km seemed more doable.
 
-I found another crazy guy. He works just down the hallway in my office. The two of us paddled from the 8th line bridge North of West Montrose to Paris, Ontario on the Grand River. We logged [88.3 km](https://www.endomondo.com/users/2331405/workouts/578506690). Colleagues at work called it an "Epic Paddle". The name stuck. We were disappointed that we hadn't crossed the magical 90 km marker. So in 2017 we started a few kilometers upstream at the lower bridge of the Elora Gorge. After that day the odometer on my GPS stopped at [93.4 km](https://www.endomondo.com/users/2331405/workouts/958850726). Given the new starting point it was also way more catchy to say: "We paddled from the Elora Gorge to Paris, ON in one day". Nobody knew where the 8th Line crosses the Grand after all.
-This year - 2018 - we were four kayaks and one canoe to cover the [full distance](https://www.endomondo.com/users/2331405/workouts/1137787341). We're planning an **Epic Paddle** for the next year. It will be open for everybody who thinks can paddle 94km in 14ish hours. Perhaps we've started a tradition.
+I found another crazy guy. He works just down the hallway in my office. The two of us paddled from the 8th line bridge north of West Montrose to Paris, Ontario on the Grand River. We logged [88.3 km](https://www.endomondo.com/users/2331405/workouts/578506690).
+Colleagues at work called it an "Epic Paddle". The name stuck. We were disappointed that we hadn't crossed the magical 90 km marker. So in 2017 we started a few kilometers upstream at the lower bridge of the Elora Gorge.
+After that day the odometer on my GPS stopped at [93.4 km](https://www.endomondo.com/users/2331405/workouts/958850726).
+Given the new starting point it was also way more catchy to say: "We paddled from the Elora Gorge to Paris, ON in one day".
+Nobody knew where the 8th Line crosses the Grand after all.
+This year - 2018 - we were four kayaks and one canoe to cover the [full distance](https://www.endomondo.com/users/2331405/workouts/1137787341).
+We're planning an **Epic Paddle** for next year. It will be open for everybody who thinks can paddle 94km in 14ish hours. Perhaps we've started a tradition.
+In August 2016 I took my 17ft touring kayak to the K&frac12;O. I went from Kingston to Smiths Falls in 16 hours 24 minutes. I had wait out a thunderstorm with lightning and some torrential rain which cost me one hour.
+I noticed that the good paddlers all seemed to be in an EPIC kayak (this time I mean the brand). After the race I decided if I'd ever go for the full distance I needed an EPIC.
 
-In August 2016 I took my 17ft touring kayak to the K&frac12;O. I went from Kingston to Smiths Falls in 16 hours 24 minutes. I had wait out a thunderstorm with lightning and some torrential rain which costed me one hour.
-I noticed that the good paddlers all seem to be in an EPIC kayak (this time I mean the brand). After the race I decided if I'd ever go for the full distance I needed an EPIC.
-
-I setup an alert on Kijiji. When an ad came up in September I could not not buy it.
-
-I decided to start in 2017. We went to Florida on vacation in November 2016 where I was able to rent a brand new EPIC 18X Sport for two weeks. I paddled every day and clocked eventually 320 km in the mangroves. I registered. We had our Epic paddle in early Summer. Overall I logged more than 1,200 km. I had lined up a bigger shore crew to cover the night. I was prepared.
+I set up an alert on Kijiji. When an ad came up in September I could not not buy it.
+I decided to start in 2017. We went to Florida on vacation in November 2016 where I was able to rent a brand new EPIC 18X Sport for two weeks. I paddled every day and eventually clocked 320 km in the mangroves. I registered. We had our Epic paddle in early Summer. Overall I logged more than 1,200 km. I had lined up a bigger shore crew to cover the night. I was prepared.
 
 What I wasn't prepared for was injury.
 
@@ -38,20 +43,22 @@ Another year, another race. In 2018 everything came together.
 
 ## The Route
 
-The race starts from the Cataraqui Canoe Club in Kingston. First the paddlers have to go out to Lake Ontario before they turn around and come back into the sheltered waters of the Cataraqui River. The route leads North towards the Kingston Mills Lockstation, continues through Colonel By Lake into the River Styx to the Lower Brewers. Cranberry Lake follows the Upper Brewers. At the end of Whitefish Lake lies Jones Falls Lock. The waterway winds through the landscape to Sand Lake, Opinicon Lake, Indian Lake, Clear Lake and finally into Newboro Lake, the first bigger lake.
+The race starts from the Cataraqui Canoe Club in Kingston. First the paddlers have to go out to Lake Ontario before they turn around and come back into the sheltered waters of the Cataraqui River. The route leads north towards the Kingston Mills Lockstation, continues through Colonel By Lake into the River Styx to the Lower Brewers. Cranberry Lake follows the Upper Brewers. At the end of Whitefish Lake lies Jones Falls Lock. The waterway winds through the landscape to Sand Lake, Opinicon Lake, Indian Lake, Clear Lake and finally into Newboro Lake, the first bigger lake.
 The Newboro Lockstation is the highest point on the way to Ottawa. After the lock is passed the way leads through the Upper Rideau Lake to Rideau Narrows.
 
 The Narrows are the 8th portage of the race. The next leg is the second longest of the race. The paddlers will navigate through the Big Rideau and the Lower Rideau Lake to finally arrive in Poonamalie after more than 30 km.
 
-The participants have to portage 11 locks over the next 35 km. When they leave the last one at Burritts Rapids Lock #17 then the _Long Reach_ begins. For endless 40 km there is no lock. It is the longest segment of the race.
+The participants have to portage 11 locks over the next 35 km. When they leave the last one at Burritts Rapids Lock #17 then the _Long Reach_ begins. For an endless 40 km there is no lock. It is the longest segment of the race.
 
-The paddlers who made it to Long Island have already more than 180 km in their backwash. The remaining 14 km are a piece of cake. The last portage at the Black Rapids Lock #13 is a short 165 m. From here it's only 6 km until the racers cross the finishing line at the docks of the Rideau Canoe Club in Ottawa, close to Hog's Back.
+The paddlers who made it to Long Island have already more than 180 km in their backwash. The remaining 14 km are a piece of cake. The last portage at the Black Rapids Lock #13 is a short 165 m.
+From here it's only 6 km until the racers cross the finish line at the docks of the Rideau Canoe Club in Ottawa, close to Hog's Back.
 
 # Race Days
 
 ## Friday
 
-We live in Kitchener, ON. We took Friday off from work and drove to Kingston. I had booked a hotel room less than 15 min drive away from the start at the Cataraqui Canoe Club. We checked in the afternoon. I had a good chat with the folks from [Infinite Blue]. My wife bought me paddle shorts for my birthday in September which I wore for the race.
+We live in Kitchener, ON. We took Friday off from work and drove to Kingston. I had booked a hotel room less than a 15 min drive away from the start at the Cataraqui Canoe Club. We checked in in the afternoon.
+I had a good chat with the folks from [Infinite Blue]. My wife bought me paddle shorts for my birthday in September which I wore for the race.
 
 ![Pre-race briefing](2018-07-20-briefing-1920.jpg)
 
@@ -59,31 +66,34 @@ I stored my boat at the club for the night. A big thank you to the club members 
 
 ## Saturday
 
-The alarm went off at the ungodly time of 04:30am. While I was getting dressed I ran the coffee maker in the room. It was too early to eat something.
-We arrived at the club by 05:15am. I moved my kayak out of the boat house and prepared for the start. I tied my little GPS cradle to the deck, put the charts into the SealLine map case and tethered it to the deck lines. I stored the paddle float behind the back bend, tied the spare paddle and the pump on the after deck.
+The alarm went off at the ungodly time of 04:30am.
+While I was getting dressed I ran the coffee maker in the room. It was too early to eat something.
+We arrived at the club by 05:15am.
+I moved my kayak out of the boat house and prepared for the start. I tied my little GPS cradle to the deck, put the charts into the SealLine map case and tethered it to the deck lines.
+I stored the paddle float behind the back band, tied the spare paddle and the pump on the after deck.
 The throw line and the food went into the day hatch.
 
-I noticed a bit of wind. It was more than I'd have expected that early in the morning. The forecast for Saturday called for South to Southeasterly wind with speed around 10 - 15 km/h and even more in gusts. That didn't sit well with me. I remembered the conditions in 2016 when we had very strong winds from behind which made for a very technical paddling. My concerns were not so much about the river paddling. The wind would merely be an annoyance there. I was afraid of the segment in which we had go on the edge of Lake Ontario.
+I noticed a bit of wind. It was more than I'd have expected that early in the morning. The forecast for Saturday called for south to southeasterly wind with speed around 10 - 15 km/h and even more in gusts. That didn't sit well with me. I remembered the conditions in 2016 when we had very strong winds from behind which made for very technical paddling. My concerns were not so much about the river paddling. The wind would merely be an annoyance there. I was afraid of the segment in which we had go on the edge of Lake Ontario.
 
-I capsized on Lake Huron while on vacation in the vincinity of Bayfield, ON. I blew several rolls and had to wet exit. I couldn't handle my paddle float either. I took me only a few minutes to swim onto the shore with my boat. But it had an impact on my selfconfidence. I exercised several times on Guelph Lake to improve my rolling and to gain experience with self rescue. But the feeling of uneasiness hadn't left me.
+I capsized on Lake Huron while on vacation in the vicinity of Bayfield, ON. I blew several rolls and had to wet exit. I couldn't handle my paddle float either. It took me only a few minutes to swim onto the shore with my boat. But it had an impact on my self-confidence. I practiced several times on Guelph Lake to improve my rolling and to gain experience with self rescue. But the feeling of uneasiness hadn't left me.
 
-I put my mobile phone into energy saving mode. It should it would last for 30 hours. I decided to switch it off because that might not be enough. My idea was to switch it on again when I'd enter the long legs of the race. I nevertheless packed it into a waterproof sleeve and stored in the front pocket of my PFD secured with a carabiner.
+I put my mobile phone into energy saving mode. It needed to last for 36 hours. I decided to switch it off because that might not be enough. My idea was to switch it on again when I entered the long legs of the race. I nevertheless packed it into a waterproof sleeve and stored in the front pocket of my PFD, secured with a carabiner.
 
-The night before I had prepared a bowl of yogurt mixed with half a cup oatmeal and raisins. That was my breakfast. I calculated just under 2 hours before I'd arrive at the first lock station at Kingston Mills. Lynne would use the time to fill my thermos bottles with coffee. I had one and a half liter of water in my hydration bladder on my back which would be plenty.
+The night before I had prepared a bowl of yogurt mixed with half a cup oatmeal and raisins. That was my breakfast. I calculated just under 2 hours before I'd arrive at the first lock station at Kingston Mills. Lynne would use the time to fill my thermos bottles with coffee. I had 1.5 liters of water in my hydration bladder on my back which would be plenty.
 
-I picked up my [SPOT3] device from the registration deck. The SPOT3 is a two-way satellite tracker. The device sends a position update every 5 min via satellite. It can be a live saver if one gets lost in remote areas. It gives the race organisers the position of each racers and also drives the live online tracker during the race. I could also replay the entire race as I found out on the webpage last night.
+I picked up my [SPOT3] device from the registration deck. The SPOT3 is a two-way satellite tracker. The device sends a position update every 5 min via satellite. It can be a life saver if one gets lost in remote areas. It gives the race organisers the position of each racer and also drives the live online tracker during the race. I could also replay the entire race, as I found out on the webpage last night.
 
 One last run to the bathroom where I found a short lineup and off I went to the dock.
 
-The start was the usual crowded place. I always stay at the end of the field. I compete for arrival not for a spot on the podium. While we were waiting for signal I noticed that there was already a paddler in the water and an empty kayak was pushed out of the way. Somebody capsized before the start.
+The start was the usual crowded place. I always stay at the end of the field. I compete for arrival not for a spot on the podium. While we were waiting for the signal I noticed that there was already a paddler in the water and an empty kayak was pushed out of the way. Somebody capsized before the start.
 
 We started eventually at 06:01:00am.
 
-## Kingstons to Rideau Narrows (73 km)
+## Kingston to Rideau Narrows (73 km)
 
 The segment on the big lake was even more uncomfortable than I feared. The waves were probably 0.5m high coming from the left. I tried to cut through them to help my balance. A few times I almost went over.
-While I was fighting the waves Shawn (Team Creek Freak) had already turned and passed me on his way back North. This man is a machine!
-Finally I could catch a break behind the breakwater right next to the Ahoy! Rentals bouys. After I donned my gloves I moved on.
+While I was fighting the waves Shawn (Team Creek Freak) had already turned and passed me on his way back north. This man is a machine!
+Finally I caught a break behind the breakwater right next to the Ahoy! Rentals buoys. After I donned my gloves I moved on.
 
 I made my way back into the Cataraqui River while uttering unquotable German and English swearwords. I took a bearing close to the wind to reach the protection of the Fort Frederick peninsula. There were some paddlers in recreational kayaks without a skirt. I wonder how much water they took while being out there. While I passed the RMC I spotted a canoe on the docks of the RMC. The guys had taken so much water that they had to go to shore to empty their boat.
 
@@ -91,45 +101,57 @@ The Cataraqui River offered sheltered waters. I made good progress and touched t
 
 ![On my way](k2o-7-5-1080.jpg)
 
-I had to start in the "competetion" category because of my kayak. Originally I signed up for the "recreational" category as I did two years ago. The race organisation rejected my application and put me into the competetive group. That would not be a big issue execpt for the rule that a competetive paddler cannot have support moving his kayak. The rules mandate that I have to lift my boat out of the water without help from other people. I'm the only person to move my boat. My crew can stabilize the boat while getting in and out but must not move it. The exceptions are the locks at Old Slys and Long Island because those are too difficult to navigate. It would be safety hazard.
+I had to start in the "competition" category because of my kayak. Originally, I signed up for the "recreational" category as I did two years ago. The race organisers rejected my application and put me into the competitive group. That would not be a big issue except for the rule that a competitive paddler cannot have support moving his kayak. The rules mandate that I have to lift my boat out of the water without help from other people. I'm the only person to move my boat. My crew can stabilize the boat while getting in and out but must not move it. The exceptions are the locks at Old Slys and Long Island because those are too difficult to navigate. It would be safety hazard.
 
 Ok then.
 
 I have the following technique: First I lift the boat on my thighs and in a second step I put it on my (usually right) shoulder. I had forgotten that Kingston Mills is one of the longer portages. It is 350 m long and one has to go up 14 meters. After 100 m of carrying my kayak I surrendered and put the boat on my cart.
-Before I continued I stored my Starbucks Latte and the ginger molasses cookie Lynne had for me. I know, that doesn't sound very sporty for some of the readers. But it works for me.
+Before I continued I put my Starbucks Latte and the ginger molasses cookie Lynne had for me in the day hatch. I know, that doesn't sound very sporting for some of the readers. But it works for me.
 
-Behind Kingston Mills there lies the River Styx. I could see two kayakers in front of me. As I should learn later one of them was Brian King of Ottawa (Team Haulin' Yak - King). I was playing catch up.
+Behind Kingston Mills is the River Styx. I could see two kayakers in front of me. As I would learn later one of them was Brian King of Ottawa (Team Haulin' Yak - King). I was playing catch up.
 
 After the more open River Styx the course leads through narrow channels. I passed the Lower and the Upper Brewers Mills.
 
-At the race briefing on Friday night we were reminded of the Brass Point Bridge. It very low but if you keep your heads very low a paddler can pass it without problems.
-When I approached the bridge it was opened for a jetski to pass through. The operator kept the cars waiting for another 30 seconds and let me pass as well. That was very convenient.
+At the race briefing on Friday night we were reminded of the Brass Point Bridge. It is very low but if you keep your head very low a paddler can pass under without problems.
 
-A word on the jetskies or Seadogs as the Bombardier brand is named. Those are a general annoyance. They seem to have less etiquette than "normal" boaters. I'm sure those jetski riders are nice people - on shore. But I came to hate them on the water.
-At some particular occasion in one of the narrow channels before Jones Falls Locks there were two vehicles: One male - probably the father and one with a female and a teenager. They slowly passed me coming from behind in a close distance creating a big wake. Then they stopped 50 m in front of me to discuss a matter while I was catching up and now I was passing them. Two minutes later they seems to have made a decision and move on just to pass me yet again. I was uttering deadly threats on my end towards to the extinction of all jetski riders once and for all until they finally disappeared around the next river bend.
+When I approached the bridge it was open for a jet ski to pass through. The operator kept the cars waiting for another 30 seconds and let me pass as well. That was very convenient.
 
-Lo and behold - five minutes later they were back returning from where ever they just went now passing me from the front. I considered to call in air support from the RCAF.
+A word on the jet skies or Seadogs as the Bombardier brand is named. Those are a general annoyance. They seem to have less etiquette than "normal" boaters.
+I'm sure those jet ski riders are nice people - on shore. But I came to hate them on the water.
+At some particular occasion in one of the narrow channels before Jones Falls Locks there were two vehicles: One male - probably the father and one with a female and a teenager.
+They slowly passed me coming from behind in a close distance creating a big wake. Then they stopped 50 m in front of me to discuss a matter while I was catching up and now I was passing them.
+Two minutes later they seemed to have made a decision and moved on to pass me yet again. I was uttering deadly threats on my end towards the extinction of all jet ski riders once and for all until they finally disappeared around the next river bend.
 
-Those guys were just the first of many to come. As it turned out the faster they go the less wake they create. At the Newboro Lock I had some exchange about this with the guys from team Canoe Dig It and they had the same observation.
+Lo and behold - five minutes later they were back returning from wherever they just went, now passing me from the front. I considered to call in air support from the RCAF.
 
-After the Brewers I caught up to Brian of team _Haulin' Yak - King_. He paddled a recreational kayak from Clearwater Design. I was amazed how well he was doing. Eventually he would cross the finishing line in Ottawa three hours ahead of me.
-Brian told me that he was actually one of a group of four friends who had signed up for the race. I remember that we had a very brief chat while portaging in Kingston Mills. He didn't seem to have a support team. He told me that he had several people lined up for the different lock station and that the team for Kingston Mills didn't show. Later Lynne met his mother who was supporting all four of the team but gave priority to her son (what else would a mother do?!). The paddler who flipped at the start was one of Brian's buddies. He mentioned that the other three team member were less experienced paddlers. But he came well prepared. It was the first time he started in the K2O. He explained to me that he had paddled the route at least three times in preparation for the competition, but never without overnight stop. Once when they were trying to pull it through the waves on the Big Rideau were so high at night that they had leave the waters and camp overnight windbound.
+Those guys were just the first of many to come. As it turned out the faster they go the less wake they create. At the Newboro Lock I had some exchanges about this with the guys from team Canoe Dig It and they had the same observations.
 
-As it turned out later Brian put his knowledge of the local waterways to a good use. Once he cut a corner going through a pipe I'd have never considered. At Jones Falls Locks he didn't pull out at the official dock. Instead he continued to paddle into Jones Falls Bay shortening the portage. He set in at the docks at Stone Arch Dam Ln. It didn't help much though because I still left before him. He's superior athleticism gave him that big advantage on the second. But for now I should see him before Smiths Falls.
+After the Brewers I caught up to Brian of team _Haulin' Yak - King_. He paddled a recreational kayak from Clearwater Design. I was amazed how well he was doing. Eventually he would cross the finish line in Ottawa three hours ahead of me.
+Brian told me that he was actually one of a group of four friends who had signed up for the race. I remember that we had a very brief chat while portaging in Kingston Mills.
+He didn't seem to have a support team. He told me that he had several people lined up for the different lock stations and that the team for Kingston Mills didn't show.
+Later Lynne met his mother who was supporting all four of the team but gave priority to her son (what else would a mother do?!). The paddler who flipped at the start was one of Brian's buddies. He mentioned that the other three team members were less experienced paddlers. But he came well prepared. It was the first time he started in the K2O. He explained to me that he had paddled the route at least three times in preparation for the competition, but never without an overnight stop. Once when they were trying to pull through, the waves on the Big Rideau were so high at night that they had leave the water and camp overnight windbound.
 
-After leaving the Jones Falls Lockstation the recommended course breaks off the official navigational channel and leads the paddlers through some very narrow connections into Sand Lake. Here I had my first encounter with a cluster of power boats with QC numbers which very racing for the next spot at Davis Lock. Those guys throw even bigger waves than the pesky jetskis. As long as I was aware of the coming wake I turn the kayak towards and cut through the wave. Kayaks are built for this. Canoes might have a more difficult time though.
+As it turned out later Brian put his knowledge of the local waterways to a good use. Once he cut a corner going through a pipe I'd have never considered. At Jones Falls Locks he didn't pull out at the official dock. Instead he continued to paddle into Jones Falls Bay, shortening the portage. He set in at the docks at Stone Arch Dam Ln. It didn't help much though because I still left before him. His superior athleticism gave him that big advantage on the second. But for now I should see him before Smiths Falls.
 
-Oh and by the way all those power boats where still waiting while I portaged Davis Lock unassisted.
+After leaving the Jones Falls Lockstation the recommended course breaks off the official navigational channel and leads the paddlers through some very narrow connections into Sand Lake. Here I had my first encounter with a cluster of powerboats with QC numbers which were racing for the next spot at Davis Lock. Those guys throw even bigger waves than the pesky jet skis. As long as I was aware of the coming wake I turned the kayak towards them and cut through the waves. Kayaks are built for this. Canoes might have a more difficult time though.
 
-At Chaffey's Lockstation I got new coffee from Lynne - yay! Off to Newboro Lake.
+Oh and by the way all those powerboats where still waiting while I portaged Davis Lock unassisted.
 
-Newboro Lake is the first bigger lake and I had to consider the wind conditions. Two years ago I hugged the banks on my Port side. This year I tried to optimize the distance while avoiding the wind. I took a more direct route hopping from island to island while trying to stay in wind protected areas. I didn't matter much though but it was fun.
+At Chaffey's Lockstation I got fresh coffee from Lynne - yay! Off to Newboro Lake.
+
+Newboro Lake is the first bigger lake and I had to consider the wind conditions. Two years ago I hugged the shore on my port side. This year I tried to optimize the distance while avoiding the wind. I took a more direct route, hopping from island to island, while trying to stay in wind protected areas. It didn't matter much though, but it was fun.
 
 ## Rideau Narrows to Poonamalie (30km)
 
-At the Narrows I met _Dos Amigos_ and _Canoe Dig It_. This was lock #8 on our journey to Ottawa. We spent a few minutes together. I had a chat with Radu Crisu of _Dos Amigos_. We knew each other from the [Big East River X] in Huntsville. We compared our GPS recordings so far. I had logged a bit over 73 km and he was at over 75 km. We agreed that this was within the expected variation. Although we used the suggested GPX data from the race organisers we didn't paddle the _exact_ same course. At the end of our conversation Radu said: "75 km is much better than 73, because it is already in the fourth eighth of the race!". It was obvious that he was playing the same mindgames as I was and perhaps all of us. The overall distance is so overwhelming. The way I deal with is to divide the full distance into smaller pieces -- in 10% segments, in thirds, quarters, fifths and so on. We compare it to known routes from home like "I did the _EPIC paddle_ earlier this year which goes over 94 km. I'm still 19 km under that. No big deal!". Those thoughts help to deal with the long and sometimes monotone segments one has to go through.
+At the Narrows I met _Dos Amigos_ and _Canoe Dig It_. This was lock #8 on our journey to Ottawa. We spent a few minutes together. I had a chat with Radu Crisu of _Dos Amigos_.
+We knew each other from the [Big East River X] in Huntsville. We compared our GPS recordings so far. I had logged a bit over 73 km and he was at over 75 km. We agreed that this was within the expected variation.
+Although we used the suggested GPX data from the race organisers we didn't paddle the _exact_ same course.
+At the end of our conversation Radu said: "75 km is much better than 73, because it is already in the fourth eighth of the race!".
+It was obvious that he was playing the same mind games as I was and perhaps all of us. The overall distance is so overwhelming.
+The way I deal with is to divide the full distance into smaller pieces - in 10% segments, in thirds, quarters, fifths and so on.
+We compare it to known routes from home like "I did the _EPIC_ paddle earlier this year which goes over 94 km. I'm still 19 km under that. No big deal!". Those thoughts help to deal with the long and sometimes monotonous segments one has to go through.
 
-The next section would be over 30 km long with no option to get additional food. I left my small 1.5 l Mocke bladder behind and stowed 4 l additional water in a MSR Dromedary bladder with hydration kit in the cockpit behind my backbend. The home made energy balls and a few Clif Bars and Lörabars went into my dayhatch. I knew the sun would set at 8:41pm that day. Daylight would be gone by 9:30pm. I planned to arrive at the next lock before it would be completely dark. I didn't pack any lights yet.
+The next section would be over 30 km long with no option to get additional food. I left my small 1.5 l Mocke bladder behind and stowed 4 liters of additional water in a MSR Dromedary bladder with hydration kit in the cockpit behind my backbend. The home made energy balls and a few Clif Bars and Lörabars went into my dayhatch. I knew the sun would set at 8:41pm that day. Daylight would be gone by 9:30pm. I planned to arrive at the next lock before it would be completely dark. I didn't pack any lights yet.
 
 Lynne would leave the race now and drive to Ottawa where she would hand over the car to my brother-in-law Kent. The plan was that he would drive to Poonamalie to meet me there when I arrived.
 
