@@ -4,7 +4,7 @@ Ontarios längstes Marathon-Paddelrennen
 
 ![Der Autor im Jahr 2018](k2o-7-6-1920.jpg)
 
-## Warum macht man sowas?
+## Warum tut man sich sowas an?
 
 Das [K2O](http://kingston2ottawa.ca) ist eine besondere Regatta. Für mich ist es _das_ Paddelrennen an sich. Es findet auf dem [Rideau Waterway](https://en.wikipedia.org/wiki/Rideau_Canal) statt, der von Parks Canada verwaltet wird. Die Wasserstraße ist von der UNESCO zum Weltkulturerbe erklärt worden. Sie verbindet die alte Hauptstadt Kingston mit der heutigen Hauptstadt Ottawa.
 
