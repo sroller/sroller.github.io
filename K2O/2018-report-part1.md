@@ -298,7 +298,7 @@ There will be a Part 2 with the technical details of the race. Stay tuned!
 [Yukon River Quest]: https://www.yukonriverquest.com/
 [Missouri American Water MR340]: https://rivermiles.com/mr340/
 [Texas Water Safari]: http://www.texaswatersafari.org/
-[Infinite Blue]: (https://infiniteblue.blue/)
+[Infinite Blue]: https://infiniteblue.blue/
 [SPOT3]: https://www.findmespot.com/en/index.php?cid=100
 
 [Mud Cut]: https://www.google.ca/maps/place/44%C2%B052'22.7%22N+76%C2%B005'39.6%22W/@44.872984,-76.096535,715m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d44.872984!4d-76.0943407
