@@ -7,6 +7,7 @@
 [Phil Maffetone]: https://philmaffetone.com
 
 ## Paddling
+#* [Ergometer](ergometer.md)
 
 ### Races
 
