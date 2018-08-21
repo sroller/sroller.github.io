@@ -27,7 +27,7 @@ After that day the odometer on my GPS stopped at [93.4 km](https://www.endomondo
 Given the new starting point it was also way more catchy to say: "We paddled from the Elora Gorge to Paris, ON in one day".
 Nobody knew where the 8th Line crosses the Grand after all.
 This year - 2018 - we were four kayaks and one canoe to cover the [full distance](https://www.endomondo.com/users/2331405/workouts/1137787341).
-We're planning an **Epic Paddle** for next year. It will be open for everybody who thinks can paddle 94km in 14ish hours. Perhaps we've started a tradition.
+We're planning an **Epic Paddle** for next year. It will be open for all paddlers who think they paddle 94km in 14ish hours. Perhaps we've started a tradition.
 In August 2016 I took my 17ft touring kayak to the K&frac12;O. I went from Kingston to Smiths Falls in 16 hours 24 minutes. I had wait out a thunderstorm with lightning and some torrential rain which cost me one hour.
 I noticed that the good paddlers all seemed to be in an EPIC kayak (this time I mean the brand). After the race I decided if I'd ever go for the full distance I needed an EPIC.
 
