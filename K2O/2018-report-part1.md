@@ -143,7 +143,7 @@ Newboro Lake is the first bigger lake and I had to consider the wind conditions.
 
 ## Rideau Narrows to Poonamalie (30km)
 
-At the Narrows I met _Dos Amigos_ and _Canoe Dig It_. This was lock #8 on our journey to Ottawa. We spent a few minutes together. I had a chat with Radu Crisu of _Dos Amigos_.
+At the Narrows I met _Dos Amigos_ and _Canoe Dig It_. This was lock #8 on our journey to Ottawa. We spent a few minutes together. I had a chat with Radu Crisan of _Dos Amigos_.
 We knew each other from the [Big East River X] in Huntsville. We compared our GPS recordings so far. I had logged a bit over 73 km and he was at over 75 km. We agreed that this was within the expected variation.
 Although we used the suggested GPX data from the race organisers we didn't paddle the _exact_ same course.
 At the end of our conversation Radu said: "75 km is much better than 73, because it is already in the fourth eighth of the race!".
