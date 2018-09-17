@@ -7,6 +7,7 @@
 * [News](news.md)
 * [Social](social.md)
 * [Sport](sport.md)
+* [Lifestyle](lifestyle.md)
 
 ## Programming
 ### Languages
