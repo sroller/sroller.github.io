@@ -6,6 +6,7 @@
 
 #### Allgemein
 
+* [Junghans]
 * [Stowa]
 * [Laco]
 * [Sinn]
@@ -13,6 +14,7 @@
 * [Point Tec] - Junkers, Zeppelin, Maximilian
 * [Aristo]
 
+[Junghans]: https://www.junghans.de
 [Stowa]: https://www.stowa.de
 [Laco]: https://www.laco.de
 [Sinn]: https://www.sinn.de
