@@ -28,11 +28,13 @@
 * [A. Lange & Söhne]
 * [Nomos]
 * [Glashütte Original]
+* [Union Glashütte/SA.]
 
 [Mühle]: https://www.muehle-glashuette.de/
 [A. Lange & Söhne]: https://www.alange-soehne.com/
 [Nomos]: https://nomos-glashuette.com/
 [Glashütte Original]: https://www.glashuette-original.com
+[Union Glashütte/SA.]: https://www.union-glashuette.com/
 
 ## Schweiz
 
