@@ -73,9 +73,11 @@
 
 ## Webshops
 
+* [Jomashop]
 * [CityWatches] - Canadian Store
 * [Longisland Watch]
 
+[Jomashop]: https://www.jomashop.com
 [CityWatches]: https://www.citywatches.ca/
 [Longisland Watch]: https://www.longislandwatch.com
 
