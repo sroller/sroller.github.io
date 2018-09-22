@@ -44,6 +44,14 @@
 [Raymond Weill]: https://www.raymond-weil.com/ 
 [IWC]: https://www.iwc.com
 
+## Reich der Mitte
+
+* [Guaqin]
+* [Cadisen]
+
+[Guaqin]: https://www.aliexpress.com/store/2180010?spm=2114.12010608.nav-home.1.6d073a49r8k6h3 
+[Cadisen]: https://cadisen.aliexpress.com/store/2169020?spm=2114.12010608.nav-home.1.72aa586ftDxXix
+
 ## Blogs
 
 * [Automatic Watches For Men]
