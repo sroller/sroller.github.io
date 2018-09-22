@@ -13,6 +13,7 @@
 * [MeisterSinger] one hand watches only!
 * [Point Tec] - Junkers, Zeppelin, Maximilian
 * [Aristo]
+* [Gigandet]
 
 [Junghans]: https://www.junghans.de
 [Stowa]: https://www.stowa.de
@@ -21,6 +22,7 @@
 [MeisterSinger]: https://www.meistersinger.de
 [Point Tec]: www.pointtec.de
 [Aristo]: https://www.aristo-uhren.de
+[Gigandet]: https://gigandet.com
 
 #### Glashütte
 
@@ -64,20 +66,23 @@
 * [Watchuseek] - Watch You Seek Is Watch You Get
 * [Time transformed]
 * [Wound For Life]
+* [Monochrome]
 
 
 [Watchuseek]: https://www.watchuseek.com/
 [Automatic Watches For Men]: https://automaticwatchesformen.com/
 [Time transformed]: https://timetransformed.com
 [Wound For Life]: https://www.woundforlife.com
+[Monochrome]: https://monochrome-watches.com
 
 ## Webshops
 
 * [Jomashop]
 * [CityWatches] - Canadian Store
 * [Longisland Watch]
+* [AuthenticWatches.com]
 
 [Jomashop]: https://www.jomashop.com
 [CityWatches]: https://www.citywatches.ca/
 [Longisland Watch]: https://www.longislandwatch.com
-
+[AuthenticWatches.com]: https://www.authenticwatches.com
