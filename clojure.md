@@ -43,3 +43,10 @@
 [BuildYourOwnLisp]: http://buildyourownlisp.com
 [SBCL]: http://sbcl.org
 
+# Others
+
+* [Lisp became God' Own Language] - I always considered C the language of Gods, but apparently I was wrong
+
+
+[Lisp became God' Own Language]: https://twobithistory.org/2018/10/14/lisp.html
+
