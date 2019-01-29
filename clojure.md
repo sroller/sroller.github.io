@@ -44,7 +44,9 @@
 
 * [Lisp became God' Own Language] - I always considered C the language of Gods, but apparently I was wrong
 * [A Self-Learning, Modern Computer Science Curriculum] - in github.io
+* [Teach Yourself Computer Science]
 
 [Lisp became God' Own Language]: https://twobithistory.org/2018/10/14/lisp.html
 [A Self-Learning, Modern Computer Science Curriculum]: https://functionalcs.github.io/curriculum/
+[Teach Yourself Computer Science]: https://teachyourselfcs.com
 
