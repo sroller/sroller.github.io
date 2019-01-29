@@ -23,14 +23,14 @@ The race organizators provide a GPX file with the recommended course. It mostly 
 
 I finished the K 1/2 O in 2016. This year I was ready to go the full distance.
 
-Starting in the Fall I prepare for some half marathon races in the early Spring. I usually participate in the Chilly Halfmarathon in Burlington, ON on the first Sunday in March.
+Starting in the Fall I prepared myself for some half marathon races in the early Spring. I usually participate in the Chilly Halfmarathon in Burlington, ON on the first Sunday in March.
 
-I started paddling this Spring as soon as the Grand River was safe end of March. I was on the water on 36 days before the K2O. I paddled The Dam Hespeler Race in April (20km) and the Big East River X Race in May (40km).
+I started paddling this Spring as soon as the Grand River was safe by the end of March. I was on the water for 36 days before the K2O. I paddled The Dam Hespeler Race in April (20km) and the Big East River X Race in May (40km).
 I also organized and paddled the 3rd edition of the "EPIC Paddle" from Elora Gorge to Paris, ON on the Grand River. This is an open event hosted by our Waterloo Wellington Canoe and Kayak Club of which I'm a member. This covers a distance of about 95 km slow moving downstream. This year it took us about 14 hours from 6am to 8pm.
 
 Then I paddled 65 km in 10 hours overnight from Wilsons Flat to Cambridge, ON to test my night equipment and to learn about myself paddling alone in the dark.
 
-Overall I logged 770 km since March.
+Overall I logged 770 km from March until July.
 
 
 
