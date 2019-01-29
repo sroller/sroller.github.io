@@ -2,6 +2,7 @@
 
 ## Course
 
+The race organizators provide a GPX file with the recommended course. It mostly follows the navigational channel. There were some areas on 
 - GPS track not always reliable because of weed
 - some short cuts taken by locals
 - couldn't find the entry to the mud cut
