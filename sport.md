@@ -6,6 +6,8 @@
 
 [Phil Maffetone]: https://philmaffetone.com
 
+## [Schach](chess.md)
+
 ## Paddling
 
 ### Races
