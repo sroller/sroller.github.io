@@ -7,6 +7,9 @@
 * [Li(bre)chess](https://www.lichess.org)
 * [365chess](https://www.365chess.com)
 
+## Training
+* [Chessbase Tactics](https://tactics.chessbase.com)
+
 ## Indivduals
 * [Reuben Fine's 30 Rules Of Chess]
 * [GM Spraggett On Chess](https://www.spraggettonchess.com)
