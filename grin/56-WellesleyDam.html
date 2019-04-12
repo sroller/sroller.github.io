@@ -7,7 +7,7 @@
 	</head>
 	<body onload="init_page()">
 	<h1>Wellesley Dam</h1>
-	<form action="http://kiwis.grandriver.ca/KiWIS/KiWIS?service=kisters&type=queryServices&request=gettimeseriesvalues&datasource=0&format=html&header=true">
+	<form action="https://waterdata.grandriver.ca/KiWIS/KiWIS?service=kisters&type=queryServices&request=gettimeseriesvalues&datasource=0&format=html&header=true">
 		<input type="hidden" name="service" value="kisters">
 		<input type="hidden" name="type" value="queryServices">
 		<input type="hidden" name="request" value="getTimeSeriesValues">
@@ -128,6 +128,14 @@
 			
 			<label class="form-check-label" for="id-14483042">
   precipitation normal (7d.Totals)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-19811042" value="19811042" >
+			
+			<label class="form-check-label" for="id-19811042">
+  precipitation normal (01.GRCA.LOGGER.NRT.SODA.PC)
 			</label>
 		</div>
 		

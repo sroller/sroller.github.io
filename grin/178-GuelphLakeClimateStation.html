@@ -7,7 +7,7 @@
 	</head>
 	<body onload="init_page()">
 	<h1>Guelph Lake Climate Station</h1>
-	<form action="http://kiwis.grandriver.ca/KiWIS/KiWIS?service=kisters&type=queryServices&request=gettimeseriesvalues&datasource=0&format=html&header=true">
+	<form action="https://waterdata.grandriver.ca/KiWIS/KiWIS?service=kisters&type=queryServices&request=gettimeseriesvalues&datasource=0&format=html&header=true">
 		<input type="hidden" name="service" value="kisters">
 		<input type="hidden" name="type" value="queryServices">
 		<input type="hidden" name="request" value="getTimeSeriesValues">
@@ -120,6 +120,22 @@
 			
 			<label class="form-check-label" for="id-14423042">
   precipitation normal (7d.Totals)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-19693042" value="19693042" >
+			
+			<label class="form-check-label" for="id-19693042">
+  precipitation normal (01.GRCA.LOGGER.NRT.SODA.PC)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-19694042" value="19694042" >
+			
+			<label class="form-check-label" for="id-19694042">
+  precipitation normal (01.GRCA.LOGGER.NRT.SODA.PN)
 			</label>
 		</div>
 		

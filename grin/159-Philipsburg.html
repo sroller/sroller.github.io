@@ -7,7 +7,7 @@
 	</head>
 	<body onload="init_page()">
 	<h1>Philipsburg</h1>
-	<form action="http://kiwis.grandriver.ca/KiWIS/KiWIS?service=kisters&type=queryServices&request=gettimeseriesvalues&datasource=0&format=html&header=true">
+	<form action="https://waterdata.grandriver.ca/KiWIS/KiWIS?service=kisters&type=queryServices&request=gettimeseriesvalues&datasource=0&format=html&header=true">
 		<input type="hidden" name="service" value="kisters">
 		<input type="hidden" name="type" value="queryServices">
 		<input type="hidden" name="request" value="getTimeSeriesValues">
@@ -40,6 +40,22 @@
 			
 			<label class="form-check-label" for="id-10109042">
   height, river stage (07.NRT.PRODUCTION.HOURLY)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-19817042" value="19817042" >
+			
+			<label class="form-check-label" for="id-19817042">
+  height, river stage (01.GRCA.LOGGER.NRT.SODA.HG.PTD)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-19818042" value="19818042" >
+			
+			<label class="form-check-label" for="id-19818042">
+  height, river stage (01.GRCA.LOGGER.NRT.SODA.HG.BBW)
 			</label>
 		</div>
 		

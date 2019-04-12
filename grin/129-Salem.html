@@ -7,7 +7,7 @@
 	</head>
 	<body onload="init_page()">
 	<h1>Salem</h1>
-	<form action="http://kiwis.grandriver.ca/KiWIS/KiWIS?service=kisters&type=queryServices&request=gettimeseriesvalues&datasource=0&format=html&header=true">
+	<form action="https://waterdata.grandriver.ca/KiWIS/KiWIS?service=kisters&type=queryServices&request=gettimeseriesvalues&datasource=0&format=html&header=true">
 		<input type="hidden" name="service" value="kisters">
 		<input type="hidden" name="type" value="queryServices">
 		<input type="hidden" name="request" value="getTimeSeriesValues">
@@ -56,6 +56,22 @@
 			
 			<label class="form-check-label" for="id-18582042">
   height, river stage (01.GRCA.LOGGER.NRT.SODA.HG)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-19404042" value="19404042" >
+			
+			<label class="form-check-label" for="id-19404042">
+  height, river stage (01.WSC.DATAMART.NRT.HG)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-19405042" value="19405042" >
+			
+			<label class="form-check-label" for="id-19405042">
+  waterflow (01.WSC.DATAMART.NRT.QR)
 			</label>
 		</div>
 		

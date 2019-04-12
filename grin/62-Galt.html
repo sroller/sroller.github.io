@@ -7,7 +7,7 @@
 	</head>
 	<body onload="init_page()">
 	<h1>Galt</h1>
-	<form action="http://kiwis.grandriver.ca/KiWIS/KiWIS?service=kisters&type=queryServices&request=gettimeseriesvalues&datasource=0&format=html&header=true">
+	<form action="https://waterdata.grandriver.ca/KiWIS/KiWIS?service=kisters&type=queryServices&request=gettimeseriesvalues&datasource=0&format=html&header=true">
 		<input type="hidden" name="service" value="kisters">
 		<input type="hidden" name="type" value="queryServices">
 		<input type="hidden" name="request" value="getTimeSeriesValues">
@@ -72,6 +72,14 @@
 			
 			<label class="form-check-label" for="id-15534042">
   waterflow (10.Day.Augmentation)
+			</label>
+		</div>
+		
+		<div class="form-check">
+			<input class="for-check-input" type="radio" name="ts_id" id="id-19816042" value="19816042" >
+			
+			<label class="form-check-label" for="id-19816042">
+  height, river stage (01.WSC.LOGGER.NRT.SODA.HG)
 			</label>
 		</div>
 		
