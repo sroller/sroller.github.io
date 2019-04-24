@@ -8,6 +8,7 @@
 * [Social](social.md)
 * [Sport](sport.md)
 * [Lifestyle](lifestyle.md)
+* [Podcasts](podcasts.md)
 
 ## Programming
 ### Languages
