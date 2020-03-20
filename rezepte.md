@@ -2,9 +2,13 @@
 
 ## Sauerteiganregungen
 
-* [Kuechenchaotin]: https://kuechenchaotin.de/sauerteig-selber-machen/ 
-* [Brotbackliebe]: https://brotbackliebeundmehr.com/lievito-madre-italienischer-sauerteig/ 
-* [Ploetzblog]: https://www.ploetzblog.de/faq-archiv/wie-stelle-ich-sauerteig-her/ 
+* [Kuechenchaotin]
+* [Brotbackliebe]
+* [Ploetzblog]
+
+[Kuechenchaotin]: https://kuechenchaotin.de/sauerteig-selber-machen/ 
+[Brotbackliebe]: https://brotbackliebeundmehr.com/lievito-madre-italienischer-sauerteig/ 
+[Ploetzblog]: https://www.ploetzblog.de/faq-archiv/wie-stelle-ich-sauerteig-her/ 
 
 ## Suppe mit Roter Beete
 Zutaten:
