@@ -55,12 +55,14 @@
 ## Outdoor
 
 * [Globetrotter]
+* [Fritz Berger]
 * [Valhalla Kingdom]
 * [MEC]
 * [REI]
 * [SAIL]
 
 [Globetrotter]: https://www.globetrotter.de
+[Friz Berger]: https://www.fritz-berger.de/
 [Valhalla Kingdom]: https://www.valhallaoutdoors.org/
 [MEC]: https://mec.ca
 [REI]: https://rei.com
