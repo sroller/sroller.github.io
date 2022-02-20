@@ -54,3 +54,15 @@
 
 ## Outdoor
 
+* [Globetrotter]
+* [Valhalla Kingdom]
+* [MEC]
+* [REI]
+* [SAIL]
+
+[Globetrotter]: https://www.globetrotter.de
+[Valhalla Kingdom]: https://www.valhalla.ca
+[MEC]: https://mec.ca
+[REI]: https://rei.com
+[SAIL]: https://sail.ca
+
