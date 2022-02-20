@@ -61,7 +61,7 @@
 * [SAIL]
 
 [Globetrotter]: https://www.globetrotter.de
-[Valhalla Kingdom]: https://www.valhalla.ca
+[Valhalla Kingdom]: https://www.valhallaoutdoors.org/
 [MEC]: https://mec.ca
 [REI]: https://rei.com
 [SAIL]: https://sail.ca
