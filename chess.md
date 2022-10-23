@@ -1,13 +1,14 @@
 # Schach
 
-## Playing
-* [The Chess Website](https://www.thechesswebsite.com)
+## Playing chess
+* [Chess Arena](//chessarena.com)
 * [Chess.com](https://www.chess.com)
 * [Chess24.com](https://www.chess24.com)
-* [Li(bre)chess](https://www.lichess.org)
+* [Lichess](https://www.lichess.org)
 * [365chess](https://www.365chess.com)
 
 ## Training
+* [Chessable](//www.chessable.com)
 * [Chessbase Tactics](https://tactics.chessbase.com)
 
 ## Indivduals
