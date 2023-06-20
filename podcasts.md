@@ -9,7 +9,7 @@
 ## seasonal podcasts
 
 * Malcom Gladwell: Revisionist History: http://revisionisthistory.com/
-* Trailblazers with Walter Isaacson (Dell Podcast): https://www.delltechnologies.com/en-us/perspectives/categories/trailblazers/
+* Trailblazers with Walter Isaacson (Dell Podcast): https://www.delltechnologies.com/en-us/perspectives/categories/trailblazers/ (discontinued as of June 2023)
 
 ## one off podcast
 
