@@ -15,7 +15,6 @@
 * [K2O] Kingston to Ottawa - 200 km on the Rideau Canal System
 * Report about the 2018 edition of the race [part1](K2O/2018-report-part1.md), [part2](K2O/2018-report-part2.md)
 * [RiverX] Muskoka River X, Big East River X in Huntsville, ON
-* [That Dam Hespeler] Hespeler Millpond, (last Sunday in April)
 * [Texas Water Safari]
 * [Missouri American Waters MR340]
 * [Everglades Challenge] - from Tampa Bay, FL to Key Largo
@@ -55,13 +54,15 @@
 ## Outdoor
 
 * [Globetrotter]
+* [Fritz Berger]
 * [Valhalla Kingdom]
 * [MEC]
 * [REI]
 * [SAIL]
 
 [Globetrotter]: https://www.globetrotter.de
-[Valhalla Kingdom]: https://www.valhalla.ca
+[Fritz Berger]: https://www.fritz-berger.de/
+[Valhalla Kingdom]: https://www.valhallaoutdoors.org/
 [MEC]: https://mec.ca
 [REI]: https://rei.com
 [SAIL]: https://sail.ca

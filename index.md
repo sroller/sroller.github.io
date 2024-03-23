@@ -15,6 +15,8 @@
 ### Languages
 * [Ruby](ruby.md)
 * [Clojure](clojure.md)
+* [Zig](//ziglang.org)
+* [Nim](//nim-lang.org/)
 
 ### Testing
 * [Capybara] automate with [Ruby] and Capybara
