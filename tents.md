@@ -9,3 +9,6 @@
 * [Nordisk](https://nordisk.eu/tentssite/all-tents/g/164)
 * [Durston (X-Dome)](https://durstongear.com/)
 * [Opeongo](https://opeongo.camp/)
+
+# Car Camping
+* [Vanpackers](https://vanpackers.com)
